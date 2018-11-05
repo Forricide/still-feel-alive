@@ -27,3 +27,8 @@ A quick glance at the calendar reveals that it's a school day. But there's no me
 School's not that important, anyways. What *is* important is figuring out what's going on. Everything is a little fuzzy, today, for some reason, but she's pretty sure that yelling and smashing things isn't normal.
 
 It's a difficult decision, whether to run down the stairs or descend carefully, but 'awkward half-limp' is a suitable compromise. It's hard to tell which leg hurts more, so she gambles on left and stumbles a bit when her right freezes up.
+
+The kitchen is a mess. It's not like it's ever particularly clean, but this is different than 'I didn't wash the dishes last night'. It's more 'drunken bar fight'. Not a pleasant sight. 
+
+A man sits on a chair at the island; it's still in good shape, but two counterparts aren't, legs smashed on the ground. Shards of glass and pools of liquid complete the picture. It looks to be mostly alcohol, but some is blood red, colouring the broken pieces furniture.
+
