@@ -30,7 +30,9 @@ It's a difficult decision, whether to run down the stairs or descend carefully, 
 
 The kitchen is a mess. It's not like it's ever particularly clean, but this is different than 'I didn't wash the dishes last night'. It's more 'drunken bar fight'. Not a pleasant sight. 
 
-A man sits on a chair at the island. His chair is still in good shape, but two counterparts aren't, legs smashed on the ground. Shards of glass and pools of liquid complete the picture. It looks to be mostly alcohol, but some is blood red, staining the broken pieces of furniture.
+A man sits on a chair at the island. He faces away from her, but she knows him, maybe. Hunched over too far, clothing too messy, but...
+
+His chair is still in good shape, but two counterparts aren't. They've been almost entirely destroyed, legs broken off and left on the ground. Shards of glass and pools of liquid complete the picture. It looks to be mostly alcohol, but some is blood red, staining the broken pieces of furniture.
 
 He's staring at the wall, humming something to himself.  The tune is almost recognizable, tugging at the corners of her memory.
 
@@ -46,4 +48,18 @@ She cuts off a startled cry, but the man - *Dad* - is already turning.
 
 He stares at her, for a second, then yells, incoherent. 
 
-A step back isn't enough to dodge a flung wine bottle. It smashes against her shoulder, breaks, 
+One cautious step back isn't enough to dodge a flung wine bottle. It smashes against her shoulder, breaks. Remnants splatter her clothing. 
+
+Damp, cold, disgusting.
+
+She shakes, steps over more junk towards the door.
+
+The man is screaming at her, now. Rage, or fear, or something else. It's all the more reason to *get out*, push open the door.
+
+Something heavy hits her in the back as she staggers out the door.
+
+She looks up to see the man staring at her. Eyes darting about, breathing raggedly, red in the face, angry.
+
+Who is he?
+
+The door slams shut.
