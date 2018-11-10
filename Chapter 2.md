@@ -2,7 +2,9 @@
 
 "Don't bother, man. Ain't got shit, look at them."
 
-It is cold. January is never the most pleasant climate, but today has been particularly bad. Almost like the world is trying to punish her. Further, that is.
+It is cold. 
+
+January is never the most pleasant climate, but today has been particularly bad. Almost like the world is trying to torment her. Further, that is.
 
 "I am cold."
 
@@ -12,8 +14,17 @@ Only after the one man turns to stare at her does she realize she's spoken. It's
 
 The other guy snorts. "That joke is shit."
 
-She feels around in her pocket. Yes, there's money in there. Not a lot. Just enough for a bus pass, or two. *Always keep enough money for a bus pass on you. You never know where you'll end up.*
+She feels around in her pocket. Yes, there's money in there. Not a lot. Just enough for a bus pass, or two. *Always keep enough money for a bus pass on you. You never know where you'll end up.* Who said that?
 
 "Like your face, fucker."
 
 "Yes, I have money," she says. Something feels strange about her voice. 
+
+One of them snorts. 
+
+"I got some of that good stuff, yeah?" The first man shows her a baggy. There's some sort of weird, well, something weird in it. She doesn't recognize it, but she can figure it out after a few seconds: drugs. For a moment, she feels a strange sense of pride. It's not the most difficult deduction ever, but anyone this tired would have a hard time figuring things out.
+
+Or so she assumes. Hopes.
+
+*If anyone ever offers you drugs, don't.* *It's life-ruining: I used to have a friend, Katherine, who got into drugs. I'm not sure what happened to her, but it wasn't good.*
+
