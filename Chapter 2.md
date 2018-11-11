@@ -28,3 +28,10 @@ Or so she assumes. Hopes.
 
 *If anyone ever offers you drugs, don't.* *It's life-ruining: I used to have a friend, Katherine, who got into drugs. I'm not sure what happened to her, but it wasn't good.*
 
+A few memories fit together, after a fashion. They're wearing strange clothing and peddling drugs on the street: probably members of the Merchants, one of the city's gangs. She recalls learning about them in school. They were backed by a few parahumans, making them more dangerous than the average dealers, but still considered less of a threat than a fair number of gangs in the area.
+
+What did that say about this city, anyways?
+
+She shakes her head. "No, thank you." Habit.
+
+The man offering her the baggy barks out a laugh. 
