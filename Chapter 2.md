@@ -34,4 +34,10 @@ What did that say about this city, anyways?
 
 She shakes her head. "No, thank you." Habit.
 
-The man offering her the baggy barks out a laugh. 
+The man offering her the baggy barks out a laugh. "Little shitter has manners, 'least. Should fuck off, though, y'know? Don't want to be in this part of town."
+
+He's right, she doesn't. At this point, she doesn't want to be *anywhere* in this city. 
+
+After a few seconds of them staring at her, she leaves. It was her wall, but it seemed that 'two twenty-something gang members' had more right to it than 'one freshman teenage girl (who was definitely there first)'.
+
+The library is warm, and it's open until eight o'clock on weekdays. She doesn't really feel like reading, but the computers are useful, even if they take three minutes to log into. 
