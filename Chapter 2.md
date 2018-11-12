@@ -38,6 +38,32 @@ The man offering her the baggy barks out a laugh. "Little shitter has manners, '
 
 He's right, she doesn't. At this point, she doesn't want to be *anywhere* in this city. 
 
-After a few seconds of them staring at her, she leaves. It was her wall, but it seemed that 'two twenty-something gang members' had more right to it than 'one freshman teenage girl (who was definitely there first)'.
+After a few seconds of them staring at her, she leaves. It was *her* wall, but apparently 'two twenty-something gang members' had more right to it than 'one sophomore teenage girl (who was definitely there first)'.
 
 The library is warm, and it's open until eight o'clock on weekdays. She doesn't really feel like reading, but the computers are useful, even if they take three minutes to log into. 
+
+By the time her session is up, she's sick of the news. It's just too *depressing*. There's so much in this city to worry about. Reading articles about gang wars or corruption in the recent election or drive-by shootings or deaths in schools or a surge in local Nazi recruitment is... almost enough to make her sick.
+
+Even if she wasn't sick already, that is.
+
+The librarians are giving her strange looks, so she retreats deeper into the library. There's a nice corner with a fresh newspaper, which is where she realizes her mistake: using the computer to read the news, leaving her with nothing to do when her hour was up.
+
+Well, she could read a book, of course. But it's hard enough to focus on a brief article. It's hard to imagine anything much longer going well.
+
+At least the tabloids are interesting.
+
+Apparently there's a new, stylish gang in town. The *Undersiders*. Nothing in the news about them, but apparently Johnny Idgetown knows something that other journalists don't. They're actually employed by Parian ("the local fashion-slash-cape guru, with plenty of financial capital to back a covert advertisement"), and she custom-made their costumes.
+
+The piece is accompanied by a photograph of the group. Shot from a window or something along those lines, it shows them riding gigantic monsters and trailing black smoke.
+
+Their clothing comes off more intimidating than it does compelling, but maybe that's what capes are looking for?
+
+She wakes up to a light tap on the back.
+
+"The library's closing."
+
+The librarian meets her eyes as she straightens up. There's a bit of hesitation, there - she can't imagine what she looks like, right now - but they don't say anything.
+
+Probably for the better.
+
+The night is colder than the one before. 
