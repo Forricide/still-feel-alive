@@ -54,7 +54,7 @@ At least the tabloids are interesting.
 
 Apparently there's a new, stylish gang in town. The *Undersiders*. Nothing in the news about them, but apparently Johnny Idgetown knows something that other journalists don't. They're actually employed by Parian ("the local fashion-slash-cape guru, with plenty of financial capital to back a covert advertisement"), and she custom-made their costumes.
 
-The piece is accompanied by a photograph of the group. Shot from a window or something along those lines, it shows them riding gigantic monsters and trailing black smoke.
+The piece is accompanied by a photograph of the group. Shot from a window or something along those lines, it shows them riding gigantic monsters and trailing black smoke. Like the four horsemen, perhaps, but five, and less impressive.
 
 Their clothing comes off more intimidating than it does compelling, but maybe that's what capes are looking for?
 
@@ -67,3 +67,19 @@ The librarian meets her eyes as she straightens up. There's a bit of hesitation,
 Probably for the better.
 
 The night is colder than the one before. 
+
+She hasn't slept much, recently. Spending nights wandering the city is *nice*, in a strange way. It's a different way of looking at the world, at her surroundings. 
+
+This night blends into day, sunlight illuminating the boardwalk.
+
+It's nice to come here in the morning. Watching the sunrise is satisfying. It reminds her of better times, when things were good. When she had a family.
+
+A family...
+
+She finds an alleyway and lies down behind a dumpster. Although her hoodie covers them up, her cuts are still bleeding, and her stomach feels like it's twisted into a knot. It's still scarily easily to fall asleep.
+
+Her mind is dark. Images of a dark limbo, some place that shouldn't exist but somehow does. There's no light, save for a few stars, the rest blotted out by *something*. Massive beings writhe in the corner of her eyes, but every time she turns to look, there's nothing.
+
+A long time passes, or a short time, not dreaming of anything, but still asleep.
+
+She dreams of concepts, intangible things. Friendship, conveyed through whispered secrets and shared smiles; peace, from slow heartbeats and warm sunlight; home, an image of a regal woman with curled black hair.
