@@ -16,5 +16,24 @@ The couch below it, across from the one she was sleeping on, looks comfortable b
 
 It doesn't take her too long to decide what to do. She's not sure how she ended up here; maybe someone took her in, maybe she found a place to stay last night (*last night?*). Maybe the vague memories of pain and cold and emptiness are just... were just dreams, products of a restless sleep.
 
-Regardless, she's starving, and the kitchenette seems to be a perfect solution.
+Regardless, she's starving, and the kitchenette seems to be a perfect solution. 
 
+Her stomach grumbling, she dives into the fridge, and-
+
+Well, the fridge isn't that different from the rest of the apartment, unfortunately. It's nice, and so is the kitchen, but clean and hardly used. Only a few eggs are left in a carton; they expired last week, and so did the premade salad, the cheese, and the package of sliced meat.
+
+Thankfully, there's bread in the freezer.
+
+While it's toasting, she goes to open the blinds. The view is absolutely stunning, a picturesque American city that she hadn't thought could exist. Maybe it's just the angle (or the full night's rest), but there's just something beautiful about it, the way the early morning sunlight illuminates shining glass skyscrapers pointing out amidst a sprawling city.
+
+It almost reminds her of a picture she saw once, a place someone had wanted to go -
+
+"Who are you? And *what* are you doing in my apartment?"
+
+*Shit*. "Uh, hi!" she says, turning, "Sorry - I'm not sure why I'm here, either, do I know y-"
+
+Then it hits her. And then she knows, she feels that all-too-familiar dread: she's still sleeping. She's dreaming, because this could never be real, would never happen.
+
+She blurts it out, anyways.
+
+"Mom?"
