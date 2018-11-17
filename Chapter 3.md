@@ -1,8 +1,8 @@
-Sleeping under the stars is a nice experience. It's a trifecta of wilderness: the cold; the dim, spotty lights; the dry air. There's an argument to be made that it's better than sleeping inside, if not for the sake of comfort, then for the pursuit of good health.
+Sleeping under the stars is a nice experience. It's the trifecta of wilderness: the cold, that bitter chill; the dim, spotty light; the dry air, crisp in your lungs. There's an argument that could be made that it's better to sleep outside sometimes, if not for the sake of comfort, then for the pursuit of good health. 
 
 Taylor would find it difficult to make that argument, right now. *This couch is amazing*.
 
-She's not even sure whose couch it is. But that doesn't matter, because it's *warm*, it's soft, it's... well, it's actually a fairly mediocre piece of furniture. A fairly mediocre piece of furniture that beats cold asphalt behind a dumpster any day.
+She's not even sure whose couch it is. But that doesn't matter, because it's *warm*, it's soft, it's... well, it's actually a fairly mediocre piece of furniture. An almost decorative couch, nicer in appearance than in comfort. It still, of course, beats cold asphalt behind a dumpster any day.
 
 If she slept, here, she doesn't remember. The last... days? week? is foggy, but at least she feels rested now. Like a weight's been lifted off her shoulders.
 
@@ -10,9 +10,9 @@ Inhale, exhale.
 
 Peace.
 
-She gets up from the couch and looks around. A small painting covers one wall, in the middle is a quote: *I have always imagined that Paradise will be a kind of library.* Its background is a shadowy face, greyscale, regal. 
+She gets up from the couch and looks around. A small painting hangs from one wall. In the middle is a quote: *I have always imagined that Paradise will be a kind of library.* Its background is a blurred face, greyscale, regal. 
 
-The couch below it, across from the one she was sleeping on, looks comfortable but unused. In fact, the entire room - an apartment, it seems - hardly gives off the feeling of being lived in. *It's so clean*.
+The couch below it, across from the one she was sleeping on, looks expensive but unused. In fact, the entire room - an apartment, it seems - hardly gives off the feeling of being lived in. *It's so clean*.
 
 It doesn't take her too long to decide what to do. She's not sure how she ended up here; maybe someone took her in, maybe she found a place to stay last night (*last night?*). Maybe the vague memories of pain and cold and emptiness are just... were just dreams, products of a restless sleep.
 
@@ -37,3 +37,21 @@ Then it hits her. And then she knows, she feels that all-too-familiar dread: she
 She blurts it out, anyways.
 
 "Mom?"
+
+A quirk of her eyebrow. "I don't think so. And I'm going to need an explanation, or I'm calling the cops."
+
+"I- you look so much like her." A swallow. Silence, for a moment, and she can hear her heart beating. "But you're, she's, dead."
+
+The woman's expression seems to waver between empathy and amusement. "I feel rather alive, thank you very much. But I *am* running out of patience."
+
+Patience. Something she's almost forgotten about, taking life as she has recently. It's so easy to just let the world flow around you. 
+
+"I'm, I'm Taylor. And I'm not sure why I'm here... I don't remember anything." *Bitter cold. Darkness, hiding something. Hunger*. *Always hungry.*
+
+
+
+(insert)
+
+She recognizes that name, from reading the news the other day. But it wasn't a political piece, because to the author, he wasn't a politician - but an insight, a shallow vision into another world.
+
+Another Earth.
