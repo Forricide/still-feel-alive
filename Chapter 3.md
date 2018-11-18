@@ -12,7 +12,7 @@ Peace.
 
 She gets up from the couch and looks around. A small painting hangs from one wall. In the middle is a quote: *I have always imagined that Paradise will be a kind of library.* Its background is a blurred face, greyscale, regal. 
 
-The couch below it, across from the one she was sleeping on, looks expensive but unused. In fact, the entire room - an apartment, it seems - hardly gives off the feeling of being lived in. *It's so clean*.
+The couch below it, across from the one she was sleeping on, looks expensive but unused. In fact, the entire room - an apartment, it seems - hardly gives off the feeling of being lived in. *It's so clean*. It's not even decorated; other than the single painting, the walls are bare, and even the miniature kitchen counter has nothing on it.
 
 It doesn't take her too long to decide what to do. She's not sure how she ended up here; maybe someone took her in, maybe she found a place to stay last night (*last night?*). Maybe the vague memories of pain and cold and emptiness are just... were just dreams, products of a restless sleep.
 
@@ -42,15 +42,23 @@ A quirk of her eyebrow. "I don't think so. And I'm going to need an explanation,
 
 "I- you look so much like her." A swallow. Silence, for a moment, and she can hear her heart beating. "But you're, she's, dead."
 
-The woman's expression seems to waver between empathy and amusement. "I feel rather alive, thank you very much. But I *am* running out of patience."
+The woman's expression seems to waver between sympathy and amusement. "I feel rather alive, thank you very much. But I *am* running out of patience."
 
 Patience. Something she's almost forgotten about, taking life as she has recently. It's so easy to just let the world flow around you. 
 
 "I'm, I'm Taylor. And I'm not sure why I'm here... I don't remember anything." *Bitter cold. Darkness, hiding something. Hunger*. *Always hungry.*
 
+It's quiet, and then: *pop*. They're both startled, until Taylor realizes the toast is ready.
 
+"I, uh. I made toast. Are you sure you don't know why I'm here?"
 
-(insert)
+"No, why would I - okay." The woman sighs. "Take the toast, sit down. Let me think for a minute."
+
+Taylor complies. The toast is good - warm, crisp. Also: edible. She watches as the lady, so similar to her mother, checks something at the door. An alarm of some sort, and it looks *new*, just like the rest of the apartment. Practically shiny.
+
+"Okay. I don't know who you are," she says as she returns, sitting down at the table. "But I believe you. You don't look... all right. Why don't you tell me what you remember?"
+
+*Cold, tired, aching.* 
 
 She recognizes that name, from reading the news the other day. But it wasn't a political piece, because to the author, he wasn't a politician - but an insight, a shallow vision into another world.
 
