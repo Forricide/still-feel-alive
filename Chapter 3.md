@@ -58,8 +58,22 @@ Taylor complies. The toast is good - warm, crisp. Also: edible. She watches as t
 
 "Okay. I don't know who you are," she says as she returns, sitting down at the table. "But I believe you. You don't look... all right. Why don't you tell me what you remember?"
 
-*Cold, tired, aching.* 
+*Cold, tired, aching.* "I... I'm not sure. I was outside, but I don't really remember why. And... my father, he, he..." 
+
+*Was that really dad?*
+
+Waking up in her room - her room? - and her own father not recognizing her, then so soon after, this? It was a nightmare. It had to be. 
+
+"I don't know. I don't know what's going on, and it's scary. I keep waking up and not remembering anything. Like, like I've been drugged. And now you, you look so much like my mom did, back when she - am I dreaming? I don't understand."
+
+The lady's mouth morphs into a frown. "That doesn't sound okay. Where do you live?"
+
+Where? It takes her a second. "Southwest of the Docks."
+
+"The... docks? I don't think we have those, here."
 
 She recognizes that name, from reading the news the other day. But it wasn't a political piece, because to the author, he wasn't a politician - but an insight, a shallow vision into another world.
 
 Another Earth.
+
+She's farther away from home than she'd thought.
