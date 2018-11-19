@@ -72,7 +72,17 @@ Where? It takes her a second. "Southwest of the Docks."
 
 "The... docks? I don't think we have those, here."
 
-She recognizes that name, from reading the news the other day. But it wasn't a political piece, because to the author, he wasn't a politician - but an insight, a shallow vision into another world.
+Taylor turns her head, looks out the window again. New skyscrapers, clear sky, but she'd thought it was looking to the West. "Where is this? Where am I?"
+
+"You're in New York."
+
+"New York." No inflection. She sits back. "I can't be in New York. I, I'm from Brockton Bay." *Another city, another* ***state*.**
+
+*"Any thoughts about Edward Fleming's recent success in the polls, Marie?"*
+
+*"Thanks, Bob. Yes, Fleming's been outperforming even the most optimistic of predictions. Statistics mainly show a rise in the polls after the recent debate with Alex Hughes, the opposition party leader."*
+
+Taylor sits up straight. She recognizes that name, from reading the news the other day. But it wasn't a political piece, because to the author, they weren't a politician - but an insight, a shallow vision into another world.
 
 Another Earth.
 
