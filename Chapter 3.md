@@ -28,7 +28,7 @@ While it's toasting, she goes to open the blinds. The view is absolutely stunnin
 
 It almost reminds her of a picture she saw once, a place someone had wanted to go -
 
-"Who are you? And *what* are you doing in my apartment?"
+"Who are you? And *what* are you doing in my room?"
 
 *Shit*. "Uh, hi!" she says, turning, "Sorry - I'm not sure why I'm here, either, do I know y-"
 
@@ -68,7 +68,7 @@ Waking up in her room - her room? - and her own father not recognizing her, then
 
 The lady's mouth morphs into a frown. "That doesn't sound okay. Where do you live?"
 
-Where? It takes her a second. "Southwest of the Docks."
+Where? It takes her a second to dredge up the location. "Southwest of the Docks."
 
 "The... docks? I don't think we have those, here."
 
@@ -77,6 +77,12 @@ Taylor turns her head, looks out the window again. New skyscrapers, clear sky, b
 "You're in New York."
 
 "New York." No inflection. She sits back. "I can't be in New York. I, I'm from Brockton Bay." *Another city, another* ***state*.**
+
+"That... okay. That's quite a ways from here. You don't remember anything at all?" She leans forward, elbows resting on the table. "If you hadn't just appeared out of nowhere in my suite, that sounds like..." A pause. "Well, it doesn't sound good. What's the last day you remember?"
+
+It's hard to look back. She read the paper only a few days ago, it feels like - in the library. But it had been so hard to focus on the words, she hadn't even checked the date. "January... something. Early January. I went back -" *to school* "...my Winter break ended."
+
+
 
 *"Any thoughts about Edward Fleming's recent success in the polls, Marie?"*
 
