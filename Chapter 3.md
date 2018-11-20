@@ -78,11 +78,21 @@ Taylor turns her head, looks out the window again. New skyscrapers, clear sky, b
 
 "New York." No inflection. She sits back. "I can't be in New York. I, I'm from Brockton Bay." *Another city, another* ***state*.**
 
-"That... okay. That's quite a ways from here. You don't remember anything at all?" She leans forward, elbows resting on the table. "If you hadn't just appeared out of nowhere in my suite, that sounds like..." A pause. "Well, it doesn't sound good. What's the last day you remember?"
+"That... okay. That's quite a ways from here. You don't remember anything at all?" She leans forward, elbows resting on the table. "If you hadn't just appeared out of nowhere in my suite, that sounds like..." A pause. "Well, it doesn't sound good. What's the last date you remember?"
 
-It's hard to look back. She read the paper only a few days ago, it feels like - in the library. But it had been so hard to focus on the words, she hadn't even checked the date. "January... something. Early January. I went back -" *to school* "...my Winter break ended."
+It's hard to look back. She read the paper only a few days ago, it feels like - in the library. But it had been so hard to focus on the words, she hadn't even checked the date. "January... something. Early January. I went back -" *to school* "...my Winter break ended. Then some stuff happened, but, I don't know how long it's been."
 
+"I see."
 
+She waits, but the woman doesn't say anything more. "What day is it?"
+
+"February 12." A frown. "You're *sure* you don't know how you ended up in my suite?"
+
+"Positive." She thinks about it for a moment. "I, I can go. I was hoping you would know something, but..."
+
+"No, it's all right. Do you have any money? How were you even thinking of getting home?"
+
+*I wasn't.* "...walk, I guess." She feels around in her pocket. Yes, there's money in there. Not a lot. Just enough for a bus pass, or two. Her mother had always told her to keep at least a little cash on her person; this wouldn't do much, but it was something, at least.
 
 *"Any thoughts about Edward Fleming's recent success in the polls, Marie?"*
 
