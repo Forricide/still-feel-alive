@@ -84,19 +84,29 @@ It's hard to look back. She read the paper only a few days ago, it feels like - 
 
 "I see."
 
-She waits, but the woman doesn't say anything more. "What day is it?"
+She waits, but the woman doesn't say anything more, just glancing at her watch.
+
+"What day is it?"
 
 "February 12." A frown. "You're *sure* you don't know how you ended up in my suite?"
 
-"Positive." She thinks about it for a moment. "I, I can go. I was hoping you would know something, but..."
+"Positive." Taylor thinks about it for a moment. "I, I can go. I was hoping you would know something, but..."
 
 "No, it's all right. Do you have any money? How were you even thinking of getting home?"
 
 *I wasn't.* "...walk, I guess." She feels around in her pocket. Yes, there's money in there. Not a lot. Just enough for a bus pass, or two. Her mother had always told her to keep at least a little cash on her person; this wouldn't do much, but it was something, at least.
 
-*"Any thoughts about Edward Fleming's recent success in the polls, Marie?"*
+"No. Look, you seem exhausted. Why don't you... eat something, I think the television has cable, and when I get back, we'll figure out a way to get you home." She looks at her watch again. "I need to go. I have an important case. Will you be all right?"
 
-*"Thanks, Bob. Yes, Fleming's been outperforming even the most optimistic of predictions. Statistics mainly show a rise in the polls after the recent debate with Alex Hughes, the opposition party leader."*
+Things go by in a blur; Taylor watches as the woman prepares, putting on a well-fitting suit. It's a semi-transformation; she already looked professional, but she becomes even more so. Her suitcase is that last thing visible as she rushes out of the room, door slamming shut behind her.
+
+Taylor turns on the television.
+
+It's a political show. She considers changing channels, but she can't think of anything else that would provide more interest. It's easy to zone out to, at least.
+
+*"...thoughts about Edward Fleming's recent success in the polls, Marie?"*
+
+*"Thanks, Bob. Yes, Fleming's been outperforming even the most optimistic of predictions." ... "Statistics mainly show a rise in the polls after the recent debate with Alex Hughes..."*
 
 Taylor sits up straight. She recognizes that name, from reading the news the other day. But it wasn't a political piece, because to the author, they weren't a politician - but an insight, a shallow vision into another world.
 
