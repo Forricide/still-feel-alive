@@ -1,3 +1,5 @@
-Annette is a good host, far more than she deserves. The woman isn't around much, only living in the apartment temporarily while she's the attorney for a large case. She's still fine with Taylor staying there while she's gone, even picking up food on her way back. 
+Annette is a good host, far more than Taylor deserves. The woman isn't around much, only living in the apartment temporarily while she's the attorney for a large case. She's still fine with Taylor staying there while she's gone, even picking up food while she's out. 
 
-It's a kindness that Taylor feels she'll never repay in full. 
+When they're both in the suite, she regales Taylor with stories about her job. Never anything about the Current Case (which is sometimes mentioned in vague, yet concerning ways), but instead different tidbits about strange clients or cases she's had in the past. Conversation is fun and easy; she feels like the mother Taylor never had. Or had at one point, maybe, but those are very distant memories.
+
+It's a kindness that Taylor worries she'll never repay in full. Every day it gets a little bit easier to wake up, yet her mind feels more clouded every morning than the last. At one point, Annette brings her a few drugs; despite feeling a little obligated, she doesn't take any. Something about them brings up bad feelings.
