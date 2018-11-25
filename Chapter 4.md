@@ -28,3 +28,8 @@ She didn't mention that she wished every night she could go back. Not to her fam
 
 ...of course, finding her father again would probably help, as well. 
 
+Although Annette seemed to think it had been something else that had brought her to Aleph ("Maybe a villain in your town - some kind of crazy 'mechanic' device?" "What- oh, a tinker?" "Oh, is that what you call them?"), Taylor was starting to wonder if she had powers. If she met whatever nebulous requirements powers had, and had somehow lucked into them, they were certainly subtle: she'd tried to 'will' herself back to Bet a few times, but hadn't had any luck. 
+
+Maybe one day she'd wake up at home... no, not at home. If she was to go back, now, she wanted a fresh start. Not a totally clean slate, of course, but something half-way. Familiar enough to preserve some semblance of... personality, existence. But new opportunities.
+
+The sun is setting slowly in the background. It's a beautiful day for a walk, still warm as she finds her way back to the apartment building. 
