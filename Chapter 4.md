@@ -32,4 +32,24 @@ Although Annette seemed to think it had been something else that had brought her
 
 Maybe one day she'd wake up at home... no, not at home. If she was to go back, now, she wanted a fresh start. Not a totally clean slate, of course, but something half-way. Familiar enough to preserve some semblance of... personality, existence. But new opportunities.
 
-The sun is setting slowly in the background. It's a beautiful day for a walk, still warm as she finds her way back to the apartment building. 
+The sun is setting slowly in the background. It's a beautiful day for a walk, still warm as she finds her way back to the apartment building. Light filters through the streets differently here; the large glass-windowed skyscrapers reflect a calm orange. 
+
+It's peaceful.
+
+She could see herself staying here. Not in this area, maybe not even in this city. She certainly wouldn't be able to stay with Annette forever (or even much longer); the woman was apparently only staying in the city for a few months, for an important case. But this world was beautiful, it had a certain tranquility that she'd never really experienced before.
+
+It was hard to not want it as a new home, after the last had been so... unpleasant.
+
+Home... something about the evening air brings back memories. A better time, when her mother was alive, when she had a father. Ah, her parents, they had been so wonderful. Mom and Dad, Annette and Danny. She can see them in her mind, like layers of fog suddenly melted away, and - 
+
+*Annette?*
+
+The woman she sees is familiar, in more ways than one.
+
+Another world... with millions - no, billions of people. And somehow, in some bizarre twist of fate, she'd found her mother?
+
+She tugs the groceries tighter, starts running. The building is close; it towers over the road just a few blocks away. A red light, she turns left, into the intersection.
+
+Tires squeal, someone screams.
+
+The impact comes a quarter of a second later.
