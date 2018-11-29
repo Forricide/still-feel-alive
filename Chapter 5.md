@@ -32,4 +32,48 @@ A woman is standing in the doorway. For all that the girl exudes a calm apathy, 
 
 She's also holding a gun.
 
-*This is interesting.* The first clear thought she's had in... well... a while, probably.
+*This is interesting.* It's the first clear thought she's had in... well... a while, probably. She isn't particularly inclined towards violence, but there's something about the woman's fury that's, well, enticing.
+
+It makes her feel a little more alive.
+
+She considers an answer. *I don't know* - mediocre. *Who are you?* - potentially over-the-top. 
+
+"I-"
+
+The woman makes the choice for her. She's ducking backwards when the bullet hits, already trying to avoid it, but it just makes things worse. There's a flare of paint, pinpricks flickering across her skull...
+
+Then nothing.
+
+This nothingness is familiar. She's been here before, which doesn't really make sense as she doesn't feel like she 'is' anywhere. 
+
+And yet, this complete lack of agency, unable to even blink... where is she?
+
+Memories start to come back, starting with the most recent events. She remembers viidly the girl and the woman, the calm room and the metal gun, the snippets of not-conversation. It's all there, clear as day.
+
+Slowly, older memories trickle in. She remembers being hit by a truck; she recalls the paradoxically heavy sensation of weightlessness.
+
+They keep coming, but she's already bored. The woman and the girl, they were *exciting*. Interesting. She wants to go back there, a vague wish coalescing into a single thought.
+
+...
+
+"She wasn't real, Elle."
+
+"..."
+
+"I'm sorry that you had to see that. But, she was some kind of zombie thing. Do you recognize her from your dreams?"
+
+"Elle," she says, the word playing across her tongue. It's a nice name. Very distantly, she wonders if she once knew someone with a name like that. Maybe not Elle, but something close?
+
+The woman spins on one foot, gun coming up without hesitation. "You - "
+
+It's almost like looking in a mirror. Not when she looks at the woman - no, when she turns her head to the left, takes in the body propped up against the wall. It's *her*, even if she doesn't quite remember what she looks like she can still recognize herself. Strands of hair cover her- its face, snaking around dead eyes. A bit of black-red blood is pooling out onto its shirt, but not a lot. 
+
+With not a little trepidation: "Hi."
+
+"Talk." The woman gestures with the gun. "Are you human?"
+
+"I, well." It's a good question, one worth thinking about. She doesn't really know *what* she is, other than apparently not dead. But antagonizing the lady with the gun seems a poor idea, so she leaves that for later. "Yes."
+
+"How did you get in here?"
+
+Another question worth consideration. 
