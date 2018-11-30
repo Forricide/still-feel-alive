@@ -12,7 +12,7 @@ Sore throat, she rubs at it. After a few seconds, the girl offers her a half-ful
 
 The girl stares out the window.
 
-It's beautiful outside. Her vantage point is poorer than the girl's, sitting across the room on a small chair, but she can still see the spring light illuminating a city outside. The buildings here are vibrant; it's not even the late afternoon, and yet it already has a distinct 'night life' aura.
+It's beautiful outside. Her vantage point is poorer than the girl's, sitting across the room on a small chair, but she can still see the spring light illuminating a city outside. The buildings here are vibrant; it's not even the late afternoon, and yet it already has a distinct 'night life' aura. A soft, consistent rumbling emanates through the floor. It's soothing.
 
 "It's beautiful outside," she says, voice a little flat.
 
@@ -62,7 +62,7 @@ They keep coming, but she's already bored. The woman and the girl, they were *ex
 
 "I'm sorry that you had to see that. But, she was some kind of zombie thing. Do you recognize her from your dreams?"
 
-"Elle," she says, the word playing across her tongue. It's a nice name. Very distantly, she wonders if she once knew someone with a name like that. Maybe not Elle, but something close?
+"Elle," she speaks, the word playing across her tongue. It's a nice name. Very distantly, she wonders if she once knew someone with a name like that. Maybe not Elle, but something close?
 
 The woman spins on one foot, gun coming up without hesitation. "You - "
 
@@ -72,8 +72,30 @@ With not a little trepidation: "Hi."
 
 "Talk." The woman gestures with the gun. "Are you human?"
 
-"I, well." It's a good question, one worth thinking about. She doesn't really know *what* she is, other than apparently not dead. But antagonizing the lady with the gun seems a poor idea, so she leaves that for later. "Yes."
+"I, well." It's a good question, one worth thinking about. She doesn't really know *what* she is, other than apparently not dead. Not dead as far as she can tell. But making the lady with the gun wait seems a poor idea, so she leaves that for later. "Yes."
 
 "How did you get in here?"
 
-Another question worth consideration. 
+Another question that deserves consideration. If she knew where she was, she might have been able to offer a guess; unfortunately, that's not something she's been keeping track of recently. At least it's easy to be honest. "I don't know."
+
+"How do you *not know*? Do you know where you are?"
+
+Now that she has a moment to think, she notices that the rumbling sound from earlier is a bit louder. Music, maybe. And given the other buildings she'd seen on the street... "A dance club, maybe?"
+
+The woman still doesn't look happy, but her expression shifts more towards frustration than... whatever that had been. "You're in the Palanquin. I'm not sure how you got up here, but I'm going to have to have a talk with Newter."
+
+"The... Palanquin? Newter? Is this Brockton Bay?"
+
+A blink. "Yes."
+
+"In Earth Bet?"
+
+"...Yes."
+
+She leans back a little, contemplative. "Huh. That's weird." 
+
+"Why - why is that weird?"
+
+After a few moments, she realizes she doesn't know. "I think... I was in Aleph, before."
+
+"You're from- no. This is ridiculous. I'm going to get Newter."
