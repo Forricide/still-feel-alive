@@ -82,7 +82,7 @@ Another question that deserves consideration. If she knew where she was, she mig
 
 Now that she has a moment to think, she notices that the rumbling sound from earlier is a bit louder. Music, maybe. And given the other buildings she'd seen on the street... "A dance club, maybe?"
 
-The woman still doesn't look happy, but her expression shifts more towards frustration than... whatever that had been. "You're in the Palanquin. I'm not sure how you got up here, but I'm going to have to have a talk with Newter."
+The woman still doesn't look happy, but her expression shifts more towards frustration than... whatever that had been. "You're in the Palanquin. I'm not sure how you got up here, but I've got a bad feeling I'm going to have to have a talk with Newter."
 
 "The... Palanquin? Newter? Is this Brockton Bay?"
 
@@ -98,4 +98,10 @@ She leans back a little, contemplative. "Huh. That's weird."
 
 After a few moments, she realizes she doesn't know. "I think... I was in Aleph, before."
 
-"You're from- no. This is ridiculous. I'm going to get Newter."
+"You're from- no. This is ridiculous. Are you a parahuman?" *Do you have some bizarre superhuman ability that lets you resurrect after being shot to death?*
+
+She turns her head ninety degrees to regard the maybe-decomposing, definitely-dead clone (or original) of herself. Dead eyes stare back. It should be scary, but death doesn't seem to bother her as much as it once might have. "That... does seem somewhat likely."
+
+Something in woman's stance shifts, not obvious, but noticeable. One foot back, bent slightly. Gun held a little tighter.
+
+"Where"
