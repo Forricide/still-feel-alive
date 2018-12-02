@@ -98,10 +98,11 @@ She leans back a little, contemplative. "Huh. That's weird."
 
 After a few moments, she realizes she doesn't know. "I think... I was in Aleph, before."
 
-"You're from- no. This is ridiculous. Are you a parahuman?" *Do you have some bizarre superhuman ability that lets you resurrect after being shot to death?*
+"You're from- no. This is ridiculous. You're a parahuman." *You have some bizarre superhuman ability that lets you resurrect after being shot to death,* in other words.
 
 She turns her head ninety degrees to regard the maybe-decomposing, definitely-dead clone (or original) of herself. Dead eyes stare back. It should be scary, but death doesn't seem to bother her as much as it once might have. "That... does seem somewhat likely."
 
 Something in woman's stance shifts, not obvious, but noticeable. One foot back, bent slightly. Gun held a little tighter.
 
-"Where"
+"Okay. You're going to tell me what you're doing here. And then you're going to leave."
+
