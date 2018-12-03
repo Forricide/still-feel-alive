@@ -106,3 +106,18 @@ Something in woman's stance shifts, not obvious, but noticeable. One foot back, 
 
 "Okay. You're going to tell me what you're doing here. And then you're going to leave."
 
+It's hard to argue with a woman holding a gun. So she tells her. Not everything; she doesn't have the slightest clue how she ended up in this room, anyways. Instead, she tells her about Annette, the nice woman she met in New York. About how she'd felt lonely, isolated. About how she had wanted to come back to her hometown, to try and live life again.
+
+This was not a particularly long story. Nor was it delivered well, in any sense of the word. It was a jumbled outpouring of confusion, stress, anxiety.
+
+The first time she could remember really being open with someone else.
+
+When she was done, she looked up, met the woman's eyes. She stood there, looking thoughtful; to her left, the strange girl was staring at the dead body.
+
+"I see," she said. "Why don't we get you something to drink, and maybe you can tell me some more? About what you remember, how you got here. The details, if you will."
+
+The gun was no longer being held nearly as tight.
+
+"Why?"
+
+"Let's just say I'm curious."
