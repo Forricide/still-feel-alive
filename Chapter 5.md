@@ -112,11 +112,11 @@ This was not a particularly long story. Nor was it delivered well, in any sense 
 
 The first time she could remember really being open with someone else.
 
-When she was done, she looked up, met the woman's eyes. She stood there, looking thoughtful; to her left, the strange girl was staring at the dead body.
+When she was done, she looks up, meeting the woman's eyes. She's standing there, looking thoughtful; to her left, the strange girl is staring at the dead body.
 
-"I see," she said. "Why don't we get you something to drink, and maybe you can tell me some more? About what you remember, how you got here. The details, if you will."
+"I see," the woman says. "Why don't we get you something to drink, and maybe you can tell me some more? About what you remember, how you got here. The details, if you will."
 
-The gun was no longer being held nearly as tight.
+The gun is no longer being held nearly as tight.
 
 "Why?"
 
