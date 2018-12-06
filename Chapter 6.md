@@ -12,7 +12,7 @@ She snorts. Sarah gives her an odd look.
 
 "Sorry."
 
-The information they provide during discussion is... interesting. Parahumans with weird or unusual powers are actually fairly common. As much as one might hear about invincible or super-strength or flight-capable capes in the news, there are plenty of powered individuals who apparently have utterly bizarre powers. Newter ("I picked my name because I'm kind of like a newt, actually." "Oh, really?") secretes an incredibly potent hallucinogen through his skin. He says it has its uses both in combat and recreationally, although the idea of the latter is somewhat unpleasant to her.
+The information they provide during discussion is interesting. Parahumans with weird or unusual powers are actually fairly common. As much as one might hear about invincible or super-strength or flight-capable capes in the news, there are plenty of powered individuals who apparently have utterly bizarre powers. Newter ("I picked my name because I'm kind of like a newt, actually." "Oh, that makes sense...") secretes an incredibly potent hallucinogen through his skin. He says it has its uses both in combat and recreationally, although the idea of the latter is somewhat unpleasant to her.
 
 Sarah can split things that she touches. Considerably more impressive, especially when she demonstrates. 
 
@@ -24,3 +24,10 @@ Sarah can split things that she touches. Considerably more impressive, especiall
 
 "No drugging the guest, Newter."
 
+He pouts for a moment, then straightens up.
+
+"No drugging me, either."
+
+It's weird, but this is the best she's felt in recent memory. Cheerful, light-hearted discussion, mixed with fascinating tidbits of information. They answer all her questions - more than she would have expected, at least. The world of cape politics, especially in this city she's found herself in again, is intriguing. Being a cape isn't that dangerous, apparently, as long as you do the right thing. (Which isn't necessarily 'the right thing' - an important distinction, according to Sarah.)
+
+Sarah's team specializes in bringing out the strengths in weird, unique powers. The girl she'd met earlier is a 'shaker', capable of bringing her dreams out into the world around her.
