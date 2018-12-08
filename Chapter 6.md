@@ -30,4 +30,9 @@ He pouts for a moment, then straightens up.
 
 It's weird, but this is the best she's felt in recent memory. Cheerful, light-hearted discussion, mixed with fascinating tidbits of information. They answer all her questions - more than she would have expected, at least. The world of cape politics, especially in this city she's found herself in again, is intriguing. Being a cape isn't that dangerous, apparently, as long as you do the right thing. (Which isn't necessarily 'the right thing' - an important distinction, according to Sarah.)
 
-Sarah's team specializes in bringing out the strengths in weird, unique powers. The girl she'd met earlier is a 'shaker', capable of bringing her dreams out into the world around her. 'Gregor the Snail', apparently occupied with some other task, can secrete a variety of chemicals and 'eject' them from his mouth.
+Sarah's team specializes in bringing out the strengths in weird, unique powers. The girl she'd met earlier is a 'shaker', capable of bringing her dreams out into the world around her. 'Gregor the Snail', apparently occupied with some other task, can secrete a variety of chemicals and 'eject' them from his mouth. And their new recruit, Spitfire, is a pyrokinetic. 
+
+"Your team is very diverse."
+
+"It's not unmanageable." She glances at Newter. "Usually."
+
