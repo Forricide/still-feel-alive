@@ -26,7 +26,7 @@ Their conversation continues in a similar vein for what feels like hours. But it
 
 *"Who are you?"*
 
-The words are the same; their speaker, tone, is not.
+The words are the same; their speaker, tone, is not. Between a calm, apathetic whisper and an angry yell, the contrast is like a bucket of ice water to her face.
 
 A woman is standing in the doorway. For all that the girl exudes a calm apathy, this woman is vibrant, energetic. Her voice has a dangerous pitch to it, like a razor blade cuts off the ends of each syllable.
 
