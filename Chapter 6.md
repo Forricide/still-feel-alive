@@ -10,19 +10,21 @@ She snorts. Sarah gives her an odd look.
 
 "Sorry."
 
-Only the three of them are in the room, a cross between an eating area and a lounge. Kitchen areas line two walls; the rest of the space is taken up mostly by couches and coffee tables. They're sitting off to the side, at a proper table. It could seat another eight people, and when she looks around it feels *empty*. There's enough space that some forty people could probably fit in here, and that lack of presence is almost a sensation in and of itself.
+Only the three of them are in the room, a cross between an eating area and a lounge. A kitchen area lines one wall; the rest of the space is taken up mostly by couches and coffee tables. They're sitting off to the side, at a proper table. It could seat another eight people, and when she looks around it feels *empty*. There's enough space that some forty people could probably fit in here, and that lack of presence is almost a sensation in and of itself.
 
 She doesn't comment on it, but Sarah seems to notice. "We don't make as much use of this area as we'd like. Not nearly enough personnel for that."
 
-"Are you planning to expand?" Recruit more people for... whatever this was. A dance club with a luxury lounge, perhaps?
+"Are you planning to expand?" Recruit more people for... whatever this was. A dance club with a luxury lounge, perhaps? And a gun-wielding manager.
 
 "It's hard to say, right now. Things tend to go that way, though, unless you stagnate."
 
-She nods, accepting the answer. It doesn't take long for conversation to turn back towards less mundane topics. 
+She nods, accepting the answer. It doesn't take long for conversation to turn towards an explanation.
 
-The information they provide during discussion is interesting. Parahumans with weird or unusual powers are actually fairly common. As much as one might hear about invincible or super-strength or flight-capable capes in the news, there are plenty of powered individuals who apparently have utterly bizarre powers. Newter ("I picked my name because I'm kind of like a newt, actually." "Oh, that makes sense...") secretes an incredibly potent hallucinogen through his skin. He says it has its uses both in combat and recreationally, although the idea of the latter is somewhat unpleasant to her.
+Sarah is the leader of a group of parahumans - a 'cape team', as it were. She manages a group of five people, including herself, all with superhuman powers. They don't consider themselves 'villains' or 'heroes', but instead they are muscle for hire - mercenaries, really. They own the Palanquin, but it's not their main source of income. 
 
-Sarah can split things that she touches. Considerably more impressive, especially when she demonstrates. 
+The information they provide during discussion is interesting. Parahumans with weird or unusual powers are actually fairly common. As much as one might hear about invincible or super-strength or flight-capable capes in the news, there are plenty of powered individuals who apparently have utterly bizarre powers. Newter ("I picked my name because I'm kind of like a newt, actually." "*Oh*, that makes sense...") secretes an incredibly potent hallucinogen through his skin. He says it has its uses both in combat and recreationally, although the idea of the latter is somewhat unpleasant to her.
+
+Sarah can split things that she touches. Considerably more impressive, especially when she demonstrates. "We didn't need that table anyways."
 
 "Can I show off, too?"
 
@@ -48,7 +50,9 @@ Sarah's team specializes in bringing out the strengths in weird, unique powers. 
 
 The conversation pauses.
 
-"I'm not sure. Quite frankly, you appeared out of nowhere. How should we trust you? But at the same time, I wouldn't want to let a potentially valuable opportunity pass me by." Sarah leans forward, just a little. "From what you've said, you don't remember much more than maybe your first name. You need a place to sleep; you need food. We can provide that, if you're willing to work."
+"I'm not sure. Quite frankly, you appeared out of nowhere. How should I trust you? But at the same time, I wouldn't want to let a potentially valuable opportunity pass me by." Sarah leans forward, just a little. "From what you've said, you don't remember much more than maybe your first name. You need a place to sleep; you need food. We can provide that, at least for a time."
+
+Her expression is still friendly, but it's suddenly sharper. She shivers a bit. "Perhaps we can discuss things further, explore your abilities. if you're willing to work."
 
 Willing to be a cape, she was asking. Use her apparent superhuman powers.
 
