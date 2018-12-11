@@ -52,7 +52,7 @@ The conversation pauses.
 
 "I'm not sure. Quite frankly, you appeared out of nowhere. How should I trust you? But at the same time, I wouldn't want to let a potentially valuable opportunity pass me by." Sarah leans forward, just a little. "From what you've said, you don't remember much more than maybe your first name. You need a place to sleep; you need food. We can provide that, at least for a time."
 
-Her expression is still friendly, but it's suddenly sharper. She shivers a bit. "Perhaps we can discuss things further, explore your abilities. if you're willing to work."
+Her expression is still friendly, but it's suddenly sharper. She shivers a bit. "Perhaps we can discuss things further, explore your abilities. We're always looking for powersets that augment ours; you seem to have a rather unique one yourself. I'd be interested in finding out what you can do, what you're able to accomplish. If you're willing to work with us, that is."
 
 Willing to be a cape, she was asking. Use her apparent superhuman powers.
 
