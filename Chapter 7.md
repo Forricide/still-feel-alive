@@ -13,3 +13,9 @@
 *That seems a bit paradoxical.*
 
 *"Maybe. I just want to have a goal. Something to focus on."*
+
+Dreaming.
+
+Always dreaming.
+
+She opens her eyes, but isn't sure whether this is real life or another vision. The room is mundane enough; a bookshelf littered with miscellaneous trinkets, a plain chair pressed up against a pair of window curtains, her bed positioned directly across the room from the door. 
