@@ -21,3 +21,7 @@ Always dreaming.
 She opens her eyes, but isn't sure whether this is real life or another vision. The room is mundane enough; a bookshelf littered with miscellaneous trinkets, a plain chair pressed up against a pair of window curtains, her bed positioned directly across the room from the door. 
 
 At some point, she gets out of bed, gets dressed with clothes hidden in a dresser at the foot of the bed. They don't perfectly fit her, but she isn't particularly concerned with fashion.
+
+"It's nice to meet you."
+
+She ran into the man in the hallway. He's tall and- well, large. His appearance reminds her of something, like she should know who he is, but 
