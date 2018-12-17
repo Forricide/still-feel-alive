@@ -1,4 +1,4 @@
-*What are you trying to accomplish, Taylor?*
+*What are you trying to accomplish?*
 
 *"Survive."*
 
@@ -18,10 +18,15 @@ Dreaming.
 
 Always dreaming.
 
-She opens her eyes, but isn't sure whether this is real life or another vision. The room is mundane enough; a bookshelf littered with miscellaneous trinkets, a plain chair pressed up against a pair of window curtains, her bed positioned directly across the room from the door. 
+She opens her eyes, but isn't sure whether this is real life or another vision. The room is mundane enough; a bookshelf littered with miscellaneous trinkets, a plain chair pressed up against a pair of window curtains, her bed positioned directly across from the door. 
 
-At some point, she gets out of bed, gets dressed with clothes hidden in a dresser at the foot of the bed. They don't perfectly fit her, but she isn't particularly concerned with fashion.
+At some point, she gets out of bed, gets dressed with clothes hidden in a dresser at the foot of the bed. They don't perfectly fit her, but she isn't particularly concerned with fashion. A mirror provides an unfortunate perspective. She attempts to fix her hair, but doesn't find much success.
 
-"It's nice to meet you."
+"It is nice to meet you." 
 
-She ran into the man in the hallway. He's tall and- well, large. His appearance reminds her of something, like she should know who he is, but 
+She ran into the man in the hallway. He's tall and- well, large. His appearance reminds her of something, like she should know who he is, but that knowledge is just a bit out of reach. Hopefully she'd recognize him if they'd met before; she tries to avoid staring at his translucent skin.
+
+"Hello." Is that an acceptable response? She isn't sure. 
+
+He doesn't seem to mind, though; just nodding and turning away. "Come with me. I will find you something to eat."
+
