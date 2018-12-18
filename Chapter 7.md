@@ -28,5 +28,9 @@ She ran into the man in the hallway. He's tall and- well, large. His appearance 
 
 "Hello." Is that an acceptable response? She isn't sure. 
 
-He doesn't seem to mind, though; just nodding and turning away. "Come with me. I will find you something to eat."
+He doesn't seem to mind, just nodding and turning away. "Come with me. I will find you something to eat."
+
+A lull in conversation allows her time to formulate a question. "What's next?"
+
+They're sitting around a small table; Gregor is eating some kind of cereal, while Sarah seems to be considering a slice of toast. She puts it down to respond: "We'll need to get an idea of what your abilities are. If you're willing, we'll start on that within the next few days. Unless you'd like some more time to get adjusted?"
 
