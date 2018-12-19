@@ -34,3 +34,8 @@ A lull in conversation allows her time to formulate a question. "What's next?"
 
 They're sitting around a small table; Gregor is eating some kind of cereal, while Sarah seems to be considering a slice of toast. She puts it down to respond: "We'll need to get an idea of what your abilities are. If you're willing, we'll start on that within the next few days. Unless you'd like some more time to get adjusted?"
 
+*No.* "That's okay."
+
+Sarah looks at her a bit strangely. "Are you feeling all right? You look a little... paler than than you did on Monday."
+
+Monday? She resists a slight urge to ask what day it is. "I am fine."
