@@ -38,4 +38,10 @@ They're sitting around a small table; Gregor is eating some kind of cereal, whil
 
 Sarah looks at her a bit strangely. "Are you feeling all right? You look a little... paler than than you did on Monday."
 
-Monday? She resists a slight urge to ask what day it is. "I am fine."
+Monday? She resists a slight urge to ask what day it is. "I'm fine."
+
+She begins experimentation with Gregor a few hours later. 
+
+"What do you do?"
+
+Sarah was kind enough to collect her dead 'self' and leave it in the room. what an intelligent sentence
