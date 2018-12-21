@@ -44,4 +44,9 @@ She begins experimentation with Gregor a few hours later.
 
 "What do you do?"
 
-Sarah was kind enough to collect her dead 'self' and leave it in the room. what an intelligent sentence
+They're looking at, well, her. It's a bit strange looking at your own body from the third person. Not nearly as much like looking into a mirror as she would have expected.
+
+The fact that the body was decomposing (abnormally fast, according to Gregor) probably had something to do with that. It smelled like death, but Sarah had said it might be useful, so they'd brought it with them to the 'training room'. 
+
+Coincidentally, Sarah had also declined to join them. 
+
