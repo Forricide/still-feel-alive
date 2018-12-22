@@ -50,3 +50,4 @@ The fact that the body was decomposing (abnormally fast, according to Gregor) pr
 
 Coincidentally, Sarah had also declined to join them. 
 
+The training - if that was what it was - did not really go as planned. Although, she hadn't been privy to a plan of any sort in the first place, so she's still unsure of that.
