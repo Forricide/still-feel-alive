@@ -50,4 +50,6 @@ The fact that the body was decomposing (abnormally fast, according to Gregor) pr
 
 Coincidentally, Sarah had also declined to join them. 
 
-The training - if that was what it was - did not really go as planned. Although, she hadn't been privy to a plan of any sort in the first place, so she's still unsure of that.
+The training - if that was what it was - did not really go as planned. Although, she hadn't been privy to a plan of any sort in the first place, so she's still unsure of that. Mostly, it consisted of her and Gregor talking: he'd ask her a question about her experiences or what she was capable of; she'd think for a few seconds, never coming up with anything.
+
+He had been wondering about her time on Earth Aleph? ok check this zz
