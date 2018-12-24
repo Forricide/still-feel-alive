@@ -52,4 +52,14 @@ Coincidentally, Sarah had also declined to join them.
 
 The training - if that was what it was - did not really go as planned. Although, she hadn't been privy to a plan of any sort in the first place, so she's still unsure of that. Mostly, it consisted of her and Gregor talking: he'd ask her a question about her experiences or what she was capable of; she'd think for a few seconds, never coming up with anything.
 
-He had been wondering about her time on Earth Aleph? ok check this zz
+"Okay. Are you all right if we move to another line of conversation?"
+
+"Yes."
+
+He's brought her tea. It's very nice, better than the coffee that Sarah had made her try. A light hint of blueberry with some other fruit mixed in.
+
+"According to," he pauses. "Ah, Sarah. According to Sarah, you have said that you were previously on Earth Aleph?"
+
+Earth Aleph?
+
+

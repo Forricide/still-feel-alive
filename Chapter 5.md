@@ -48,7 +48,7 @@ This nothingness is familiar. She's been here before, which doesn't really make 
 
 And yet, this complete lack of agency, unable to even blink... where is she?
 
-Memories start to come back, starting with the most recent events. She remembers viidly the girl and the woman, the calm room and the metal gun, the snippets of not-conversation. It's all there, clear as day.
+Memories start to come back, starting with the most recent, the immediate past. She remembers viidly the girl and the woman, the calm room and the metal gun, the snippets of not-conversation. It's all there, clear as day.
 
 Slowly, older memories trickle in. She remembers being hit by a truck; she recalls the paradoxically heavy sensation of weightlessness.
 
@@ -60,9 +60,9 @@ They keep coming, but she's already bored. The woman and the girl, they were *ex
 
 "..."
 
-"I'm sorry that you had to see that. But, she was some kind of zombie thing. Do you recognize her from your dreams?"
+"I'm sorry that... that had to happen. But, she was some kind of zombie thing. HAve you seen her before? Do you recognize her from your dreams?"
 
-"Elle," she speaks, the word playing across her tongue. It's a nice name. Very distantly, she wonders if she once knew someone with a name like that. Maybe not Elle, but something close?
+The girl's name is Elle. It's a nice name. Very distantly, she wonders if she once knew someone with a name like that. Maybe not Elle, but something close? She speaks it out loud, sounds it out: "Elle." The word plays across her tongue, smooth. 
 
 The woman spins on one foot, gun coming up without hesitation. "You - "
 
@@ -100,7 +100,7 @@ After a few moments, she realizes she doesn't know. "I think... I was in Aleph, 
 
 "You're from- no. This is ridiculous. You're a parahuman." *You have some bizarre superhuman ability that lets you resurrect after being shot to death,* in other words.
 
-She turns her head ninety degrees to regard the maybe-decomposing, definitely-dead clone (or original) of herself. Dead eyes stare back. It should be scary, but death doesn't seem to bother her as much as it once might have. "That... does seem somewhat likely."
+She turns her head ninety degrees to regard the maybe-decomposing, definitely-dead clone (or original) of herself. Dead eyes stare back. It should be scary, but death doesn't seem to bother her as much as it once might have. "That does seem somewhat likely."
 
 Something in woman's stance shifts, not obvious, but noticeable. One foot back, bent slightly. Gun held a little tighter.
 
@@ -112,7 +112,7 @@ This was not a particularly long story. Nor was it delivered well, in any sense 
 
 The first time she could remember really being open with someone else.
 
-When she was done, she looks up, meeting the woman's eyes. She's standing there, looking thoughtful; to her left, the strange girl is staring at the dead body.
+When she was done, she looks up, meeting the woman's eyes. She's standing there, looking thoughtful; to her left, the strange girl is still staring at the dead body.
 
 "I see," the woman says. "Why don't we get you something to drink, and maybe you can tell me some more? About what you remember, how you got here. The details, if you will."
 
