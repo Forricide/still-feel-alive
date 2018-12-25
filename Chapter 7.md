@@ -62,4 +62,5 @@ He's brought her tea. It's very nice, better than the coffee that Sarah had made
 
 Earth Aleph?
 
+Another Earth. An alternate dimension, a world broken into by - some mad scientist, a 'tinker', she recalls, just barely. Thinking about it, she does remember something, but it's just a hint. Nothing more than a faint semblance of a memory.
 
