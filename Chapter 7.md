@@ -64,3 +64,20 @@ Earth Aleph?
 
 Another Earth. An alternate dimension, a world broken into by - some mad scientist, a 'tinker', she recalls, just barely. Thinking about it, she does remember something, but it's just a hint. Nothing more than a faint semblance of a memory.
 
+Gregor is looking at her expectantly. "I'm not sure."
+
+"You do not know if you were in another dimension?"
+
+"No, I... I don't remember."
+
+"This is inconvenient." He shifts his head, slightly. It's hard to tell if he's thinking, or just adjusting his neck. She tries to not stare too much at his skin. "Do you remember what your life was like prior to being here? Please excuse me if that is a personal question."
+
+"I'm from here." A bay, Sarah had said. She can't quite recall the name, but she does remember that sense of familiarity. "I think."
+
+"My question was unclear, I apologize. Do you remember your childhood? Your family?"
+
+She looks at the dead copy of her body. Proof that she's a parahuman, someone *special*. It looks just like her, apparently; other than the pale skin and stench, it could be an identical twin.
+
+It's only barely recognizable.
+
+"No."
