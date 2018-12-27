@@ -76,8 +76,28 @@ Gregor is looking at her expectantly. "I'm not sure."
 
 "My question was unclear, I apologize. Do you remember your childhood? Your family?"
 
-She looks at the dead copy of her body. Proof that she's a parahuman, someone *special*. It looks just like her, apparently; other than the pale skin and stench, it could be an identical twin.
+She looks at the dead copy of her body. Proof that she's a parahuman, someone *special*. It looks just like her, apparently; other than the pale skin and stench, it could be her identical twin.
 
 It's only barely recognizable.
 
 "No."
+
+Gregor doesn't reply; instead, he contorts his body, twisting to display a mark on his skin. It's like a stylized 'C', except rotated ninety degrees counterclockwise. It looks like a tattoo, but she can't imagine why anyone would get one; while it's not particularly ugly, it doesn't look *nice* either, just a weird blemish on his - admittedly already weird - skin. 
+
+"Do you recognize this symbol?"
+
+"No."
+
+"Are you sure? Have you seen it anywhere on your body?"
+
+"No."
+
+He shifts his body again, meeting her eyes. "This information may be important. Would you be all right with Sarah searching your body for this symbol? Your back?"
+
+No. She doesn't say it out loud, but the thought makes her uncomfortable. It's hard to place a finger on why, exactly. But it's not something she wants to do, not now.
+
+He seems to see her hesitation. "That was too personal. I am sorry. We can investigate this later, perhaps. When you are more comfortable with us."
+
+She feels bad, for a moment. It's the first real thing anyone here has asked of her, and her reluctance feels like a strike against her. But then she realizes: "We could look at that."
+
+Gregor follows her outstretched arm, pointing behind him towards the wall. *The copy.* "That is a good idea. Would you like to do that now? I can give you some privacy."
