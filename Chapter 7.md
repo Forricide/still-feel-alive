@@ -101,3 +101,8 @@ He seems to see her hesitation. "That was too personal. I am sorry. We can inves
 She feels bad, for a moment. It's the first real thing anyone here has asked of her, and her reluctance feels like a strike against her. But then she realizes: "We could look at that."
 
 Gregor follows her outstretched arm, pointing behind him towards the wall. *The copy.* "That is a good idea. Would you like to do that now? I can give you some privacy."
+
+The smell was the worst part of that experience, psychological trauma coming in at a distant second. All, ultimately, for nothing: "No tattoo."
+
+"Nothing?"
+
