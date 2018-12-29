@@ -106,3 +106,6 @@ The smell was the worst part of that experience, psychological trauma coming in 
 
 "Nothing?"
 
+"No."
+
+Vague disappointment. 
