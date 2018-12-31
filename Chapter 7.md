@@ -108,6 +108,8 @@ The smell was the worst part of that experience, psychological trauma coming in 
 
 "No."
 
-Vague disappointment. 
+"This is all right." Gregor sits down on a bench. "It was just a hunch." 
 
-"I see."
+"Why?"
+
+"Are you asking why I thought there might be a tattoo? Newter and I both have one. We are referred to as 'case fifty-threes', or by many, monsters. We are parahumans, but with physical deformities. Neither of us have any memories of our lives previous to being... like we are now."
