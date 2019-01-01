@@ -112,4 +112,15 @@ The smell was the worst part of that experience, psychological trauma coming in 
 
 "Why?"
 
-"Are you asking why I thought there might be a tattoo? Newter and I both have one. We are referred to as 'case fifty-threes', or by many, monsters. We are parahumans, but with physical deformities. Neither of us have any memories of our lives previous to being... like we are now."
+"Are you asking why I thought there might be a tattoo? Newter and I both have one. We are referred to as 'case fifty-threes', or by many, as monsters. Parahumans with physical deformities. And neither of us have any memories of our lives previous to being... like we are now."
+
+He stops, looking at her. If there's any emotion involved in talking about such sensitive topics, it doesn't show.
+
+"I don't have any... deformities. As you put it."
+
+Gregor nods. "And you do not have the tattoo, either. You are not one of us. I am sorry for presuming otherwise."
+
+"It's okay. You thought that was the case, because I can't remember anything?" 
+
+*Not* anything, a little voice in her head says. *There are still some memories left.*
+
