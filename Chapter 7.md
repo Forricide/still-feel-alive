@@ -124,3 +124,6 @@ Gregor nods. "And you do not have the tattoo, either. You are not one of us. I a
 
 *Not* anything, a little voice in her head says. *There are still some memories left.*
 
+"Yes. It does not matter. I have more questions for you about your power."
+
+Unsurprisingly, she has very few answers.
