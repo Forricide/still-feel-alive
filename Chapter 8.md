@@ -8,7 +8,7 @@ She wants to enjoy life, too. What is that saying? 'Stop and smell the roses.' *
 
 A silly thought. 
 
-Her father says something; Annette laughs, she giggles. It's a bittersweet music. A song she hasn't heard in a long, long time.
+Her father says something: Annette laughs, she giggles. It's a bittersweet music. A song she hasn't heard in a long, long time.
 
-
+She remembers her mother to be dead. Her father... gone, perhaps, in a different sense of the word. This scene makes her lonely, but she knows she can't see either of them, not now. She needs to make new friends.
 
