@@ -10,5 +10,14 @@ A silly thought.
 
 Her father says something: Annette laughs, she giggles. It's a bittersweet music. A song she hasn't heard in a long, long time.
 
-She remembers her mother to be dead. Her father... gone, perhaps, in a different sense of the word. This scene makes her lonely, but she knows she can't see either of them, not now. She needs to make new friends.
+She remembers her mother to be dead. Her father... gone, perhaps, in a different sense of the word. This scene makes her lonely, but they're both worlds away. Distanced in so many more ways than one. 
 
+*I want to make new friends.*
+
+New relationships, new opportunities, new life.
+
+She pictures those more recent memories in her mind. Dreamlike, the scene changes. Talking with Sarah over tea, discussing parahumans and powers with Gregor. Slowly experimenting, safe and easy ideas slowly becoming more radical.
+
+They're far away, too. But she can remember more. Being here before, dreaming, imagining: waking up.
+
+"Shit, shit, check for a pulse."
