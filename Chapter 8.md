@@ -18,6 +18,13 @@ New relationships, new opportunities, new life.
 
 She pictures those more recent memories in her mind. Dreamlike, the scene changes. Talking with Sarah over tea, discussing parahumans and powers with Gregor. Slowly experimenting, safe and easy ideas slowly becoming more radical.
 
-They're far away, too. But she can remember more. Being here before, dreaming, imagining: waking up.
+They're far away, too. But she can remember more. Being here before, dreaming, imagining. 
 
-"Shit, shit, check for a pulse."
+Waking up.
+
+*"She's not breathing, she's not breathing!"*
+
+*"Do you think that I should call an ambulance?"*
+
+"Calm down, Newter. Gregor, not yet."
+
