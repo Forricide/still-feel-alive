@@ -28,3 +28,7 @@ Waking up.
 
 "Calm down, Newter. Gregor, not yet."
 
+"What's going on?"
+
+"Whoa!", "I suppose that I will not call an ambulance.", "Good to see you again, Taylor."
+
