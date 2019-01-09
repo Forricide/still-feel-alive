@@ -28,7 +28,14 @@ Waking up.
 
 "Calm down, Newter. Gregor, not yet."
 
-"What's going on?"
+She clears her throat, quietly. "What's going on?"
 
-"Whoa!", "I suppose that I will not call an ambulance.", "Good to see you again, Taylor."
+"Whoa!" 
+
+"I suppose that I will not call an ambulance." 
+
+"Good to see you again, Taylor." Sarah's there, holding a notepad, her expression a strange mix of its normal intensity, concern, and excitement.
+
+"Glad to be back... I think?" She looks around the room. Gregor's there, and so is Newter, also looking conflicted. He's standing over a prone body. She doesn't feel the need to look much closer. "What happened?"
+
 
