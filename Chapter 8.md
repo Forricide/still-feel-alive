@@ -38,4 +38,21 @@ She clears her throat, quietly. "What's going on?"
 
 "Glad to be back... I think?" She looks around the room. Gregor's there, and so is Newter, also looking conflicted. He's standing over a prone body. She doesn't feel the need to look much closer. "What happened?"
 
+"What do you remember?" 
+
+"We were..." What *had* they been doing? She scratches her head, watches as Sarah writes something down into her notepad. "Talking? Testing things."
+
+"Good, that's good. What's the last thing you remember?"
+
+She thinks about the question, but nothing comes to mind. "I don't remember anything concrete."
+
+"I understand. Well, we were testing your power to see if we could tease it out. We thought it was maybe some kind of regeneration - so we tried giving you some of Newter's, er, hallucinogens." She purses her lips. "It's always been non-lethal, but you still somehow appear to have died. Which I should say sorry for, by the way. We should have considered that there might be a strange interaction."
+
+"It's okay." Being dead doesn't feel that bad. ...didn't?
+
+She concentrates, closing her eyes. She had been somewhere else, somewhere dark and quiet. Where was that place? Vague memories of dreams, distant creatures roiling in the darkness, recognizable people speaking. Cautious happiness, lonely conversation.
+
+"Are you okay?" Newter, snapping her out of her concentration.
+
+"Yeah. Sorry. Just thinking."
 
