@@ -36,7 +36,7 @@ She clears her throat, quietly. "What's going on?"
 
 "Good to see you again, Taylor." Sarah's there, holding a notepad, her expression a strange mix of its normal intensity, concern, and excitement.
 
-"Glad to be back... I think?" She looks around the room. Gregor's there, and so is Newter, also looking conflicted. He's standing over a prone body. She doesn't feel the need to look much closer. "What happened?"
+"Glad to be back... I think?" She looks around the room. Gregor's there, and so is Newter, also looking conflicted. He's standing over a prone body, alternating between staring at her and the limp form. She doesn't feel the need to look much closer. "What happened?"
 
 "What do you remember?" 
 
@@ -52,7 +52,20 @@ She thinks about the question, but nothing comes to mind. "I don't remember anyt
 
 She concentrates, closing her eyes. She had been somewhere else, somewhere dark and quiet. Where was that place? Vague memories of dreams, distant creatures roiling in the darkness, recognizable people speaking. Cautious happiness, lonely conversation.
 
+Pitch black, yawning void, cold emptiness.
+
+A vast being, larger than imagination.
+
+Miniscule, from this perspective.
+
 "Are you okay?" Newter, snapping her out of her concentration.
 
 "Yeah. Sorry. Just thinking."
 
+"That's fine, there's a lot to take in, here. Taylor, would you be all right if we tried this again? I have a few ideas."
+
+"What?!" Newter turns to Sarah, almost glaring. "She literally just- just *died*, in front of me. I don't really want to see that again."
+
+Sarah sighs. "We'll collect some of your drug, then Gregor and I can help Taylor with testing."
+
+Frown from Newter, 
