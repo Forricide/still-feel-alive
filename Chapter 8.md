@@ -68,4 +68,4 @@ Miniscule, from this perspective.
 
 Sarah sighs. "We'll collect some of your drug, then Gregor and I can help Taylor with testing."
 
-Frown from Newter, 
+A few minutes later, they sit around a table, Sarah's notepad angled so that all three of them can read it. 
