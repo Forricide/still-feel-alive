@@ -68,4 +68,10 @@ Miniscule, from this perspective.
 
 Sarah sighs. "We'll collect some of your drug, then Gregor and I can help Taylor with testing."
 
-A few minutes later, they sit around a table, Sarah's notepad angled so that all three of them can read it. 
+A few minutes later, they sit around a table, Sarah's notepad angled so that all three of them can read it. She's laying out a plan; Taylor tries to follow it, but fails miserably. There are a variety of tests to attempt to figure out what she can do: everything from giving her miscellaneous things to 'take with her', to measuring the exact amount of time between her 'dying' and reappearing.
+
+The discussion is somewhat disconcerting. Taylor goes to inspect the dead version of herself.
+
+There's something a little unrealistic about her. Well, *it*. She tries to dehumanize it mentally; she doesn't want to make that connection to her own mortality. Instead, she distracts herself with the inanimate parts - the sweater, for example. It's the same as the one she's wearing, but something about it brings her back to her original thought. It doesn't look quite *real*. There's something off, a combination of miniscule tells that combine into an uncomfortable aura of fakeness.
+
+She pulls at a loose thread, and a full corner of the sweater frays, white stitches straight lines across a broken gray background. 
