@@ -74,4 +74,24 @@ The discussion is somewhat disconcerting. Taylor goes to inspect the dead versio
 
 There's something a little unrealistic about her. Well, *it*. She tries to dehumanize it mentally; she doesn't want to make that connection to her own mortality. Instead, she distracts herself with the inanimate parts - the sweater, for example. It's the same as the one she's wearing, but something about it brings her back to her original thought. It doesn't look quite *real*. There's something off, a combination of miniscule tells that combine into an uncomfortable aura of fakeness.
 
-She pulls at a loose thread, and a full corner of the sweater frays, white stitches straight lines across a broken gray background. 
+She pulls at a loose thread, and a full corner of the sweater frays, white stitches taut cords across a broken gray background. Her glasses come off; she tries the others on. Blurry, plastic.
+
+The smell isn't as disgusting as she'd expected. There's no aroma of feces or sweat; instead, it's just a strong burnt odor, like ash.
+
+Sarah is watching her. "Find anything interesting?"
+
+"Odd. It's different."
+
+"What do you mean?"
+
+She runs her hand lightly through its hair. Disgusting. "Worse. Like... a cheap knock-off." Looking back to where she'd played with the corner of the sweater, it seems even *more* damaged than it had before, like it had never stopped fraying.
+
+Now that she's looking for them, she can see the differences everywhere: its clothing's colours are subtly weaker, washed out; its skin is chalky and ashen; its hair stringy and thin.
+
+"We noticed that with the other one, too. Gregor thinks it might be how your power deals with the clones, sort of like a much slower version of- well, you wouldn't know of them. But it falls in line with a theory of mine. Parahuman powers rarely seem to be particularly... useful, outside of fighting. So there's no need for it to make a quality copy of you, I suppose, if it's just going to be discarded. Like some sort of subconscious resource allo- nevermind. Let's get back to work."
+
+Taylor just nods, not really listening. There's something more interesting about the body, a morbid allure to inspecting it. She idly wonders if it's special, in some way - there's certainly a draw to it, like she just can't quite resist looking for more blemishes, now that she knows of the façade. 
+
+No matter. Sarah beckons her, and she returns to the table, back to reading complicated to-do lists and theories. They're going on a job next week, and she does want to be ready.
+
+If only she knew what 'ready' was, that would be a fair amount easier.
