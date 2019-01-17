@@ -18,10 +18,12 @@ She struggles to remember the rest of the instructions. They come back the slowe
 
 Revive herself... beside Gregor. And she had to take something with her, too, not just her clothing. Something valuable... 
 
-She can feel it in her hands. There's no light to see it, but it's not difficult to puzzle out what it is - a laptop, sturdy plastic slicked with sweat. 
+She can feel it in her hands. There's no light to see it, but it's not difficult to puzzle out what it is - a laptop computer, sturdy plastic slicked with sweat. 
 
 This is everything she needed. Now she just needs to go back.
 
 She closes her eyes, and wakes up.
 
-[simurgh wing?]
+The first thing that hits her is the *smell*. It's blood and chemicals, a disgusting mix like some kind of overrun hospital.
+
+[simurgh wing? probably not, this seems irrelevant]
