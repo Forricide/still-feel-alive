@@ -24,6 +24,8 @@ This is everything she needed. Now she just needs to go back.
 
 She closes her eyes, and wakes up.
 
-The first thing that hits her is the *smell*. It's blood and chemicals, a disgusting mix like some kind of overrun hospital.
+The first thing that hits her is the *smell*. It's blood and chemicals, a disgusting mix like some kind of dilapidated hospital. 
+
+She scans her surroundings. Gregor is to her right; he hasn't noticed her yet, some part of her mind connects him with the smell of chemicals. He's spewing something vile-looking at- at an *army*, a hundred or two hundred men surging towards him, brandishing all sorts of weapons.
 
 [simurgh wing? probably not, this seems irrelevant]
