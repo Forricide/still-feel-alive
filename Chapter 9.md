@@ -26,6 +26,10 @@ She closes her eyes, and wakes up.
 
 The first thing that hits her is the *smell*. It's blood and chemicals, a disgusting mix like some kind of dilapidated hospital. 
 
-She scans her surroundings. Gregor is to her right; he hasn't noticed her yet, some part of her mind connects him with the smell of chemicals. He's spewing something vile-looking at- at an *army*, a hundred or two hundred men surging towards him, brandishing all sorts of weapons.
+She scans her surroundings. Gregor is to her right; he hasn't noticed her yet, some part of her mind connects him with the smell of chemicals. He's spewing something vile-looking at- at an *army*, a hundred or two hundred men surging towards him, brandishing all sorts of weapons. As it gushes over them, dozens fall to the ground, writhing and screaming.
+
+The laptop, completely forgotten, drops from her grip as she stares.
+
+
 
 [simurgh wing? probably not, this seems irrelevant]
