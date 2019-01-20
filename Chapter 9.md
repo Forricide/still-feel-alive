@@ -30,6 +30,6 @@ She scans her surroundings. Gregor is to her right; he hasn't noticed her yet, s
 
 The laptop, completely forgotten, drops from her grip as she stares.
 
-
+Gregor turns at the sound of it hitting the ground. The expression on his face isn't one she's seen before; an electric blue vortex swirls underneath his transparent skin.
 
 [simurgh wing? probably not, this seems irrelevant]
