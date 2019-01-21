@@ -32,4 +32,11 @@ The laptop, completely forgotten, drops from her grip as she stares.
 
 Gregor turns at the sound of it hitting the ground. The expression on his face isn't one she's seen before; an electric blue vortex swirls underneath his transparent skin.
 
+"What are you doing here?"
+
+She thinks. Not for long; there's nothing there, just a thick mental fog. "I don't know. What's going on?"
+
+"We're fighting the- no, forget that." He turns for a moment, spewing out some viscous spray. It splatters across the faces of two dozen men; they slow down, stumbling, before being run over by more behind them. "I can deal with this one. Go find Faultline."
+
 [simurgh wing? probably not, this seems irrelevant]
+
