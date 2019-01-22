@@ -38,5 +38,6 @@ She thinks. Not for long; there's nothing there, just a thick mental fog. "I don
 
 "We're fighting the- no, forget that." He turns for a moment, spewing out some viscous spray. It splatters across the faces of two dozen men; they slow down, stumbling, before being run over by more behind them. "I can deal with this one. Go find Faultline."
 
-[simurgh wing? probably not, this seems irrelevant]
+A nod, mute. Now that she's had a moment to take it all in, the chaos seems more manageable. To her left, Newter leaps at a woman carrying a bow; a moment before contact, she disappears in a burst of light and fire. To her right, a million shards of glass are floating in the air. She sees a familiar figure; they reach out a hand, and the glass *shatters*.
 
+[simurgh wing? probably not, this seems irrelevant]
