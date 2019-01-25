@@ -40,6 +40,8 @@ She thinks. Not for long; there's nothing there, just a thick mental fog. "I don
 
 A nod, mute. Now that she's had a moment to take it all in, the chaos seems more manageable. To her left, Newter leaps at a woman carrying a bow; a moment before contact, she disappears in a burst of light and fire. To her right, a million shards of glass are floating in the air. She sees a familiar figure; they reach out a hand, and the glass *shatters*.
 
-But she can't focus on that, because the ground is changing underneath her. Where the legion of men was charging forward, the concrete buckles, a churning mass of what looks like sand surging up to replace it. She looks away as they tumble over one another, bloodthirsty cries turning strangled. The woman Newter was charging has less than a second to regain footing before 
+But she can't focus on that, because the ground is changing underneath her. Where the legion of men was charging forward, the concrete buckles, a churning mass of what looks like sand surging up to replace it. She looks away as they tumble over one another, bloodthirsty cries turning strangled. The woman Newter was charging appears on a small hill of pavement; she has less than a second to regain footing before he's already flying at her, the terrain warping to block off different escape routes.
+
+She disappears in a burst of flame; Newter flings himself halfway across the street, forcing the woman to retreat once again.
 
 [simurgh wing? this does not seem as bad as I'd previously thought]
