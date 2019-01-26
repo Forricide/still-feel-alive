@@ -42,6 +42,8 @@ A nod, mute. Now that she's had a moment to take it all in, the chaos seems more
 
 But she can't focus on that, because the ground is changing underneath her. Where the legion of men was charging forward, the concrete buckles, a churning mass of what looks like sand surging up to replace it. She looks away as they tumble over one another, bloodthirsty cries turning strangled. The woman Newter was charging appears on a small hill of pavement; she has less than a second to regain footing before he's already flying at her, the terrain warping to block off different escape routes.
 
-She disappears in a burst of flame; Newter flings himself halfway across the street, forcing the woman to retreat once again.
+She disappears in a burst of flame; Newter flings himself halfway across the street, forcing the woman to retreat once again. 
+
+It takes her a moment to force herself to focus, remember her initial objective. Gregor has already left her behind, she moves uncertainly towards Sarah - Faultine - who's started to use her power on odd terrain appearing out of thin air.
 
 [simurgh wing? this does not seem as bad as I'd previously thought]
