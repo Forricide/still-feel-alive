@@ -44,6 +44,13 @@ But she can't focus on that, because the ground is changing underneath her. Wher
 
 She disappears in a burst of flame; Newter flings himself halfway across the street, forcing the woman to retreat once again. 
 
-It takes her a moment to force herself to focus, remember her initial objective. Gregor has already left her behind, she moves uncertainly towards Sarah - Faultine - who's started to use her power on odd terrain appearing out of thin air.
+It takes her a moment to force herself to focus, remember her initial objective. Gregor has already left her behind, she moves uncertainly towards Sarah - Faultine - who's started to use her power on odd terrain appearing out of thin air. A dilapidated water tower cracks in half, basin teetering then careering towards the ground, barreling through thousands of tiny gashes in the air. 
+
+Then they're gone, and Newter is standing behind where they'd been, shaking water off of himself and looking around the street.
 
 [simurgh wing? this does not seem as bad as I'd previously thought]
+
+bad ideas are my lifeline
+
+like this entire "Na(No?)Wri(Mo??)" thing ahahaha
+
