@@ -46,11 +46,11 @@ She disappears in a burst of flame; Newter flings himself halfway across the str
 
 It takes her a moment to force herself to focus, remember her initial objective. Gregor has already left her behind, she moves uncertainly towards Sarah - Faultine - who's started to use her power on odd terrain appearing out of thin air. A dilapidated water tower cracks in half, basin teetering then careering towards the ground, barreling through thousands of tiny gashes in the air. 
 
-Then they're gone, and Newter is standing behind where they'd been, shaking water off of himself and looking around the street.
+Then they're gone, and Newter is standing behind where they'd been, shaking water off of himself and looking around the street. 
 
-[simurgh wing? this does not seem as bad as I'd previously thought]
+And it's over, as far as she can tell. In the span of a few moments, it becomes quiet, and the changes to the terrain start to disappear.
 
-bad ideas are my lifeline
+"It's good to see you again. We were... worried. Did you go somewhere else?"
 
-like this entire "Na(No?)Wri(Mo??)" thing ahahaha
+[simurgh wing? wait no this is an awful idea, why would the teeth have something like this, would be more of a fallen thing]
 
