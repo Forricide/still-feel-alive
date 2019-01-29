@@ -51,6 +51,3 @@ Then they're gone, and Newter is standing behind where they'd been, shaking wate
 And it's over, as far as she can tell. In the span of a few moments, it becomes quiet, and the changes to the terrain start to disappear.
 
 "It's good to see you again. We were... worried. Did you go somewhere else?"
-
-[simurgh wing? wait no this is an awful idea, why would the teeth have something like this, would be more of a fallen thing]
-
