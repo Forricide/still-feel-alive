@@ -51,3 +51,15 @@ Then they're gone, and Newter is standing behind where they'd been, shaking wate
 And it's over, as far as she can tell. In the span of a few moments, it becomes quiet, and the changes to the terrain start to disappear.
 
 "It's good to see you again. We were... worried. Did you go somewhere else?"
+
+"Me?" She meets eyes with the woman - Faultline. No visible weapons, but still exuding a certain sense of *danger* that she's never noticed before.
+
+Faultline sighs. "Yes. You've been gone since Tuesday."
+
+"What day is it?" She might have been able to find that information on the computer. Twinge of regret.
+
+"Monday. It's been almost a week - where were you?"
+
+She thinks.
+
+Beautiful nothingness. A quiet song, whispered silence.
