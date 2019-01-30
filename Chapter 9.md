@@ -63,3 +63,14 @@ Faultline sighs. "Yes. You've been gone since Tuesday."
 She thinks.
 
 Beautiful nothingness. A quiet song, whispered silence.
+
+"Nowhere."
+
+"Okay." She waves at Newter, and he nods. "Where's the laptop I gave you?"
+
+"I dropped it."
+
+"Okay." She's exchanging some kind of series of hand gestures with Gregor. "Do you remember where? It's... not vital, but important."
+
+Vague recollections of plans swim around in her head. Maybe not important. "I will go get it."
+
