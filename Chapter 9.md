@@ -76,7 +76,7 @@ Vague recollections of plans swim around in her head. Where did she leave it? "I
 
 Faultline nods.
 
-She walks away. They leave by van a few minutes later.
+She walks away. They leave by van a few minutes later, dented laptop along for the ride.
 
 "This is what it's like?"
 
