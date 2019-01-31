@@ -72,5 +72,20 @@ Beautiful nothingness. A quiet song, whispered silence.
 
 "Okay." She's exchanging some kind of series of hand gestures with Gregor. "Do you remember where? It's... not vital, but important."
 
-Vague recollections of plans swim around in her head. Maybe not important. "I will go get it."
+Vague recollections of plans swim around in her head. Where did she leave it? "I will go get it."
 
+Faultline nods.
+
+She walks away. They leave by van a few minutes later.
+
+"This is what it's like?"
+
+"What do you mean by 'this'?"
+
+"Being a... cape."
+
+"Sometimes."
+
+Shattered glass, ruined terrain, blood and pain and - stifling, pounding sweat.
+
+"Okay."
