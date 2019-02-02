@@ -1,12 +1,17 @@
-Swimming in a sea of void, she's floating, just barely above the crest of the waves.
+*Swimming in a sea of void, she's floating, just barely above the crest of the waves.*
 
-Nothing meets nothing, she gasps for breath.
+*Nothing meets nothing, she gasps for breath.*
 
-The world is laid out before her. It is innumerable; a single instance would have already been uncountable, but she gazes into an infinitum, a planet folded in on itself over and over. A fractal, branches and trees all within the same spherical forest.
+*The world is laid out before her. It is innumerable; a single instance would have already been uncountable, but she gazes into an infinitum, a planet folded in on itself over and over. A fractal, branches and trees all within the same spherical forest.*
 
-One stands out to her, another in the back of her mind. 
+*One stands out to her, another in the back of her mind.* 
 
-Where to go?
+*Where to go?*
 
-Something else makes the decision for her. Not a step, but a stumble; shoved forward into reality.
+*Something else makes the decision for her. Not a step, but a stumble; shoved forward into reality.*
 
+She breathes in, deep - water.
+
+Choking, thrashing.
+
+A thousand pounds of ocean weigh down on her; she's crushed beneath it, can't move.
