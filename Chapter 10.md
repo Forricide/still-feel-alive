@@ -14,4 +14,13 @@ She breathes in, deep - water.
 
 Choking, thrashing.
 
-A thousand pounds of ocean weigh down on her; she's crushed beneath it, can't move.
+A thousand pounds of ocean weigh down on her; she's crushed beneath it, can't move. Panicking. Drowning, metaphorically and literally.
+
+*Where is this place?*
+
+*Silence.*
+
+*She feels the pull, again.*
+
+*This time, she chooses where to go. Not consciously, nothing as simple as that, but there's an element of certainty in the eventual result.*
+
