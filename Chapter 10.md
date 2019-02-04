@@ -24,3 +24,16 @@ A thousand pounds of ocean weigh down on her; she's crushed beneath it, can't mo
 
 *This time, she chooses where to go. Not consciously, nothing as simple as that, but there's an element of certainty in the eventual result.*
 
+A woman screams. 
+
+She's gasping for air, keeling over. It comes - so easily, blood rushing through her veins.
+
+The most delicious breath she's ever taken. Not that she remembers many others.
+
+"You- you're back."
+
+Neither of them appear particularly calm; the woman's expression is still intermingled surprise and fear, and she's still breathing hard. Still: "...Yes."
+
+"Listen, I-"
+
+"Annette, honey, what's going on?"
