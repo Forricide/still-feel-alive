@@ -37,3 +37,10 @@ Neither of them appear particularly calm; the woman's expression is still interm
 "Listen, I-"
 
 "Annette, honey, what's going on?"
+
+"It's- this is that girl I told you about, Herb."
+
+He squints. "The one that got run over?"
+
+There's a pause. "It would seem so."
+
