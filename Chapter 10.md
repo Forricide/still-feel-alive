@@ -44,3 +44,11 @@ He squints. "The one that got run over?"
 
 There's a pause. "It would seem so."
 
+A brief sensation of pain shoots through her foot. She looks down. No useful information, other than the colour of her shoes.
+
+"So you're a- what do they call them, again? Parahuman?"
+
+They're gray. In the mediocre lighting, they almost blend in with the gray-brown plank flooring. 
+
+"I think so."
+
