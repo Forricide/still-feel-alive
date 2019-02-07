@@ -48,7 +48,8 @@ A brief sensation of pain shoots through her foot. She looks down. No useful inf
 
 "So you're a- what do they call them, again? Parahuman?"
 
-They're gray. In the mediocre lighting, they almost blend in with the gray-brown plank flooring. 
+They're gray. In the mediocre lighting, they almost blend in with the gray-brown plank flooring. It looks cold; she shivers.
 
-"I think so."
+"Maybe."
 
+He snorts. "A bit non-committal, I get you. So you're, uh, here to visit?"
