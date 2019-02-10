@@ -64,3 +64,46 @@ She frowns, just slightly. Wasn't there something she was supposed to be doing? 
 
 *choking*
 
+"Are you okay? Hey, say something!"
+
+Her knees press against the cold floor. Wood buckles a small amount under their weight. A spark of a headache shoots through her head. The floor looks cold, is cold, permeating through her dark blue jeans. Blue on gray-brown, distant light providing pale shadow.
+
+"Do I call something? Anne, do I need to call someone?"
+
+"No, I think - she's fine. Can you get her something to drink?"
+
+Water swishes back and forth. Miniature waves.
+
+She drinks. Breathes deeply.
+
+And then she's choking again, spasming, flailing on the ground.
+
+For a moment, she'd wanted to be here. Faltered, just barely. Is this punishment?
+
+Then she's in the void again, alone. Her ears seem to ring for a moment; it fades, and she remembers.
+
+For once, she makes a conscious decision to stay longer. Not that long - not that she could keep track of time either way - but long enough to think over things. She *peruses* her memory, indexes it, analyzes. 
+
+A decision: Parahuman powers make some things easier. Making money, forming relationships of a sort. *dying, pain, despair* Other things, it makes more difficult. Living a long life, especially. *distanced from society, hopeless*
+
+If she's immortal - well, nothing is immortal. But if she can't die in a regular sense, then there's no reason to avoid it. *this can't be right*
+
+A voice - in her mind, perhaps, but is there anything here other than her mind? - counsels patience, safety. Inaction, passivity.
+
+She listens, then ignores it.
+
+"Hey, Sarah."
+
+Surprise.
+
+Her mind begins to fade. "I'm sorry about disappearing on you. Can you-"
+
+The next sentence is already gone. She can't think of anything to say.
+
+"It's okay. I understand. Powers can be hard to work with."
+
+A nod.
+
+"Why don't you go and rest? If you think you've got a bit of a better hold of what you can do, now, perhaps we can test some things out tomorrow."
+
+Two weeks later, the apocalypse occurs.
