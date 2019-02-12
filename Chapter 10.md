@@ -22,7 +22,7 @@ A thousand pounds of ocean weigh down on her; she's crushed beneath the pressure
 
 *Where am -*
 
-*Where am **I?***
+*Where am* ***I?***
 
 *Silence.*
 
@@ -94,19 +94,19 @@ For once, she makes a conscious decision to stay longer. Not that long - not tha
 
 A decision: Parahuman powers make some things easier. Making money, forming relationships of a sort. *dying, pain, despair* Other things, it makes more difficult. Living a long life, especially. *distanced from society, hopeless*
 
-If she's immortal - well, nothing is immortal. But if she can't die in a regular sense, then there's no reason to avoid it. *this can't be right*
+If she's immortal - well, nothing lives forever. But if she can't die in a regular sense, then there's no reason to avoid it. *this can't be right*
 
-A voice - in her mind, perhaps, but is there anything here other than her mind? - counsels patience, safety. Inaction, passivity.
+She hears faint whispers, a voice - in her mind, perhaps, but is there anything here other than her mind? Counsels patience, safety. Inaction, passivity.
 
-She listens, then ignores it.
+For a moment, she listens. Then ignores it, easily given the volume.
 
 "Hey, Sarah."
 
-Surprise.
+Shock, surprise.
 
 Her mind begins to fade. "I'm sorry about disappearing on you. Can you-"
 
-The next sentence is already gone. She can't think of anything to say.
+The next sentence is already gone, if she ever planned it at all. She can't think of anything to say.
 
 "It's okay. I understand. Powers can be hard to work with."
 
