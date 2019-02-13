@@ -114,4 +114,4 @@ A nod.
 
 "Why don't you go and rest? If you think you've got a bit of a better hold of what you can do, now, perhaps we can test some things out tomorrow."
 
-Two weeks later, the apocalypse occurs.
+Two weeks later, the apocalypse comes.
