@@ -10,6 +10,7 @@ Their most recent job brought them more than just money. The 'Azn Bad Boys' - a 
 
 An all around success, even if the pay from the local Protectorate hadn't been particularly stellar. Even a week later, there was an air of celebration.
 
-She's sitting at a table with Shamrock, their new recruit, and Sarah. A middle-aged woman sits to Sarah's left: a new, unpowered member of the- organization?
+She's sitting at a table with Shamrock, their new recruit, and Sarah. A middle-aged woman sits to Sarah's left: a new, unpowered member of the- organization? Or were they still a *'crew'*?
 
-That's a question for Sarah, perhaps. As the group expanded, it became more difficult to keep track of things. She'd made an effort over the past two days to cement things in her mind; it did seem easier to remember events, now.
+That's a question for Sarah, perhaps. As the group expanded, it became more difficult to keep track of things. She'd made an effort over the past two days to cement things in her mind; it does seem easier to remember events, now.
+
