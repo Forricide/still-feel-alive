@@ -14,3 +14,6 @@ She's sitting at a table with Shamrock, their new recruit, and Sarah. A middle-a
 
 That's a question for Sarah, perhaps. As the group expanded, it became more difficult to keep track of things. She'd made an effort over the past two days to cement things in her mind; it does seem easier to remember events, now.
 
+Sarah gets up from the table, suddenly. She watches as a huddle of sorts forms: Sarah and Gregor talking to each other, almost frantic; Newter hovering close by; Spitfire and Shamrock slightly farther back. They're only a few feet away, but she can't hear what they're saying, as any sound is drowned out by a loud alarm blaring in the background.
+
+She covers her ears with her hands.
