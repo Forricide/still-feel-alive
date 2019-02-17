@@ -16,4 +16,31 @@ That's a question for Sarah, perhaps. As the group expanded, it became more diff
 
 Sarah gets up from the table, suddenly. She watches as a huddle of sorts forms: Sarah and Gregor talking to each other, almost frantic; Newter hovering close by; Spitfire and Shamrock slightly farther back. They're only a few feet away, but she can't hear what they're saying, as any sound is drowned out by a loud alarm blaring in the background.
 
-She covers her ears with her hands.
+She covers her ears with her hands. Sarah is waving; she walks up.
+
+They're saying things. She tries to listen.
+
+*leave the city*
+
+*hopeless*
+
+*reputation*
+
+It takes a moment to realize her hands are still over her ears.
+
+"Do you want to participate?"
+
+"What's going on?"
+
+Sarah shakes her head, sighs. "There's an Endbringer coming."
+
+Vague recognition. "Okay."
+
+"We have a sizeable team, but - none of us are particularly useful against him. No real damage, we'd just die."
+
+"Okay."
+
+"Except you - you can't die."
+
+*I can't die.*
+
