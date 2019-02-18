@@ -44,3 +44,4 @@ Vague recognition. "Okay."
 
 *I can't die.*
 
+Even though she can think back - a month, now, maybe more, she doesn't remember *that*. Just... chasms of nothing, spotting her memory, bookends of real experiences.
