@@ -36,7 +36,7 @@ Sarah shakes her head, sighs. "There's an Endbringer coming."
 
 Vague recognition. "Okay."
 
-"We have a sizeable team, but - none of us are particularly useful against him. No real damage, we'd just die."
+"We have a sizeable team, but - none of us are particularly useful against him. No real damage, we'd just... well, it wouldn't go well."
 
 "Okay."
 
@@ -44,4 +44,14 @@ Vague recognition. "Okay."
 
 *I can't die.*
 
-Even though she can think back - a month, now, maybe more, she doesn't remember *that*. Just... chasms of nothing, spotting her memory, bookends of real experiences.
+Even though she can think back - a month, now, maybe more, she doesn't remember *that*. Just... chasms of nothing, spotting her memory, bookending real-life experiences.
+
+Sarah touches her shoulder. A surge of confidence. 
+
+"What would I do?"
+
+"That bomb tinker - *Bakuda.*" Everyone within earshot grimaces. "I'm thinking that they'll be trying to make use of some of her more exotic creations. You can get close to him, bring some with you, maybe. It's at least worth a shot."
+
+Discussion quiets, if only a little.
+
+"We won't force you, though."
