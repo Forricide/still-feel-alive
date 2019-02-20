@@ -55,3 +55,14 @@ Sarah touches her shoulder. A surge of confidence.
 Discussion quiets, if only a little.
 
 "We won't force you, though."
+
+Options, choices. 
+
+*Endbringer*. There's a certain danger to the word, hanging around it like a wreath. Dripping. 
+
+If she reaches deep, she can remember - a TV spot, Annette's apartment. *"Disaster has struck at Earth Bet's version of Australia, sources say. Allegedly, one of Bet's 'endbringers' - gargantuan, nearly invincible monsters - has laid waste to Canberra. Our resident"*
+
+She gasps, suddenly, memory interrupted by a hand grasping her shoulder. 
+
+"Are you all right?" Gregor, standing over her. "You were - ah, shaking."
+
