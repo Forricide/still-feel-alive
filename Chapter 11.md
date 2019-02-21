@@ -66,3 +66,16 @@ She gasps, suddenly, memory interrupted by a hand grasping her shoulder.
 
 "Are you all right?" Gregor, standing over her. "You were - ah, shaking."
 
+If - if she could reach further, just a little bit, would she be able to remember? 
+
+"I'll do it. I'll try."
+
+"You sure?" Newter. "Those f-uh, things, they're really scary."
+
+Sarah nods. "It's important you understand what this means. If you go out there to fight - well, do anything, really - near one of those monsters... anything can happen."
+
+"No, it's... what you said, right?"
+
+Sarah tilts her head, just a little. 
+
+"I can't die."
