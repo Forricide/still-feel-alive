@@ -2,13 +2,15 @@ There are more people in the room, now.
 
 Sarah was right, from a certain perspective. This particular group of people couldn't afford to stagnate, not in the high-paced world of capes. So they'd sought out more members, parahuman or not, to round out their numbers.
 
-At one table, Newter and Gregor are playing some kind of card game. They'd tried to teach her, but it hadn't gone so well. She can hardly remember the rules now, anyways. Spitfire is watching, hovering a comfortable distance away. 
+At one table, Newter and Gregor are playing some kind of card game. They'd tried to teach her, but it hadn't gone so well. She can hardly remember the rules now, anyways. Spitfire is watching, hovering a comfortable distance away. It's impossible to tell who's winning; Newter's always chuckling, playing cards with exaggerated gestures, while Gregor has a perfect poker face. Two more cards come down, Gregor sighs, Newter jumps out of his seat.
 
-Labyrinth is in her room, resting. She can feel the girl in the back of her mind - no, not exactly her presence, but the world she's imagining. Like a distant headache, not painful, but noticeable.
+Labyrinth is in her room, resting. She can feel the girl in the back of her mind - no, not exactly her presence, but the world she's imagining. Like a distant headache, not painful, but noticeable, slowly growing over the past weeks. She's seen the worlds that Labyrinth sees through the lens of real life. Now, she wonders if it could be possible to visit them in person.
 
-Their most recent job brought them more than just money. The 'Azn Bad Boys' - a bizarre name for a terrifying local gang - had accrued a lot of international attention, especially in the past month. Playing a major part in taking them out had earned them a considerable increase in reputation; so much so that Sarah had been contacted by their newest recruit.
+Their most recent job brought them more than just money. The 'Azn Bad Boys' - a comical name for a terrifying local gang - had accrued a lot of international attention, especially in the past month. Playing a major part in taking them out had earned them a considerable increase in reputation; so much so that Sarah had been contacted by their newest recruit.
 
-An all around success, even if the pay from the local Protectorate hadn't been particularly stellar. Even a week later, there was an air of celebration.
+An all around success, even if the pay from the local Protectorate hadn't been particularly stellar. *"Government money's always mediocre. Always need to adjust rates a little, but it's an important relationship to keep."* 
+
+Even a week later, there was an air of celebration.
 
 She's sitting at a table with Shamrock, their new recruit, and Sarah. A middle-aged woman sits to Sarah's left: a new, unpowered member of the- organization? Or were they still a *'crew'*?
 
