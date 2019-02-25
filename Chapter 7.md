@@ -116,13 +116,13 @@ The smell was the worst part of that experience, psychological trauma coming in 
 
 He stops, looking at her. If there's any emotion involved in talking about such sensitive topics, it doesn't show.
 
-"I don't have any... deformities. As you put it."
+"I don't have any... deformities. As you said."
 
 Gregor nods. "And you do not have the tattoo, either. You are not one of us. I am sorry for presuming otherwise."
 
 "It's okay. You thought that was the case, because I can't remember anything?" 
 
-*Not* anything, a little voice in her head says. *There are still some memories left.*
+*Not* everything, a little voice in her head says. *There are still some memories left.*
 
 "Yes. It does not matter. I have more questions for you about your power."
 
