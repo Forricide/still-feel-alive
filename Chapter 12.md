@@ -26,3 +26,9 @@ He leans forward a little. "I get the difficulty. It's hard to... deal with not 
 
 "Okay." Then: "Thank you."
 
+Nod.
+
+It doesn't take long to reach the city's center.
+
+There are more powerful people in one room than most people could meet in a lifetime. She doesn't recognize more than a small handful, but it's still somewhat intimidating. Men and women in violently-coloured costumes are talking animatedly. In the northern corner, a man with a gun almost as large as her body rests against a wall. Along the adjacent wall, gigantic four-legged monsters congregate around a girl with the visage of a dog as her face, scars along the length of her bare arms.
+
