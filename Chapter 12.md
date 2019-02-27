@@ -32,3 +32,36 @@ It doesn't take long to reach the city's center.
 
 There are more powerful people in one room than most people could meet in a lifetime. She doesn't recognize more than a small handful, but it's still somewhat intimidating. Men and women in violently-coloured costumes are talking animatedly. In the northern corner, a man with a gun almost as large as her body rests against a wall. Along the adjacent wall, gigantic four-legged monsters congregate around a girl with the visage of a dog as her face, scars along the length of her bare arms.
 
+Overwhelming, to be so focused, when the people and sounds and smells are crushing her. She retreats, into herself. As deep as is safe.
+
+"That's what we have. I need to ask again: Are you sure you want to do this?"
+
+Another nod. She hardly remembers the first.
+
+Who's talking?
+
+A masked face in the screen. A metallic suit, vibrant colours. People in lab coats.
+
+They're in a laboratory. Not the one that she pictures hazily in her mind; no sinks, no desks. Instead, pure-white counters, bizarre contraptions hanging from the ceiling, devices of every shape sitting underneath. The room is warm, but she shivers. 
+
+"Okay. You're sure you understand what to do with the devices?"
+
+In front of her, just a little behind the man in the metal suit, is an assortment of bombs. That's what they *said* they were, that is; she wouldn't have been able to tell them apart from any other device. Just wires and metal.
+
+Dangerous.
+
+"...We'll show you the trigger mechanism. When you use your ability to get next to the Endbringer, you'll depress it, then return here. Do you understand?"
+
+She nods. 
+
+Uncomplicated.
+
+Acceptable.
+
+"All right." A note of concern. Not all right. "When it reaches the city, we'll give you the first one."
+
+"Can do it now."
+
+"We don't know exactly where it is. The Leviathan moves fast - you'd have to predict his location, way ahead of time."
+
+"That's fine."
