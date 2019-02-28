@@ -54,14 +54,34 @@ Dangerous.
 
 She nods. 
 
-Uncomplicated.
+It's uncomplicated.
 
 Acceptable.
 
-"All right." A note of concern. Not all right. "When it reaches the city, we'll give you the first one."
+"All right." A note of concern. Not 'all right'. "When it reaches the city, we'll give you the first one."
 
-"Can do it now."
+"I can do it now."
 
 "We don't know exactly where it is. The Leviathan moves fast - you'd have to predict his location, way ahead of time."
 
 "That's fine."
+
+This is where the armoured man speaks up. "You are a precognitive, along with being able to teleport?"
+
+Precognitive. Isn't there someone on their team that has that power? She struggles to remember. "No. I can start looking for it."
+
+The man's mouth - the only visible portion of his face - straightens, a tight line. "Okay. But do not detonate the package here, do you understand?"
+
+A nod. Then, under his continued attention: "Yes."
+
+"I think this one would be best. Dragon?"
+
+"Agreed." It's short and has a clear button on top. The button doesn't really fit in; it's almost ugly compared to the rest of the device, and looks like it's not entirely attached. "You will need to be within ten feet of Leviathan for this one to have any effect. We'll need to make sure there aren't any capes nearby when you use it, though. I can keep track of that for you."
+
+"Okay." She takes the bomb. It feels almost comfortable in her hand. "Newter?"
+
+He holds out a hand, an ugly orange under the overpowered fluorescent lights.
+
+The woman - Dragon? - starts to say something, but she's gone halfway through the sentence.
+
+
