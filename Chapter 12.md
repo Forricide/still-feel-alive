@@ -1,12 +1,16 @@
 A flood of people.
 
-There are no cars on the road. It's incredible how much *space* vehicles take up; now that they're almost entirely relegated to the side of the road, there is a surprising of space on the streets to maneuver. Considering, of course, that every single person in the entire city is outside.
+There are no civilian cars on the road. It's incredible how much *space* vehicles take up; now that they're almost entirely relegated to the side of the road, there is a surprising of space on the streets to maneuver. Considering, of course, that every single person in the entire city is outside.
 
-She attempts to scan the mass of people. They're moving through the city fast, the armored van hardly waiting for people to get out of its way.
+She attempts to scan the mass of people. They're moving through the city fast, the armored van hardly waiting for people to get out of its way. Families with small children avoid them entirely on sidewalks, hurrying towards the nearest bunker; single people in their mid-twenties thread their way through the crowd, some wearing gang symbols; the injured and elderly lag behind, forming little divots in the current.
+
+Newter is in the van with her. Sarah had recommended against it, but it had ultimately been his choice. The rest of the team is already out of the city, heading north. 
+
+*"I'll keep you company, maybe help a bit with S n' R. Besides, things are easier for you when I'm around, right?"* 
 
 "Looking for someone?"
 
-Newter is in the van with her. *"I'll keep you company, maybe help a bit with S n' R."* He doesn't look as calm as he sounds, repositioning himself every few seconds. Leaning forward, then back, then looking around the van.
+He doesn't look as calm as he sounds, repositioning himself every few seconds. Leaning forward, then back, then looking around the van. One officer eyes him, gun in hand.
 
 "I'm not sure."
 
@@ -18,7 +22,7 @@ Not quite true, but she doesn't correct him. It's quiet again, for a few seconds
 
 She vaguely recalls Gregor explaining this. "And Gregor, right?"
 
-"Yeah. Well, Shamrock too, actually. It's part of how we found her."
+"Yeah. Well, Shamrock too, actually. It's part of how we found her. She had the- well, yeah."
 
 "I see."
 
@@ -30,13 +34,15 @@ Nod.
 
 It doesn't take long to reach the city's center.
 
-There are more powerful people in one room than most people could meet in a lifetime. She doesn't recognize more than a small handful, but it's still somewhat intimidating. Men and women in violently-coloured costumes are talking animatedly. In the northern corner, a man with a gun almost as large as her body rests against a wall. Along the adjacent wall, gigantic four-legged monsters congregate around a girl with the visage of a dog as her face, scars along the length of her bare arms.
+There are more powerful people in one room than most people meet in a lifetime. She doesn't recognize more than a small handful, the ones from television. All together, it's an intimidating display. Men and women in violently-coloured costumes talk animatedly. In the northern corner, a man with a gun almost as large as her body rests against a wall. Along the adjacent wall, gigantic four-legged monsters congregate around a girl with the visage of a dog as her face, scars along the length of her bare arms.
 
-Overwhelming, to be so focused, when the people and sounds and smells are crushing her. She retreats, into herself. As deep as is safe.
+Not a single person is smiling. The mood is almost oppressive. 
 
-"That's what we have. I need to ask again: Are you sure you want to do this?"
+It's overwhelming, to be paying attention, taking in so much information, when the people and sounds and smells are crushing her. She retreats, into herself. As deep as is safe.
 
-Another nod. She hardly remembers the first.
+When she comes out, finally: "That's what we have. I need to ask again: Are you sure you want to do this?"
+
+Her head moves almost involuntarily, another nod. She barely remembers the first.
 
 Who's talking?
 
