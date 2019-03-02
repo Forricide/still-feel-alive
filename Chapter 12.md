@@ -72,15 +72,15 @@ Acceptable.
 
 "That's fine."
 
-This is where the armoured man speaks up. "You are a precognitive, along with being able to teleport?"
+This is where the armoured man speaks up. "Are you saying that you're a precognitive, along with being able to teleport?"
 
-Precognitive. Isn't there someone on their team that has that power? She struggles to remember. "No. I can start looking for it."
+Precognitive. Isn't there someone on their team that has that power? She tries to remember, gives up. "No. I can start looking for it."
 
-The man's mouth - the only visible portion of his face - straightens, a tight line. "Okay. But do not detonate the package here, do you understand?"
+The man's mouth - the only visible portion of his face - tightens, a straight line. "Okay. But do not detonate the package here, do you understand? That would be a disaster."
 
-A nod. Then, under his continued attention: "Yes."
+A nod. Then, in the continued silence: "Yes."
 
-"I think this one would be best. Dragon?"
+"I think this one would be best." He gestures, already turning away, facing the woman in the screen. "What do you think, Dragon?"
 
 "Agreed." It's short and has a clear button on top. The button doesn't really fit in; it's almost ugly compared to the rest of the device, and looks like it's not entirely attached. "You will need to be within ten feet of Leviathan for this one to have any effect. We'll need to make sure there aren't any capes nearby when you use it, though. I can keep track of that for you."
 
@@ -88,6 +88,8 @@ A nod. Then, under his continued attention: "Yes."
 
 He holds out a hand, an ugly orange under the overpowered fluorescent lights.
 
-The woman - Dragon? - starts to say something, but she's gone halfway through the sentence.
+The woman - Dragon? - starts to say something.
+
+She takes his hand, and is gone halfway through the sentence.
 
 
