@@ -1,5 +1,8 @@
 import re
 import sys
+import glob, os
+
+IGNORED_FILES = "index.html"
 
 def get_compiled(filename):
     with open(filename, 'r') as file:
@@ -24,9 +27,20 @@ def main(filenames):
     for filename in filenames:
         print("Compiling:", filename)
         full_compile(filename)
+    index = [f for f in glob.glob("*.html") if f not in IGNORED_FILES]
+    index = sorted(index, key=lambda x: int(x.strip("Chapter .md.html")))
+    index = [("<a href=\"" + x + "\">" + x.rstrip(".dhtml") + "</a>") for x in index]
+    itext = '\n'.join(index)
+    with open("index.template", "r") as ti:
+        it = ti.read()
+    it = it.replace("${ALL_FILES}", itext)
+    with open("index.html", "w") as inf:
+        inf.write(it)
 
 
 if __name__ == '__main__':
     if len(sys.argv) > 1:
         main(sys.argv[1:])
+    else:
+        main([])
 
