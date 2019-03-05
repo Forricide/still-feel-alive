@@ -24,7 +24,24 @@ Her vision sharpens. The beast, the *Leviathan*, has almost reached the city. It
 
 She presses down her thumb, hard. Then she joins him in the water, even as she can feel the device expanding.
 
-"That was fast. Do you think you got him with it?"
+"That was fast. Do you think you got him with it?" A woman's face, overlarge, tilts to the left. "You didn't even take the original with you. That could be big, given our limited supply."
 
-A woman's face, overlarge, tilts to the left. "You didn't even take the original with you. That could be big, given our limited supply."
+"Hey, you okay?" A familiar voice.
 
+Nod.
+
+"Are you... is that a side effect of your power?"
+
+"We don't know yet, actually. She's... new to the team."
+
+"I see. Do you think she'll be okay to do that again, or..?"
+
+The armored man is gone, leaving just the boy in the room with her. He's looking at her with some kind of concern, brow furrowed, tail low. "I think she's okay. Hey, do you want to do that again?"
+
+No.
+
+Nod.
+
+"Okay. What were you saying we should use, Dragon?"
+
+"Hold on. Leviathan's been sighted, I'm going to verify if the last one visibly hit. If she was able to connect with that, we might want to go with something with more... ah, 'oomph'."
