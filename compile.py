@@ -10,7 +10,7 @@ def get_compiled(filename):
     d = re.sub(r'\*\*\*([^\*]*)\*\*\*', r'<b><i>\1</i></b>', d)
     d = re.sub(r'\*\*([^\*]*)\*\*', r'<b>\1</b>', d)
     d = re.sub(r'\*([^\*]*)\*', r'<i>\1</i>', d)
-    d = re.sub(r'(.+?)(\n|$)+', r'<p>\1</p>\n\n', d)
+    d = re.sub(r'(.+?)(\r|\n|$)+', r'<p>\1</p>\n\n', d)
     return d
 
 
