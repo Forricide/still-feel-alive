@@ -40,8 +40,25 @@ The armored man is gone, leaving just the boy in the room with her. He's looking
 
 No.
 
-Nod.
+The boy's expression is warm, encouraging.
+
+She nods.
 
 "Okay. What were you saying we should use, Dragon?"
 
 "Hold on. Leviathan's been sighted, I'm going to verify if the last one visibly hit. If she was able to connect with that, we might want to go with something with more... ah, 'oomph'."
+
+"Gotcha."
+
+The display changes, shifting to a view of a gigantic monster. It's rising up onto a beach, water sloughing off of jet-black skin. For a moment, everything is silent.
+
+She closes her eyes.
+
+"I've located some damage on his shoulder. Mostly cosmetic, but it's almost certainly from the bomb. They never show up injured."
+
+"Awesome!" Grinning: "Hey, you did it!"
+
+"Take the one on the left. Yes, that one. Okay, listen carefully - is she okay? She doesn't seem to be particularly, hm, attentive."
+
+"Beats me. Just go for it."
+
