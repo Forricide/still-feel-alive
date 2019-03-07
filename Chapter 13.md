@@ -60,5 +60,27 @@ She closes her eyes.
 
 "Take the one on the left. Yes, that one. Okay, listen carefully - is she okay? She doesn't seem to be particularly, hm, attentive."
 
-"Beats me. Just go for it."
+"Beats me. Just go for it, can't go wrong in an Endbringer fight, right?"
+
+A thoughtful expression. "Take the one that Armsmaster pointed out to you earlier. Yes, that one."
+
+"Heavy."
+
+"And dangerous."
+
+He gives it to her. Both hands close around it, forefinger just a touch away from the trigger.
+
+"Do not leave until I have given the all clear. Assuming you can locate Leviathan, I'll wait until the defenders have lost track of him, and then you can go."
+
+A nod, slow. 
+
+There's regrettably little time to rest, before she's back.
+
+Memories of events not even an hour old rush back to her. She blocks them out, and finds it easy, like a relaxed form of meditation.
+
+A talk show host, back when she'd had time to watch television, had referred to the Endbringers as *god-beasts*. Looking at the Leviathan now, she found it difficult to agree. Fast, powerful, elegant - but nothing more. A brutish thing, skin covered in lacerations, greedy eyes flitting back and forth like a wild animal. At home in the filth and muck of the under-city sewers.
+
+It was disgusting. 
+
+ 
 
