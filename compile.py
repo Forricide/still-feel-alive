@@ -15,7 +15,7 @@ def get_compiled(filename):
 
 
 def write_compiled(filename, contents):
-    with open(filename + '.html', 'w') as file:
+    with open(filename + '.gi.html', 'w') as file:
         file.write(contents)
 
 

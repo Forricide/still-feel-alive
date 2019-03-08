@@ -46,7 +46,7 @@ She nods.
 
 "Okay. What were you saying we should use, Dragon?"
 
-"Hold on. Leviathan's been sighted, I'm going to verify if the last one visibly hit. If she was able to connect with that, we might want to go with something with more... ah, 'oomph'."
+"Hold on. Leviathan's been sighted, I'm going to verify if the last one visibly hit. If she was able to connect with that, we might want to go with something with more... ah, 'oomph'. Can you take the one in her hand, and put it back on the table? We'll keep it around, at least."
 
 "Gotcha."
 
@@ -78,9 +78,28 @@ There's regrettably little time to rest, before she's back.
 
 Memories of events not even an hour old rush back to her. She blocks them out, and finds it easy, like a relaxed form of meditation.
 
-A talk show host, back when she'd had time to watch television, had referred to the Endbringers as *god-beasts*. Looking at the Leviathan now, she found it difficult to agree. Fast, powerful, elegant - but nothing more. A brutish thing, skin covered in lacerations, greedy eyes flitting back and forth like a wild animal. At home in the filth and muck of the under-city sewers.
+A talk show host, back when she'd had time to watch television, had referred to the Endbringers as *god-beasts*. Looking at the Leviathan now, she finds it difficult to agree. Fast, powerful, elegant - but nothing more. A brutish thing, skin covered in lacerations, greedy misshapen eyes glancing back and forth like a wild animal. At home in the filth and muck of the sewers beneath the city.
 
-It was disgusting. 
+*Disgusting*. 
 
- 
+ Without another thought, she presses down her thumb.
 
+"That one did quite a lot of damage. Good work - you know, we never asked for your name?" Statement, phrased like a question.
+
+"We don't know her name, either. And she doesn't have a cape name, yet."
+
+"If she's still... coherent, we can try the one I pointed out to you previously."
+
+"Here, put this in your hand. The trigger is a little complicated, do you think you-"
+
+She examines the device, calm, breathing smoothly. 
+
+*Breathing?* A weird thought. She hadn't considered it previously, but the air quality in this place is perfect. She wonders if she even needs to breathe, or if it's just instinct.
+
+The weight in her hand serves as a reminder of the current situation's urgency. Not something that she can bring herself to care about, at least not without great effort. But it matters to her newfound friends, so it's important to her.
+
+She presses down her thumb.
+
+This time, she's just far enough away to be able to meet Leviathan's eyes.
+
+Almost like looking in a mirror.
