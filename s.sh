@@ -1,4 +1,4 @@
 #!/bin/bash
 
-GLOBIGNORE='*.html'
+GLOBIGNORE='*.md.gi.html'
 git status *
