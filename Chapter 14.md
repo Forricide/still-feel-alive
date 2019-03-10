@@ -1,3 +1,4 @@
 The room is starting to smell.
 
-She's not sure if the boy notices. He's excited, energetic. 
+She's not sure if the boy notices. He's excited, energetic. The lady in the screen is mostly gone, just reappearing to let her know when she can attack, and so it's up to the boy to find... packages for her. 
+
