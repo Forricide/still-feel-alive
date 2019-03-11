@@ -10,4 +10,4 @@ She's not sure if the boy notices. He's excited, energetic. The lady in the scre
 
 "...I don't think this is good, hey? How about this: One last one, and we'll leave. I don't even know if you can speak right now, and you've done a lot. Let's just... call it a wrap."
 
-He looks around the room. "For the last one, let's make it something good. Go out with a bang, am I right? ...yeah, okay. Dragon told me - you know, the tinker helping us out - that we weren't supposed to use these ones. Too much chance of, uh, friendly fire."
+He looks around the room. "For the last one, let's make it something good. Go out with a *bang*, am I right? ...yeah, okay. Dragon told me - you know, the tinker helping us out - that we weren't supposed to use these ones. Too much chance of, uh, friendly fire."
