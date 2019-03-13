@@ -24,4 +24,21 @@ No exposed wires. Just a single button, nearly flush with the white surface. Aes
 
 It's a minute before the response. She doesn't even bother to show herself on the screen, speaking through a disembodied voice: "That is acceptable. It will detonate quickly; be careful. Go in two minutes." 
 
-"Okay. Hey, you hear that? T-minus two minutes." The boy pulls a phone out of his pocket. "
+"Okay. Hey, you hear that? T-minus two minutes." The boy pulls a phone out of his pocket. "I'll keep track. You, uh, prepare?"
+
+He stares down at the phone, not looking around the room. She takes the chance to breathe.
+
+The stench is overpowering.
+
+Her head hurts. 
+
+She thinks of a woman she met, once. A businesswoman of some sort, or perhaps a lawyer. A role model. What would she say, if she saw all of this?
+
+This...
+
+This *monster*.
+
+It stares at her, and she stares back, frozen. She can still smell that disgusting taste of death, lingering in her nose and sticking to the back of her throat. It fits this picture better than the last one.
+
+
+
