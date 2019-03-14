@@ -40,5 +40,11 @@ This *monster*.
 
 It stares at her, and she stares back, frozen. She can still smell that disgusting taste of death, lingering in her nose and sticking to the back of her throat. It fits this picture better than the last one.
 
+The beast emanates danger. Just a moment ago, she was able to take it all in; now she only has fading impressions. But she remembers, remembers looking for the damage. Dozens of bombs, each more powerful than the last...
 
+Nothing but superficial damage. Smalls spots where oily black blood oozes, and that's it.
+
+It swipes a claw at her, and she wonders if the cape a few feet behind her has escaped. In the last moment, she presses down her thumb.
+
+The Leviathan is stuck. 
 
