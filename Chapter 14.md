@@ -48,3 +48,10 @@ It swipes a claw at her, and she wonders if the cape a few feet behind her has e
 
 The Leviathan is stuck. 
 
+She can view its plight from every angle, see the water gushing down its back, inspect its flip-flopping fins. But what's important is its right hand - frozen in place, unmoving. It yanks its body back, to no avail. 
+
+The heroes charge.
+
+This much motion is disorienting. She can view a large amount of information, but it's usually more static, like a picture. Two dozen superhumans levelling every ability they can bring to bear is enough for her to lose track of what exactly is happening.
+
+
