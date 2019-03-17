@@ -12,11 +12,11 @@ She's not sure if the boy notices. He's excited, energetic. The lady in the scre
 
 He looks around the room, then back at her, sitting on the floor. An inch of water is quickly soaking through her jeans. "For the last one, let's make it something good. Go out with a bang, am I right? ...yeah, okay. Dragon told me - you know, the tinker helping us out - that we weren't supposed to use *these* ones. Too much chance of, uh, friendly fire."
 
-Peering at her, for a second. Then back to gesturing. "I guess, if we're doing one last one, she'll probably be fine. This one looks epic. What do you think it does?"
+Peering at her, for a second. Then back to gesturing. "I guess, if we're doing one last one, she'll probably be fine with whatever. This one looks epic. What do you think it does?"
 
 He's holding a device with several buttons dotting its surface. It looks almost out of a movie - a dark, metal core covered by switches and buttons and multicoloured wires. 
 
-"Wonder if it does several things, maybe. Like a multi-tool, except the settings are *boom*, *kaboom*, and… Okay, that's too complicated for you, I'd imagine. Let's go for something a little simpler. How does this one look?"
+"Wonder if it does several things, maybe. Like a multi-tool, except the settings are *boom*, *kaboom*, and... Okay, that's too complicated for you, I'd imagine. Let's go for something a little simpler. How does this one look?"
 
 No exposed wires. Just a single button, nearly flush with the white surface. Aesthetically pleasing, and completely different from the majority of the others. So much so, she wonders if it was perhaps made by someone else.
 
@@ -24,9 +24,11 @@ No exposed wires. Just a single button, nearly flush with the white surface. Aes
 
 It's a minute before the response. She doesn't even bother to show herself on the screen, speaking through a disembodied voice: "That is acceptable. It will detonate quickly; be careful. Go in two minutes." 
 
-"Okay. Hey, you hear that? T-minus two minutes." The boy pulls a phone out of his pocket. "I'll keep track. You, uh, prepare?"
+"Okay. Hey, you hear that? T-minus two minutes." The boy pulls a phone out of his pocket. "I'll keep track. You, uh, prepare? Look, I'm going to leave as soon as you're gone. Get to higher ground, if you get what I mean. Don't come back here."
 
-He stares down at the phone, not looking around the room. She takes the chance to breathe.
+She doesn't respond.
+
+"Ah, okay. I'll just, let you know when it's been two minutes, then." He stares down to the phone, not looking around the room. She takes the chance to breathe.
 
 The stench is overpowering.
 
@@ -57,3 +59,15 @@ This much motion is disorienting. She can view a large amount of information, bu
 The fight is over within a minute.
 
 It's clear that the attackers aren't the cream of the crop. A few of them seem tougher than others, but a swipe from the Leviathan's free hand is enough to send most of them flying backwards. For a moment, it's not clear which ones are still maneuvering under their own control - then some right themselves, and others don't. A horrific scene. She finds it hard to feel emotional.
+
+Three sharp pulls, one after the other, seem to be enough to convince the beast that his hand won't be moving. It turns its attention back to the attackers, who seem to be rayllying for another offense. Then a wave crashes down upon them, and they're scattered again.
+
+The water does not impair her vision, in this state. It's not like using her eyes when human. It's different: distant, yet intimate; detailed, but vague, a huge amount of information pressed into a single dimension of imagination. Something is lost in the translation, data compression writ large. 
+
+She looks somewhere else while they drown. There's nothing she can do to help.
+
+Back in the laboratory, Newter is long gone. The people that had appeared to be scientists have disappeared as well; the room is completely empty of people. All that remains are desks covered in various Tinker debris. It's not rising fast, but she still wonders if the flooding might cause problems, for a stockpile of explosive weaponry like this. She supposes it's not really her problem.
+
+She searches for Newter. He's pacing, long tail swishing back and forth, already outside of Brockton Bay. For a long moment, she watches him. He looks one way - towards the city where the rest of Faultline's crew has taken refuge. Then back to Brockton Bay again, forlorn.  
+
+No right decision, so he's stuck in limbo, almost like her.
