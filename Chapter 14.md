@@ -71,3 +71,23 @@ Back in the laboratory, Newter is long gone. The people that had appeared to be 
 She searches for Newter. He's pacing, long tail swishing back and forth, already outside of Brockton Bay. For a long moment, she watches him. He looks one way - towards the city where the rest of Faultline's crew has taken refuge. Then back to Brockton Bay again, forlorn.  
 
 No right decision, so he's stuck in limbo, almost like her.
+
+She's made up her mind. One breath, deep, taking in the otherworldly air of this distant place.
+
+The beast is charging a defender when she appears, almost in front of it. Screaming, it hears her. Distracted, momentarily, before a gigantic wave slams into her body.
+
+This time, she has enough time to take in the stump at the end of its arm, where its hand used to be. A success for her, however small it might be in perspective. But more impact than she makes now, appearing for a moment between its other set of claws and an armored parahuman.
+
+The cape she tried to save doesn't make it. She waits for another opportunity, patient.
+
+Her power wasn't made to be used like this, she doesn't think. Sarah extolled its versatility outside of combat - sneaking into buildings, distracting enemies, getting into normally inaccessible areas. 
+
+Not throwing yourself at the same impossible enemy, over and over again. 
+
+But she has something the other defenders don't. Every time the Leviathan hits her, she comes back. It doesn't matter if he personally attacks her, or if a rogue wave does it. She lives, again and again and again.
+
+And it hurts more, and more, and more.
+
+She appears again. Cushioning the body of a cape with her own. He groans. She doesn't make a sound.
+
+The Leviathan takes notice of her. Not that time, not the next time. At one point, however, it happens. It meets her eyes, and she stares back. 
