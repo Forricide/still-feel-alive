@@ -91,3 +91,6 @@ And it hurts more, and more, and more.
 She appears again. Cushioning the body of a cape with her own. He groans. She doesn't make a sound.
 
 The Leviathan takes notice of her. Not that time, not the next time. At one point, however, it happens. It meets her eyes, and she stares back. 
+
+Something whimpers behind her - a person? 
+
