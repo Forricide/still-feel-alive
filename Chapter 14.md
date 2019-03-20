@@ -90,7 +90,12 @@ And it hurts more, and more, and more.
 
 She appears again. Cushioning the body of a cape with her own. He groans. She doesn't make a sound.
 
-The Leviathan takes notice of her. Not that time, not the next time. At one point, however, it happens. It meets her eyes, and she stares back. 
+The Leviathan takes notice of her. Not that time, not the next time. At one point, however, it happens. It meets her eyes, and she stares back. Time seems to freeze, water roiling slowly in the streets.
 
-Something whimpers behind her - a person? 
+Something whimpers behind her in the sudden silence - a person? 
 
+Then it all comes crashing down, the beast surging forward. It's upon her in a moment, claw foward, stretched down to be level with her head.
+
+Collision.
+
+Eighteen miles away, a boy with greenish red skin stares at a nearby city. He makes a decision, then turns, bounding away within a second.
