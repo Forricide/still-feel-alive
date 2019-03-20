@@ -98,4 +98,6 @@ Then it all comes crashing down, the beast surging forward. It's upon her in a m
 
 Collision.
 
-Eighteen miles away, a boy with greenish red skin stares at a nearby city. He makes a decision, then turns, bounding away within a second.
+Eighteen miles away, a boy with greenish red skin stares at a nearby city. He's sporting a slick black wristband, and it's the only part of his appearance that seems halfway fashionable. Sounds come from it, a monotonic voice. Crackling, like a radio with poor reception. He's listening for something, head cocked, attentive. 
+
+He stands there for a long time. It isn't until the sun sets, golden light illuminating broken buildings, that he turns away.
