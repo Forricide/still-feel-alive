@@ -36,8 +36,8 @@ def full_compile(filename, config):
         return
     write_compiled(filename, new_contents, config)
 
-def html_files():
-    return [f for f in glob.glob("*.html") if f not in IGNORED_FILES]
+def html_files(config):
+    return [f for f in glob.glob(get_def("output", config, "") + "*.html") if os.path.basename(f) not in IGNORED_FILES]
 
 def md_files():
     return [f for f in glob.glob("*.md") if f not in IGNORED_FILES]
@@ -53,16 +53,16 @@ def main(filenames, config):
         print("Compiling:", filename)
         full_compile(filename, config)
     print('Making index.')
-    index = html_files()
+    index = [os.path.basename(x) for x in html_files(config)]
     print('Found', len(index), 'html files.')
     index = sort_ch_num(index) 
     index = [("<a href=\"" + x + "\">" + x.rstrip(".dgihtml") + "</a>") for x in index]
     print('Created a', len(index), 'length index.')
     itext = '<p>' + '</p>\n<p>'.join(index) + '</p>'
-    with open("index.template", "r") as ti:
+    with open(get_def("index-template-path", config, "index.template"), "r") as ti:
         it = ti.read()
     it = it.replace("${ALL_FILES}", itext)
-    with open("index.html", "w") as inf:
+    with open(get_def("index-path", config, "index.html"), "w") as inf:
         inf.write(it)
 
 def get_def(k, d, default):
