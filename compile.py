@@ -1,6 +1,11 @@
-import re
-import sys
-import glob, os
+import re, json, sys, glob, os
+
+def write(*args, **kwargs):
+    print(*args, **kwargs)
+
+def warn(*args, **kwargs):
+    write("Warning:") 
+    write(*args, **kwargs)
 
 IGNORED_FILES = "index.html"
 OUTPUT_EXT = '.gi.html'
@@ -43,7 +48,7 @@ def sort_ch_num(d):
 def dts(d):
     return ' '.join(d)
 
-def main(filenames):
+def main(filenames, config):
     for filename in filenames:
         print("Compiling:", filename)
         full_compile(filename)
@@ -60,10 +65,46 @@ def main(filenames):
     with open("index.html", "w") as inf:
         inf.write(it)
 
+def get_def(k, d, default):
+    return d[k] if k in d else default
+
+def is_true(v):
+    # This is pretty mediocre at best, but that's okay.
+    return (v==True or str(v).lower()=='true' or str(v).lower()=='t')
+        
+def get_f(k, d):
+    return (k in d and is_true(d[k]))
+
+def dmerge(a, b):
+    for k in b:
+        if k not in a:
+            a[k] = b[k]
+    return a
+
+def get_config(args):
+    config = {'loaded': False}
+    filenames = []
+    for arg in args:
+        if arg in ['-v', '--verbose']:
+            config['v'] = True
+            args.remove(arg)
+        elif re.match(r'--?c(onfig)?=.+', arg) is not None:
+            cfilename = re.match(r'-{0,2}c(onfig)?=(.+)', arg).group(2)
+            with open(cfilename, 'r') as cfile:
+                lconf = json.load(cfile)
+            config = dmerge(config, lconf)
+            args.remove(arg)
+        elif arg in ['--debug']:
+            print(json.dumps(config, indent=2))
+
+    filenames = args
+    return [filenames, config]
 
 if __name__ == '__main__':
-    if len(sys.argv) > 1:
-        main(sys.argv[1:])
-    else:
-        main([])
+    # Attempt to get configuration options
+    args = sys.argv[1:]
+    if len(args) == 0:
+        warn("No arguments passed. Working on defaults.")
+    conf = get_config(args)
+    main(conf[0], conf[1])
 
