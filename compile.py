@@ -25,16 +25,16 @@ def get_compiled(filename):
     return d
 
 
-def write_compiled(filename, contents):
-    with open(filename + OUTPUT_EXT, 'w') as file:
+def write_compiled(filename, contents, config):
+    with open(os.path.join(os.path.normpath(config['output']), filename + OUTPUT_EXT), 'w') as file:
         file.write(contents)
 
 
-def full_compile(filename):
+def full_compile(filename, config):
     new_contents = get_compiled(filename)
     if new_contents is None:
         return
-    write_compiled(filename, new_contents)
+    write_compiled(filename, new_contents, config)
 
 def html_files():
     return [f for f in glob.glob("*.html") if f not in IGNORED_FILES]
@@ -51,7 +51,7 @@ def dts(d):
 def main(filenames, config):
     for filename in filenames:
         print("Compiling:", filename)
-        full_compile(filename)
+        full_compile(filename, config)
     print('Making index.')
     index = html_files()
     print('Found', len(index), 'html files.')
@@ -84,6 +84,7 @@ def dmerge(a, b):
 def get_config(args):
     config = {'loaded': False}
     filenames = []
+    debug = False
     for arg in args:
         if arg in ['-v', '--verbose']:
             config['v'] = True
@@ -93,9 +94,26 @@ def get_config(args):
             with open(cfilename, 'r') as cfile:
                 lconf = json.load(cfile)
             config = dmerge(config, lconf)
+            config['loaded'] = True
             args.remove(arg)
         elif arg in ['--debug']:
             print(json.dumps(config, indent=2))
+            debug = True
+            args.remove(arg)
+
+    if not config['loaded']:
+        write("Attempting to load from default config.")
+        # Try to load our default
+        if os.path.isfile("config.json"):
+            with open("config.json", 'r') as cfile:
+                lconf = json.load(cfile)
+            config = dmerge(config, lconf)
+            config['loaded'] = True
+        else:
+            warn("Could not find any configuration options.")
+
+    if debug:
+        print(json.dumps(config, indent=2))
 
     filenames = args
     return [filenames, config]
