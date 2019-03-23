@@ -1,8 +1,8 @@
-Sleeping under the stars is a nice experience. It's the trifecta of wilderness: the cold, that bitter chill; the dim, spotty light; the dry air, crisp in your lungs. There's an argument that could be made that it's better to sleep outside sometimes, if not for the sake of comfort, then for the pursuit of good health. 
+Sleeping under the stars is a nice experience. It's the trifecta of wilderness: the cold, bitter chill; the dim, spotty light; the dry air, crisp in your lungs. There's an argument that could be made that it's better to sleep outside sometimes, if not for the sake of comfort, then for the pursuit of good health. 
 
 Taylor would find it difficult to make that argument, right now. *This couch is amazing*.
 
-She's not even sure whose couch it is. But that doesn't matter, because it's *warm*, it's soft, it's... well, it's actually a fairly mediocre piece of furniture. An almost decorative couch, nicer in appearance than in comfort. It still, of course, beats cold asphalt behind a dumpster any day.
+She doesn't even have the slightest idea whose couch it is. But that doesn't matter, because it's *warm*, it's soft, it's... well, it's actually a fairly mediocre piece of furniture. An almost decorative couch, nicer in appearance than in comfort. It still, of course, beats cold asphalt behind a dumpster any day.
 
 If she slept, here, she doesn't remember. The last... days? week? is foggy, but at least she feels rested now. Like a weight's been lifted off her shoulders.
 
@@ -10,7 +10,11 @@ Inhale, exhale.
 
 Peace.
 
-She gets up from the couch and looks around. A small painting hangs from one wall. In the middle is a quote: *I have always imagined that Paradise will be a kind of library.* Its background is a blurred face, greyscale, regal. 
+She gets up from the couch and looks around. A small painting hangs from one wall. In the middle is a quote, in milky-white cursive: 
+
+*I have always imagined that Paradise will be a kind of library.* 
+
+Its background is a blurred face, greyscale, regal. It doesn't quite fit, scratched glass and chipped border out of place on the pristine wall, but it gives the room some character.
 
 The couch below it, across from the one she was sleeping on, looks expensive but unused. In fact, the entire room - an apartment, it seems - hardly gives off the feeling of being lived in. *It's so clean*. It's not even decorated; other than the single painting, the walls are bare, and even the miniature kitchen counter has nothing on it.
 
