@@ -1,4 +1,5 @@
 import re, json, sys, glob, os
+import hashlib
 
 IGNORED_FILES = "index.html"
 OUTPUT_EXT = '.gi.html'
@@ -49,7 +50,7 @@ def fh(filename):
     if not os.path.isfile(filename):
         return None
     with open(filename, 'r') as file:
-        return hash(file.read())
+        return hashlib.sha1(file.read().encode('utf-8')).hexdigest()
 
 def should_compile(filename):
     hr = fh(filename)
@@ -72,6 +73,7 @@ def write_compiled(filename, contents, config):
 def full_compile(filename, config):
     if not should_compile(filename):
         return
+    print("Compiling:", filename)
     new_contents = get_compiled(filename)
     if new_contents is None:
         print("Compilation failed for", filename)
@@ -96,7 +98,6 @@ def dts(d):
 
 def main(filenames, config):
     for filename in filenames:
-        print("Compiling:", filename)
         full_compile(filename, config)
     print('Making index.')
     index = [os.path.basename(x) for x in html_files(config)]
