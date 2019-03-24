@@ -1,5 +1,22 @@
 import re, json, sys, glob, os
 
+IGNORED_FILES = "index.html"
+OUTPUT_EXT = '.gi.html'
+
+def file_guard(filename):
+    """
+    Takes a filename and checks to see if it 
+    is something we shouldn't be compiling.
+    Returns true if we shouldn't compile,
+    exits if the filename indicates an error.
+    """
+    if filename.endswith('.py') or filename.endswith('.sh') or filename.endswith(OUTPUT_EXT):
+        print('Refusing to compile script file.')
+        return True
+    if filename in ['.git', '.vscode']:
+        sys.exit('You are doing something very wrong, sir. [Filename was: ' + filename + ']')
+    return False
+
 def write(*args, **kwargs):
     print(*args, **kwargs)
 
@@ -7,15 +24,9 @@ def warn(*args, **kwargs):
     write("Warning:") 
     write(*args, **kwargs)
 
-IGNORED_FILES = "index.html"
-OUTPUT_EXT = '.gi.html'
-
 def get_compiled(filename):
-    if filename.endswith('.py') or filename.endswith('.sh') or filename.endswith(OUTPUT_EXT):
-        print('Refusing to compile script file.')
-        return None
-    if filename in ['.git']:
-        sys.exit('You are doing something very wrong, sir. [Filename was: .git]')
+    if file_guard(filename):
+        return None # We should not compile this!
     with open(filename, 'r') as file:
         d = file.read()
     d = re.sub(r'\*\*\*([^\*]*)\*\*\*', r'<b><i>\1</i></b>', d)
@@ -24,17 +35,52 @@ def get_compiled(filename):
     d = re.sub(r'(.+?)(\r|\n|$)+', r'<p>\1</p>\n\n', d)
     return d
 
+def get_file_as_json(filename):
+    if not os.path.isfile(filename):
+        return {}
+    with open(filename, "r") as file:
+        return json.load(file)
+        
+def write_file_as_json(filename, data):
+    with open(filename, "w") as file:
+        json.dump(data, file, indent=4) 
+
+def fh(filename):
+    if not os.path.isfile(filename):
+        return None
+    with open(filename, 'r') as file:
+        return hash(file.read())
+
+def should_compile(filename):
+    hr = fh(filename)
+    if hr is not None:
+        # File exists
+        sj = get_file_as_json("status.json") 
+        if filename in sj and sj[filename] == hr:
+            return False
+        return True
+    else:
+        print(filename, "does not exist.")
+        ### todo - allow user to delete corresponding generated file
+        ### something like if isfile(get_output_path(filename)) etc
+        return False
 
 def write_compiled(filename, contents, config):
     with open(os.path.join(os.path.normpath(config['output']), filename + OUTPUT_EXT), 'w') as file:
         file.write(contents)
 
-
 def full_compile(filename, config):
+    if not should_compile(filename):
+        return
     new_contents = get_compiled(filename)
     if new_contents is None:
+        print("Compilation failed for", filename)
         return
     write_compiled(filename, new_contents, config)
+    # Update the hash
+    sj = get_file_as_json("status.json")
+    sj[filename] = fh(filename)
+    write_file_as_json("status.json", sj)
 
 def html_files(config):
     return [f for f in glob.glob(get_def("output", config, "") + "*.html") if os.path.basename(f) not in IGNORED_FILES]
@@ -81,6 +127,9 @@ def dmerge(a, b):
             a[k] = b[k]
     return a
 
+def validate(config):
+    return config
+
 def get_config(args):
     config = {'loaded': False}
     filenames = []
@@ -114,6 +163,8 @@ def get_config(args):
 
     if debug:
         print(json.dumps(config, indent=2))
+
+    config = validate(config)
 
     filenames = args
     return [filenames, config]
