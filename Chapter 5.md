@@ -8,7 +8,11 @@ A good question. Unfortunately, she doesn't really know the answer. She feels li
 
 Sore throat, she rubs at it. After a few seconds, the girl offers her a half-full cup of water.
 
-"Thank you," she says, with some effort. When she's ready again: "I don't think so."
+"Thank you," she says, with some effort. 
+
+The water goes down nicely. Trickling through her throat, not cold anymore, but not quite room temperature. Would she have cared if it was? 
+
+"I don't think so."
 
 The girl stares out the window.
 
