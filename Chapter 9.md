@@ -2,11 +2,11 @@ The echoes whisper softly, resonating in her ears.
 
 It's a unique music. Melody formed from silence, ringing noises that she isn't quite sure are real. A faint beat, pulsating, maybe the blood in her veins.
 
-She opened her eyes, and now she's *here*. She doesn't particularly like it, lonely and dark and spacious, but she doesn't feel negative about it, either. Just... neutral. If this was "peace", maybe it would be less of an ideal, and more of a purgatory.
+She opened her eyes, and now she's *here*. She doesn't particularly like it, lonely and dark and spacious, but she doesn't feel negative about it, either. Just... neutral. If this was the definition of "peace", maybe it would be less of an ideal, and more of a purgatory.
 
 For some indeterminate period of time, she watches the nothingness pass by. It has a peculiar rhythm, switching back and forth between different sensations of void. Sometimes claustrophobic, sometimes cozy, sometimes cold, sometimes comfortable.
 
-There's something she's forgetting. It's coming back to her slowly, but still distant. She replays memories like a phone's voicemail: Her father, angry; the streets of Brockton Bay, gray and lifeless; Earth Aleph, friendly and calm. 
+There's something she's forgetting. It's coming back to her slowly, but still distant. She replays memories like a phone's voicemail: Her father, angry; the streets of Brockton Bay, her gray and lifeless home city; Earth Aleph, friendly and calm. 
 
 *Faultline's Crew.*
 

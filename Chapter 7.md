@@ -4,27 +4,35 @@
 
 *That's it?*
 
-*"I... I don't know what's going on. I don't have any control of my life. I'm scared in the morning, when I wake up, because I can't remember anything. I just want to make it long enough... to piece together something. Some sort of next step."*
+*"I... I don't know what's going on. I don't have control of my life. I'm scared in the morning, when I wake up, because I can't remember anything. Not even my dreams, not a single one. I just want to make my life long enough... to piece together something. Some sort of next step."*
 
 *What would that look like?*
 
 *"Having some sort of... purpose, maybe."*
 
-*That seems a bit paradoxical.*
+*Your purpose is to find a purpose. That seems a bit circular.*
 
 *"Maybe. I just want to have a goal. Something to focus on."*
 
 Dreaming.
 
-Always dreaming.
+White stars in the cold night sky. A game of connect-the-dots. 
 
-She opens her eyes, but isn't sure whether this is real life or another vision. The room is mundane enough; a bookshelf littered with miscellaneous trinkets, a plain chair pressed up against a pair of window curtains, her bed positioned directly across from the door. 
+A constellation shaped like a face. Vague attempts to identify it, but each one different than the last.
+
+A man's face, middle-aged but weary. A woman, stoic, calm. A girl, cold, dispassionate. Distant memories.
+
+The stars swirl and combine, pulling towards each other from across the galaxy to form a brilliant white mirror. It reveals a girl with her eyes closed, ashen gray skin, spools of thin hair. Eyes closed, unseeing. Staring. 
+
+Dreaming. Always dreaming.
+
+She opens her eyes, but isn't sure whether this is real life or another vision. The room is mundane enough: a bookshelf littered with miscellaneous trinkets, a plain chair pressed up against a pair of window curtains, her bed positioned directly across from the door. 
 
 At some point, she gets out of bed, gets dressed with clothes hidden in a dresser at the foot of the bed. They don't perfectly fit her, but she isn't particularly concerned with fashion. A mirror provides an unfortunate perspective. She attempts to fix her hair, but doesn't find much success.
 
 "It is nice to meet you." 
 
-She ran into the man in the hallway. He's tall and- well, large. His appearance reminds her of something, like she should know who he is, but that knowledge is just a bit out of reach. Hopefully she'd recognize him if they'd met before; she tries to avoid staring at his translucent skin.
+The man had met her in the hallway. He's tall and- well, large. His appearance reminds her of something, like she should know who he is, but that knowledge is just a bit out of reach. Hopefully she'd recognize him if they'd met before; she tries to avoid staring at his translucent skin.
 
 "Hello." Is that an acceptable response? She isn't sure. 
 
