@@ -52,11 +52,11 @@ And it's over, as far as she can tell. In the span of a few moments, it becomes 
 
 "It's good to see you again. We were... worried. Did you go somewhere else?"
 
-"Me?" She meets eyes with the woman - Faultline. No visible weapons, but still exuding a certain sense of *danger* that she's never noticed before.
+"Me?" She meets eyes with the woman - Faultline. No visible weapons, she's standing still, hands at her side. Somehow, the woman still exudes a certain sense of *danger* that she's never noticed before.
 
 Faultline sighs. "Yes. You've been gone since Tuesday."
 
-"What day is it?" She might have been able to find that information on the computer. Twinge of regret.
+"What day is it?" As soon as the words leave her mouth, she feels a twinge of regret. She might have been able to find that information on the computer. Faultline gives her a strange look.
 
 "Monday. It's been almost a week - where were you?"
 
@@ -64,11 +64,13 @@ She thinks.
 
 Beautiful nothingness. A quiet song, whispered silence.
 
+A cold, emotionless blanket.
+
 "Nowhere."
 
 "Okay." She waves at Newter, and he nods. "Where's the laptop I gave you?"
 
-"I dropped it."
+"I dropped it." Newter is already walking off, looking towards where one of the enemies were still lying in the street.
 
 "Okay." She's exchanging some kind of series of hand gestures with Gregor. "Do you remember where? It's... not vital, but important."
 
@@ -80,7 +82,7 @@ She walks away. They leave by van a few minutes later, dented laptop along for t
 
 "This is what it's like?"
 
-"What do you mean by 'this'?"
+"What does 'this' refer to?"
 
 "Being a... cape."
 
