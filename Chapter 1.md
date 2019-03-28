@@ -2,9 +2,9 @@
 
 The alarm isn't going off. She can't quite make out the digits, but it *looks* like 5:00. When was she going to get up, again?
 
-Not at 5AM, that's for certain. She closes her eyes, waits to fall back asleep.
+Not at 5AM, that's for sure. She closes her eyes, takes a deep breath, and waits to fall back asleep.
 
-The shrill sound of glass breaking is more rousing than an alarm could ever be. It's not the sound of a bowl clattering to a tile floor or a dropped mug shattering. It's harsher, more violent. Glass exploding, perhaps, although that might be going a bit far.
+The shrill cracking sound of glass breaking is more rousing than an alarm could ever be. It's not the sound of a bowl clattering to a tile floor or a dropped mug shattering. It's harsher, more violent. Glass exploding, perhaps, although that might be going a bit far.
 
 And it's still not enough to get out of bed at 5 in the morning. Not with her body feeling like this, sore and aching from some faint memory of *something*. Not with this lingering headache, feeling like the back of her skull was *split open*, like her brain was -
 
