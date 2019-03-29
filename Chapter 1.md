@@ -1,6 +1,6 @@
 *Tired*.
 
-The alarm isn't going off. She can't quite make out the digits, but it *looks* like 5:00. When was she going to get up, again?
+The alarm isn't going off. She can't quite make out the digits, but it *looks* like 5:00. What time was she going to get up, again?
 
 Not at 5AM, that's for sure. She closes her eyes, takes a deep breath, and waits to fall back asleep.
 
@@ -48,25 +48,25 @@ Family. *My father*.
 
 The realization hits her hard, almost physical, and she half-stumbles, a shard of glass digging into her foot.
 
-She cuts off a startled cry, but the man - *Dad* - is already turning.
+She cuts off a startled cry, looks up. The man - *Dad* - doesn't move for a second, then turns.
 
 He stares at her, for a second, then yells, incoherent. 
 
-One cautious step back isn't enough to dodge a flung wine bottle. It smashes against her shoulder, breaks. Remnants splatter her clothing. 
+One cautious step back isn't enough to dodge a flung wine bottle. It smashes against her shoulder, shatters, pushing her back. Remnants splatter her clothing. 
 
 Damp, cold, disgusting.
 
-*Damp, disgusting, scraping.* More screaming.
+*Damp, disgusting, scraping.* More screaming, and she isn't sure if it's her, or him, or both of them.
 
-She shakes, steps over more junk towards the door. The man had looked like her father from behind, but now, she realizes that she doesn't recognize him at all. A stranger in her home... or is she a stranger in his home? *Where am I?*
+She shakes, steps over more junk, backing away towards the door. He had looked like her father from behind, but now, she realizes that she doesn't recognize the red-faced man at all. A stranger in her home... or is she a stranger in his home? *Where am I?*
 
-He's is screaming at her, now. Rage, or fear, or something else. It's all the more reason to *get out*, push open the door.
+He's screaming at her, now. Rage, or fear, or something else. It's all the more reason to *get out*, turn the lock, push open the door.
 
-Something heavy hits her in the back as she staggers out the door.
+Something heavy hits her in the back as she staggers out the door. Only by twisting her body is she able to manage falling on her back onto the small lawn.
 
-She looks up, crouched over, to see the man staring at her. 
+She looks up, pushing her body off the ground with her right arm, to see the man staring at her. 
 
-Her, weak, unmoving, half-dead. Him, shaking, with eyes darting about, ragged breathing, a red face, anger. 
+Her, weak, barely moving, half-dead. Him, shaking, with eyes darting about, ragged breathing through a fierce glare, rage. 
 
 *Who is he?*
 
