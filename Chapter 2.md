@@ -2,53 +2,61 @@
 
 "Don't bother, man. Ain't got shit, look at them."
 
-It is cold. 
+It is indeed cold. 
 
-January is never the most pleasant climate, but today has been particularly bad. Almost like the world is trying to torment her. Further, that is.
+January never has the most pleasant climate, but today has been particularly bad. Almost like nature itself is trying to torment her. Further, that is.
 
 "It is cold."
 
 Only after the one man turns to stare at her does she realize she's spoken. It's hardly a full thought, but there isn't much else she might have wanted to say. 
 
-"Listen, kid. You got money?" Smirk. "Some cash? Don't take credit, heh."
+"Hey, listen, kid. You got any money?" Smirk. "Some cash? Don't take credit, heh."
 
-The other guy snorts. "That joke is shit."
+The other guy snorts. "That joke is shit." His lip curls up, just one corner, and it doesn't make for a pleasant appearance.
 
-She feels around in her pocket. Yes, there's money in there. Not a lot. Just enough for a bus pass, or two. *Always keep enough money for a bus pass on you. You never know where you'll end up.* Who said that?
+She feels around in her pocket. Yes, there's money in there. Not a lot. Just enough for a few bus passes, or a meal, depending on the denomination of the bill. *Always keep enough money for a bus pass on you. You never know where you'll end up.* Not spoken out loud, not her voice. Who had said that?
 
 "Like your face, fucker."
 
-"Yes, I do have money," she says. Something feels strange about her voice. Not scratchy or raw, but hollow. She tries to fix it by coughing, ineffectively.
+"Yes, I do." Something feels strange about her voice. Not scratchy or raw, but hollow. She tries to fix it by coughing, ineffectively, sounding like she's coughing into a wooden box.
 
-One of them snorts. 
+One of them snorts.
 
-"I got some of that good stuff, yeah?" The first man shows her a bag. There's some sort of weird, well, something weird in it. She doesn't recognize it, but she can figure it out after a few seconds: drugs. For a moment, she feels a strange sense of pride. It's not the most difficult deduction ever, but anyone this tired would have a hard time figuring things out.
+"I got some of that good stuff, yeah?" The first man shows her a bag. There's some sort of weird, well, something weird in it. She doesn't recognize it, but she can figure it out after a few seconds: drugs. For a moment, she feels a strange sense of pride. It's not the most difficult deduction ever, but anyone this exhausted would have a hard time figuring things out.
 
 Or so she assumes. Hopes.
+
+"Looks like she's a'ready on some shit, bro. And whatever it is, it's can't be worse than any of Brock's weak-ass garbage."
+
+She doesn't quite follow what he's saying. It's hard to pay attention while she's digging through her mind, drudging up a few more precious words. 
 
 *"If anyone ever offers you drugs, don't take them."* 
 
 *"No, it's not like that. They're not awful when you try them... that's the problem. You'll want to keep going, until it ruins your life."*
 
-A few memories fit together, after a fashion. They're wearing strange clothing and peddling drugs on the street: gang members, perhaps. Asking a teenager, well, that didn't indicate the best position in society.
+A few memories fit together, after a fashion. They're wearing strange clothing and peddling drugs on the street: gang members, perhaps. Soliciting a teenager, well, that didn't indicate the best position in society.
 
-She recalls learning about some of the local gangs in school. One was particularly notorious for drug dealing, but she can't quite get the name to come to her. They were backed by a few parahumans, making them more dangerous than the average dealers, but still considered less of a threat than a fair number of gangs in the area.
+In a city as dark and depressing as this one seems to be, she feels like she should be more familiar with the resident gang population. Perhaps one was particularly notorious for drug dealing, but she can't quite get the name to come to her. Most had some form of parahuman backing, to drive recuitment and provide a means for fighting back against and taking territory from rival gangs. But someone with superpowers wouldn't have been selling drugs in the street - small comfort, that these men were far less concerning than their superiors.
 
 What did that say about this city, anyways?
 
 She shakes her head. "No, thank you." Habit.
 
-The man offering her the baggy barks out a laugh. "Little shitter has manners, 'least. Should fuck off, though, y'know? Don't want to be in this part of town."
+The man offering her the baggy barks out a laugh. "Little shitter has manners, 'least. Should fuck off, though, y'know? Don't want to be in this part of town. Not doped up."
 
 He's right, she doesn't. At this point, she doesn't want to be *anywhere* in this city. 
 
-After a few seconds of them staring at her, she leaves. It was *her* wall, but apparently 'two twenty-something gang members' had more right to it than 'one sophomore teenage girl (who was definitely there first)'.
+"The fuck you giving her tips for?"
+
+The other man groans. "The fuck you care, C?" 
+
+After listening to their discussion for a moment, she pushes herself up and leaves. It was *her* wall, but apparently 'two twenty-something gang members' had more right to it than 'one sophomore teenage girl (who was definitely there first)'.
 
 The library is warm, and it's open until eight o'clock on weekdays. She doesn't really feel like reading, but the computers are useful, even if they take three minutes to log into. 
 
-By the time her session is up, she's sick of the news. It's just too *depressing*. There's so much in this city to worry about. Reading articles about gang wars or corruption in the recent election or drive-by shootings or deaths in schools or a surge in local Nazi recruitment is... almost enough to make her sick.
+By the time her session is up, she's sick of the news. It's just too *depressing*. There's so much in this city to worry about. Reading articles about gang wars or corruption in the recent election or drive-by shootings or deaths in high schools or a surge in local Nazi recruitment is... almost enough to make her sick.
 
-Even if she wasn't sick already, that is.
+Even if she wasn't sick already, that is. She's had a worrying fever for what must have been a few days, and it isn't getting any better.
 
 The librarians are giving her strange looks, so she retreats deeper into the library. There's a nice corner with a fresh newspaper, which is where she realizes her mistake: using the computer to read the news, leaving her with nothing to do when her hour was up.
 
@@ -56,21 +64,21 @@ Well, she could read a book, of course. But it's hard enough to focus on a brief
 
 At least the tabloids are interesting.
 
-Apparently there's a new, stylish gang in town. The *Undersiders*. Nothing in the news about them, but apparently Johnny Idgetown knows something that other journalists don't. They're actually employed by Parian ("the local fashion-slash-cape guru, with plenty of financial capital to back a covert advertisement"), and she custom-made their costumes.
+Apparently there's a new, stylish gang in town. The *Undersiders*. Nothing in the news about them, but apparently Johnny Idgetown knows something that other journalists don't. They're actually employed by Parian ("the local fashion-slash-cape guru, with plenty of financial capital to back a covert advertisement"), and she custom-made their costumes. 
 
-The piece is accompanied by a photograph of the group. Shot from a window or something along those lines, it shows them riding gigantic monsters and trailing black smoke. Like the four horsemen, perhaps, but five, and less impressive.
+The piece is accompanied by a photograph of the group. Shot from a window or something along those lines, it shows them riding gigantic monsters and trailing black smoke. Like the four horsemen, perhaps, but teenaged gang members, and less far less powerful.
 
-Their clothing comes off more intimidating than it does compelling, but maybe that's what capes are looking for?
+Their costumes mostly come off more intimidating than they do compelling, but maybe that's what capes are looking for?
 
 She wakes up to a light tap on the back.
 
 "The library's closing."
 
-The librarian meets her eyes as she straightens up. There's a bit of hesitation, there - she can't imagine what she looks like, right now - but they don't say anything.
+The librarian meets her eyes as she straightens up. There's a bit of hesitation, there - she can't imagine what she looks like, right now - but the middle-aged lady doesn't say anything.
 
 Probably for the better.
 
-The night is colder than the one before. 
+This night is colder than the one before, and she struggles to stay warm enough to fall asleep.
 
 She hasn't slept much, recently. Spending nights wandering the city is *nice*, in a strange way. It's a different way of looking at the world, at her surroundings. 
 
