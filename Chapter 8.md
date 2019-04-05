@@ -4,7 +4,7 @@ She gets the feeling it isn't really her, that she's just along for the ride. Th
 
 Enjoying life?
 
-She wants to enjoy life, too. What is that saying? 'Stop and smell the roses.' *I want to find the roses.* 
+She wants to enjoy life, too. What is that saying? 'Stop and smell the roses.' *I want to* find *the roses.* 
 
 A silly thought. 
 
@@ -24,11 +24,13 @@ Waking up.
 
 *"She's not breathing, she's not breathing!"*
 
-*"Do you think that I should call an ambulance?"*
+*"Would you like me to call an ambulance?"*
 
 "Calm down, Newter. Gregor, not yet."
 
-She clears her throat, quietly. "What's going on?"
+Clearing her throat, quietly: "What's going on?"
+
+Then three voices, clambering over one another.
 
 "Whoa!" 
 
@@ -64,19 +66,19 @@ Miniscule, from this perspective.
 
 "That's fine, there's a lot to take in, here. Taylor, would you be all right if we tried this again? I have a few ideas."
 
-"What?!" Newter turns to Sarah, almost glaring. "She literally just- just *died*, in front of me. I don't really want to see that again."
+"What?" Newter chokes out, turning to Sarah, a strangled look on his face. "She literally just- just *died*, in front of me. I don't really want to see that again."
 
 Sarah sighs. "We'll collect some of your drug, then Gregor and I can help Taylor with testing."
 
 A few minutes later, they sit around a table, Sarah's notepad angled so that all three of them can read it. She's laying out a plan; Taylor tries to follow it, but fails miserably. There are a variety of tests to attempt to figure out what she can do: everything from giving her miscellaneous things to 'take with her', to measuring the exact amount of time between her 'dying' and reappearing.
 
-The discussion is somewhat disconcerting. Taylor goes to inspect the dead version of herself.
+The discussion is somewhat uncomfortable. Taylor goes to inspect the dead version of herself.
 
-There's something a little unrealistic about her. Well, *it*. She tries to dehumanize it mentally; she doesn't want to make that connection to her own mortality. Instead, she distracts herself with the inanimate parts - the sweater, for example. It's the same as the one she's wearing, but something about it brings her back to her original thought. It doesn't look quite *real*. There's something off, a combination of miniscule tells that combine into an uncomfortable aura of fakeness.
+There's something a little unrealistic about her. Well, *it*. She tries to dehumanize it mentally; she doesn't want to make that connection to her own mortality. Instead, she distracts herself with the inanimate parts - the sweater, for example. It's the same as the one she's wearing, but something about it brings her back to her original thought. It doesn't look quite *real*. There's something off, a combination of miniscule tells that combine into an disconcerting aura of fakeness.
 
 She pulls at a loose thread, and a full corner of the sweater frays, white stitches taut cords across a broken gray background. Her glasses come off; she tries the others on. Blurry, plastic.
 
-The smell isn't as disgusting as she'd expected. There's no aroma of feces or sweat; instead, it's just a strong burnt odor, like ash.
+The smell isn't as disgusting as she'd expected, or remembered from the previous time. There's no aroma of feces or sweat. Instead, it's just a strong burnt odor, like ash.
 
 Sarah is watching her. "Find anything interesting?"
 
