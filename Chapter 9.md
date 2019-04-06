@@ -6,7 +6,7 @@ She opened her eyes, and now she's *here*. She doesn't particularly like it, lon
 
 For some indeterminate period of time, she watches the nothingness pass by. It has a peculiar rhythm, switching back and forth between different sensations of void. Sometimes claustrophobic, sometimes cozy, sometimes cold, sometimes comfortable.
 
-There's something she's forgetting. It's coming back to her slowly, but still distant. She replays memories like a phone's voicemail: Her father, angry; the streets of Brockton Bay, her gray and lifeless home city; Earth Aleph, friendly and calm. 
+There's something she's forgetting. It's coming back to her slowly, but still distant. She replays memories like a particularly detailed voicemail: Her father, angry; the streets of Brockton Bay, her grey and lifeless home city; Earth Aleph, friendly and calm. 
 
 *Faultline's Crew.*
 
@@ -26,9 +26,9 @@ She closes her eyes, and wakes up.
 
 The first thing that hits her is the *smell*. It's blood and chemicals, a disgusting mix like some kind of dilapidated hospital. 
 
-She scans her surroundings. Gregor is to her right; he hasn't noticed her yet, some part of her mind connects him with the smell of chemicals. He's spewing something vile-looking at- at an *army*, a hundred or two hundred men surging towards him, brandishing all sorts of weapons. As it gushes over them, dozens fall to the ground, writhing and screaming.
+She scans her surroundings. Gregor is to her right; he hasn't noticed her yet. Some part of her mind connects him with the thick smell of chemical. He's spewing something vile-looking at- at an *army*, a hundred or two hundred men surging towards him, brandishing all sorts of weapons. As it gushes over them, dozens fall to the ground, writhing and screaming.
 
-The laptop, completely forgotten, drops from her grip as she stares.
+The laptop drops from her grip, completely forgotten, as she stares.
 
 Gregor turns at the sound of it hitting the ground. The expression on his face isn't one she's seen before; an electric blue vortex swirls underneath his transparent skin.
 
@@ -44,7 +44,7 @@ But she can't focus on that, because the ground is changing underneath her. Wher
 
 She disappears in a burst of flame; Newter flings himself halfway across the street, forcing the woman to retreat once again. 
 
-It takes her a moment to force herself to focus, remember her initial objective. Gregor has already left her behind, she moves uncertainly towards Sarah - Faultine - who's started to use her power on odd terrain appearing out of thin air. A dilapidated water tower cracks in half, basin teetering then careering towards the ground, barreling through thousands of tiny gashes in the air. 
+It takes her a moment to force herself to focus, remember her initial objective. Gregor has already left her behind, she moves uncertainly towards Sarah - Faultine - who's started to use her power on odd terrain appearing out of thin air. A dilapidated water tower cracks in half, basin teetering then careering towards the ground, barrelling through thousands of tiny gashes in the air. 
 
 Then they're gone, and Newter is standing behind where they'd been, shaking water off of himself and looking around the street. 
 
