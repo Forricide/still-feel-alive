@@ -1,10 +1,10 @@
 *Swimming in a sea of void, she's floating, just barely above the crest of the waves.*
 
-*Nothing meets emptiness. She gasps for breath. There's nowhere to surface; it's the same above and below.*
+*A surge of nothing crests to meet dull emptiness. She gasps for breath. There's nowhere to surface; it's the same above and below.*
 
-*The world is laid out before her. It is innumerable; a single instance would have already been uncountable, but she gazes into an infinitum, a planet folded in on itself over and over. A fractal, branches and trees all within the same spherical forest.*
+*The world is laid out before her. It is innumerable; a singular instance would have already been uncountable, but she gazes into an infinitum, a planet folded in on itself over and over and over again. A brilliant fractal, branches and trees all within the same spherical forest.*
 
-*One stands out to her, another in the back of her mind.* 
+*One branch stands out to her, another in the back of her mind.* 
 
 *Where to go?*
 
@@ -16,7 +16,7 @@ She breathes in, deeply: Water.
 
 Choking, thrashing.
 
-A thousand pounds of ocean weigh down on her; she's crushed beneath the pressure, can't move. Panicking. Drowning, metaphorically and literally.
+A thousand pounds of ocean weigh down on her; she's crushed beneath the pressure, can't move. Panicking. Drowning, metaphorically and literally, mental burden made physical.
 
 *Where is this place?*
 
@@ -28,7 +28,7 @@ A thousand pounds of ocean weigh down on her; she's crushed beneath the pressure
 
 *She feels the pull, again. Almost beckoning to her. Something beyond this vast emptiness, calling to her.*
 
-*This time, she chooses where to go. Not consciously, nothing as simple as that, but there's an element of certainty in the eventual result.*
+*This time, she chooses where to go. Not consciously, nothing as simple as that, but there's an element of certainty, of destination, in the eventual result.*
 
 A woman screams. 
 
