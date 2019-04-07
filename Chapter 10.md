@@ -32,29 +32,31 @@ A thousand pounds of ocean weigh down on her; she's crushed beneath the pressure
 
 A woman screams. 
 
-She's gasping for air, keeling over. It comes - so easily, blood rushing through her veins. Coughing, expecting water from her lungs, finding only air.
+She's gasping for air, keeling over. It comes - so easily, blood rushing through her veins. Coughing, attempting to expel water from her lungs, finding only air.
 
 The most delicious breath she's ever taken. Not that she remembers many others.
 
 "It's- You- you're back."
 
-Neither of them appear particularly calm; the woman's expression is still intermingled surprise and fear, and she's still breathing hard. Still, the answer is easy: "Yes."
+Neither of them appear particularly calm; the woman's expression is still intermingled surprise and fear, and she's still breathing hard. She struggles for a moment for what to say, settling on the simple: "Yes."
 
 "Listen, I-"
 
 "Annette, honey, what's going on?"
 
-"It's- this is that girl I told you about, Herb." Only a few seconds have passed, but she's already composed, crossing her arms. A brief flare of recognition, quickly subsiding.
+"It's- this is the girl I told you about, Herb." Only a few seconds have passed, but the woman - Annette - is already composed, crossing her arms. 
 
-He squints. "The one that got run over?" Not skeptical, but something close. Worried, perhaps, but he's an unfamiliar face, even more than the woman.
+A brief flare of recognition, quickly subsiding.
+
+He squints. "The one that got run over?" Blunt. Not skeptical, but something close. Worried, perhaps, but he's an unfamiliar face, even more than the woman.
 
 There's a pause. "It would seem so."
 
 A brief sensation of pain shoots through her foot. She looks down. No useful information, other than the colour of her shoes.
 
-"So you're a- what do they call them, again? Parahuman?"
+"So you're a - what do they call them, again? Parahuman?"
 
-They're gray. In the mediocre lighting, they almost blend in with the gray-brown plank flooring. It looks cold; she shivers.
+They're grey. In the mediocre lighting, they almost blend in with the grey-brown plank flooring. It looks cold. She shivers.
 
 "Maybe."
 
@@ -62,7 +64,7 @@ He snorts. "A bit non-committal, I get you. So you're, uh, here to visit?"
 
 "Maybe."
 
-The two adults look at each other. 
+The two adults glance at each other. 
 
 She frowns, just slightly. Wasn't there something she was supposed to be doing? She searches back -
 
@@ -72,7 +74,7 @@ She frowns, just slightly. Wasn't there something she was supposed to be doing? 
 
 "Are you okay? Hey, say something!"
 
-Her knees press against the cold floor. Wood buckles, a small amount, under their weight. A spark of a headache shoots through her head. The floor looks cold, is cold, permeating through her dark blue jeans. Blue on gray-brown, distant light providing pale shadow. She shivers uncontrollably.
+Her knees press against the cold floor. Wood buckles, a barely noticeable amount, under their weight. A spark of a headache shoots through her head. The floor looks cold, is cold, a chill permeating through her dark blue jeans. Blue on grey-brown, distant light providing pale shadow. She shivers uncontrollably.
 
 "What do I do? Anne, do I need to call someone? An ambulance?"
 
@@ -82,7 +84,7 @@ Water swishes back and forth. Miniature waves. Sound waves, too. Back and forth,
 
 She drinks. Breathes deeply.
 
-And then she's choking again, spasming, hunched over the ground.
+And then she's choking again, spasming, hunched over the ground. Then she knows, with total clarity, that her time here is already over.
 
 For a moment, she'd wanted to be here. Faltered, just barely. Is this her punishment?
 
@@ -92,13 +94,13 @@ Then she's in the void again, alone. Her ears seem to ring for a moment; it fade
 
 For once, she makes a conscious decision to stay longer. Not that long - not that she could keep track of time either way - but long enough to think over things. She *peruses* her memory, indexes it, analyzes. 
 
-A decision: Parahuman powers make some things easier. Making money, forming relationships of a sort. *dying, pain, despair* Other things, it makes more difficult. Living a long life, especially. *distanced from society, hopeless*
+A decision: Parahuman powers make some things easier. Making money, forming relationships of a sort. *dying, pain, despair* Other things, it makes more difficult. Living a long life in particular. *distanced from society, hopeless*
 
-If she's immortal - well, nothing lives forever. But if she can't die in a regular sense, then there's no reason to avoid it. *this can't be right*
+If she's immortal - well, nothing lasts forever. But if she can't die in a regular sense, then there's no reason to avoid it. *this can't be right*
 
 She hears faint whispers, a voice - in her mind, perhaps, but is there anything here other than her mind? Counsels patience, safety. Inaction, passivity.
 
-For a moment, she listens. Then ignores it, easily given the volume.
+For a moment, she listens. Then ignores it, and it fades, as if suppressed.
 
 "Hey, Sarah."
 
