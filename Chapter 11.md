@@ -1,12 +1,12 @@
-There are more people in the room, now. 
+It's hard not to notice a difference when she looks around the room.
 
-Sarah was right, from a certain perspective. This particular group of people couldn't afford to stagnate, not in the high-paced world of capes. So they'd sought out more members, parahuman or not, to round out their numbers.
+Sarah had been right, from a certain perspective. This particular group of people couldn't afford to stagnate, not in the high-paced world of capes. So they'd sought out more members, both parahuman and not, to round out their numbers.
 
-At one table, Newter and Gregor are playing some kind of card game. They'd tried to teach her, but it hadn't gone so well. She can hardly remember the rules now, anyways. Spitfire is watching, hovering a comfortable distance away. It's impossible to tell who's winning; Newter's always chuckling, playing cards with exaggerated gestures, while Gregor has a perfect poker face. Two more cards come down, Gregor sighs, Newter jumps out of his seat.
+At one table, Newter and Gregor are playing some kind of card game. Newter had tried to teach her, but it hadn't gone so well. She can hardly remember the rules now, anyways. Spitfire is watching, hovering a comfortable distance away. It's impossible to tell who's winning; Newter's always chuckling, playing cards with exaggerated gestures, while Gregor has an eternally perfect poker face. Two more cards come down: Gregor sighs, Newter jumps out of his seat.
 
-Labyrinth is in her room, resting. She can feel the girl in the back of her mind - no, not exactly her presence, but the world she's imagining. Like a distant headache, not painful, but noticeable, slowly growing over the past weeks. She's seen the worlds that Labyrinth sees through the lens of real life. Now, she wonders if it could be possible to visit them in person.
+Labyrinth is in her room, resting. She can feel the girl in the back of her mind - no, not exactly Labyrinth herself, but the world she's imagining. Like a distant headache, not painful, but noticeable, slowly growing over the past weeks. She's seen the worlds that the girl sees through the lens of real life. Now, she wonders if it could be possible to visit them in person.
 
-Their most recent job brought them more than just money. The 'Azn Bad Boys' - a comical name for a terrifying local gang - had accrued a lot of international attention, especially in the past month. Playing a major part in taking them out had earned them a considerable increase in reputation; so much so that Sarah had been contacted by their newest recruit.
+Their most recent job brought them more than just money. The 'Azn Bad Boys' - a comical name for a terrifying local gang - had accrued a lot of national attention, especially during the past month. Playing a major part in taking them out had earned them a considerable increase in reputation; so much so that Sarah had been contacted by their newest recruit.
 
 An all around success, even if the pay from the local Protectorate hadn't been particularly stellar. *"Government money's always mediocre. Always need to adjust rates a little, but it's an important relationship to keep."* 
 
