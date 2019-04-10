@@ -8,27 +8,29 @@ Labyrinth is in her room, resting. She can feel the girl in the back of her mind
 
 Their most recent job brought them more than just money. The 'Azn Bad Boys' - a comical name for a terrifying local gang - had accrued a lot of national attention, especially during the past month. Playing a major part in taking them out had earned them a considerable increase in reputation; so much so that Sarah had been contacted by their newest recruit.
 
-An all around success, even if the pay from the local Protectorate hadn't been particularly stellar. *"Government money's always mediocre. Always need to adjust rates a little, but it's an important relationship to keep."* 
+An all around success, even if the pay from the local Protectorate hadn't been particularly stellar. *"The government generally doesn't want to blow the budget on mercenaries. Always need to adjust rates a little, but it's an important relationship to keep."* 
 
-Even a week later, there was an air of celebration.
+Even a week later, there is an air of celebration.
 
-She's sitting at a table with Shamrock, their new recruit, and Sarah. A middle-aged woman sits to Sarah's left: a new, unpowered member of the- organization? Or were they still a *'crew'*?
+She's sitting at a table with Shamrock, their new recruit, and Sarah. A middle-aged woman sits to Sarah's left: a new, unpowered member of the... organization? Or were they still a *'crew'*?
 
-That's a question for Sarah, perhaps. As the group expanded, it became more difficult to keep track of things. She'd made an effort over the past two days to cement things in her mind; it does seem easier to remember events, now.
+That's a question for Sarah, perhaps. As the group expanded, it became more difficult to keep track of things. She'd made an effort recently, in particular over the past two days, to cement things in her mind. It does seem easier to remember events, now.
 
-Sarah gets up from the table, suddenly. She watches as a huddle of sorts forms: Sarah and Gregor talking to each other, almost frantic; Newter hovering close by; Spitfire and Shamrock slightly farther back. They're only a few feet away, but she can't hear what they're saying, as any sound is drowned out by a loud alarm blaring in the background.
+All of a sudden, Sarah gets up from the table, almost knocking over her glass in the process. A huddle of sorts forms: Sarah and Gregor talking to each other, almost frantic; Newter hovering close by, looking concerned; Spitfire and Shamrock slightly farther back, watching. They're only a few feet away, but she can't hear what they're saying, as any sound is drowned out by a painfully loud alarm blaring in the background.
 
-She covers her ears with her hands. Sarah is waving; she walks up.
+She covers her ears with her hands. Sarah is waving at her; she walks up.
 
 They're saying things, talking animatedly. She tries to listen.
 
-*leave the city*
+*"...leave the city...dangerous..."*
 
-*hopeless*
+*"...Palanquin...here...to evacuate?"*
 
-*reputation*
+*"If...hopeless anyways...anything left..."*
 
-It takes a moment to realize her hands are still over her ears.
+*"...our reputation? Can...disappear for..."*
+
+It takes a moment for her to realize her hands are still over her ears.
 
 "Do you want to participate?"
 
@@ -36,9 +38,9 @@ It takes a moment to realize her hands are still over her ears.
 
 Sarah shakes her head, sighs. "There's an Endbringer coming."
 
-Vague recognition. "Okay."
+She recognizes the word, if only barely. From a television show, perhaps, back when... "Okay."
 
-"We have a sizeable team, but - none of us are particularly useful against him. No real damage, we'd just... well, it wouldn't go well."
+"We do have a sizeable team, but - none of us are particularly useful against him. We don't have any real damage, it would just... well, that kind of fight wouldn't go well."
 
 "Okay."
 
