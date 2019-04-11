@@ -46,7 +46,7 @@ She recognizes the word, if only barely. From a television show, perhaps, back w
 
 "Except you - you can't die."
 
-*I can't die.*
+Those words: *I can't die.*
 
 Even though she can think back - a month, now, maybe more, she doesn't remember *that*. Just... chasms of nothing, spotting her memory, bookending real-life experiences.
 
@@ -54,7 +54,7 @@ Sarah touches her shoulder. A surge of confidence.
 
 "What would I do?"
 
-"That bomb tinker - *Bakuda.*" Everyone within earshot grimaces. "I'm thinking that they'll be trying to make use of some of her more exotic creations. You can get close to him, bring some with you, maybe. It's at least worth a shot."
+"You can get in range of it safely. They probably have single-use weapons, maybe bombs, that you could get in close with and detonate. Maybe leftovers from that bomb tinker - *Bakuda.*" Everyone within earshot grimaces. "I'm thinking that they might be able to help you make use of some of her more exotic creations, assuming they haven't been disposed of yet. You can get close to him, bring some with you, maybe. It's at least worth a shot."
 
 Discussion quiets, if only a little.
 
@@ -62,9 +62,9 @@ Discussion quiets, if only a little.
 
 Options, choices. 
 
-*Endbringer*. There's a certain danger to the word, hanging around it like a wreath. Dripping. 
+*Endbringer*. There's a certain danger to the word, draped around it like a wreath. Dripping, cascading. 
 
-If she reaches deep, she can remember - a TV spot, Annette's apartment. *"Disaster has struck at Earth Bet's version of Australia, sources say. Allegedly, one of Bet's 'endbringers' - gargantuan, nearly invincible monsters - has laid waste to Canberra. Our resident"*
+If she reaches deep, she can remember - a television blaring, a small apartment. She imagines a voice, narrating: *"Disaster has struck at Earth Bet's version of Australia, sources say. Allegedly, one of Bet's 'endbringers' - gargantuan, nearly invincible monsters - has laid waste to Canberra."*
 
 She gasps, suddenly, memory interrupted by a hand grasping her shoulder. 
 
