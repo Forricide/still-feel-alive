@@ -1,8 +1,8 @@
 A flood of people.
 
-There are no civilian cars on the road. It's incredible how much *space* vehicles take up; now that they're almost entirely relegated to the side of the road, there is a surprising of space on the streets to maneuver. Considering, of course, that every single person in the entire city is outside.
+There are no civilian vehicles on the road. It's incredible how much *space* cars, trucks, and buses take up; now that they're almost entirely relegated to the side of the road, there is a surprising of space on the streets to maneuver. Keeping in mind, of course, that every single person in the entire city is outside.
 
-She attempts to scan the mass of people. They're moving through the city fast, the armored van hardly waiting for people to get out of its way. Families with small children avoid them entirely on sidewalks, hurrying towards the nearest bunker; single people in their mid-twenties thread their way through the crowd, some wearing gang symbols; the injured and elderly lag behind, forming little divots in the current.
+Her eyes roam, flickering across the mass of people. Their armored van moves through the city fast, never hitting anyone, but not bothering to wait. Families with small children avoid them entirely on sidewalks, hurrying towards the nearest bunker; single people in their mid-twenties thread their way through the crowd, some wearing gang symbols; the injured and elderly lag behind, forming little divots in the current.
 
 Newter is in the van with her. Sarah had recommended against it, but it had ultimately been his choice. The rest of the team is already out of the city, heading north. 
 
