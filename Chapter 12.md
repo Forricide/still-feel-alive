@@ -4,13 +4,13 @@ There are no civilian vehicles on the road. It's incredible how much *space* car
 
 Her eyes roam, flickering across the mass of people. Their armored van moves through the city fast, never hitting anyone, but not bothering to wait. Families with small children avoid them entirely on sidewalks, hurrying towards the nearest bunker; single people in their mid-twenties thread their way through the crowd, some wearing gang symbols; the injured and elderly lag behind, forming little divots in the current.
 
-Newter is in the van with her. Sarah had recommended against it, but it had ultimately been his choice. The rest of the team is already out of the city, heading north. 
+Newter is in the van with her. Sarah had recommended against it, but the choice had ultimately been his. The rest of the team is already out of the city, heading north. 
 
 *"I'll keep you company, maybe help a bit with S n' R. Besides, things are easier for you when I'm around, right?"* 
 
 "Looking for someone?"
 
-He doesn't look as calm as he sounds, repositioning himself every few seconds. Leaning forward, then back, then looking around the van. One officer eyes him, gun in hand.
+He doesn't look as calm as he sounds, repositioning himself every few seconds. Leaning forward, then back, then looking around the van. One officer eyes him carefully, gun in hand, pointing down.
 
 "I'm not sure."
 
