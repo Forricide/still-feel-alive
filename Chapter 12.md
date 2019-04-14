@@ -1,8 +1,8 @@
 A flood of people.
 
-There are no civilian vehicles on the road. It's incredible how much *space* cars, trucks, and buses take up; now that they're almost entirely relegated to the side of the road, there is a surprising of space on the streets to maneuver. Keeping in mind, of course, that every single person in the entire city is outside.
+There are no civilian vehicles on the road. It's incredible how much *space* cars, trucks, and buses take up; now that they're almost entirely relegated to the side of the road, there is a surprising of space on the streets to manoeuvre. Keeping in mind, of course, that every single person in the entire city is outside.
 
-Her eyes roam, flickering across the mass of people. Their armored van moves through the city fast, never hitting anyone, but not bothering to wait. Families with small children avoid them entirely on sidewalks, hurrying towards the nearest bunker; single people in their mid-twenties thread their way through the crowd, some wearing gang symbols; the injured and elderly lag behind, forming little divots in the current.
+Her eyes roam, flickering across the mass of people. Their armoured van moves through the city fast, never hitting anyone, but not bothering to wait. Families with small children avoid them entirely on sidewalks, hurrying towards the nearest bunker; single people in their mid-twenties thread their way through the crowd, some wearing gang symbols; the injured and elderly lag behind, forming little divots in the current.
 
 Newter is in the van with her. Sarah had recommended against it, but the choice had ultimately been his. The rest of the team is already out of the city, heading north. 
 
@@ -32,21 +32,23 @@ He leans forward a little. "I get the difficulty. It's hard to... deal with not 
 
 Nod.
 
-It doesn't take long to reach the city's center.
+It doesn't take that much longer to reach the city's centre.
 
-There are more powerful people in one room than most people meet in a lifetime. She doesn't recognize more than a small handful, the ones from television. All together, it's an intimidating display. Men and women in violently-coloured costumes talk animatedly. In the northern corner, a man with a gun almost as large as her body rests against a wall. Along the adjacent wall, gigantic four-legged monsters congregate around a girl with the visage of a dog as her face, scars along the length of her bare arms.
+There are more powerful people in one room than most people meet in a lifetime. She can't recognize more than a small handful, from television and magazines. 
 
-Not a single person is smiling. The mood is almost oppressive. 
+It's an intimidating display. Men and women in violently-coloured costumes talk animatedly, gesturing, pacing. In the northern corner, a man with a gun almost as large as her body rests against a wall by himself. Along the adjacent wall, gigantic four-legged monsters congregate around a girl with the visage of a dog as her face, scars along the length of her bare arms.
 
-It's overwhelming, to be paying attention, taking in so much information, when the people and sounds and smells are crushing her. She retreats, into herself. As deep as is safe.
+She scans the room again, taking in postures, expressions. There isn't a single person with a smile on their face, that she can see. The mood is almost oppressive. 
 
-When she comes out, finally: "That's what we have. I need to ask again: Are you sure you want to do this?"
+It's overwhelming, to be paying attention, taking in so much information, when the people and sounds and smells are crushing her. She retreats into herself. As deep as is safe.
 
-Her head moves almost involuntarily, another nod. She barely remembers the first.
+When she finally re-emerges: "That's what we have. I need to ask again: Are you sure you want to do this?"
 
-Who's talking?
+Her head moves involuntarily, another nod. She barely remembers the first.
 
-A masked face in the screen. A metallic suit, vibrant colours. People in lab coats.
+Who is it that's talking?
+
+An unmasked face in a screen. A metallic suit, vibrant colours. People in lab coats, murmuring among themselves.
 
 They're in a laboratory. Not the one that she pictures hazily in her mind; no sinks, no desks. Instead, pure-white counters, bizarre contraptions hanging from the ceiling, devices of every shape sitting underneath. The room is warm, but she shivers. 
 
