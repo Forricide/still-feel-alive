@@ -50,11 +50,11 @@ Who is it that's talking?
 
 An unmasked face in a screen. A metallic suit, vibrant colours. People in lab coats, murmuring among themselves.
 
-They're in a laboratory. Not the one that she pictures hazily in her mind; no sinks, no desks. Instead, pure-white counters, bizarre contraptions hanging from the ceiling, devices of every shape sitting underneath. The room is warm, but she shivers. 
+They're in a laboratory. Not the one that she pictures hazily in her mind; no sinks, no desks, no permanently-stained whiteboards. Instead, pure-white counters, bizarre contraptions hanging from the ceiling, devices of every shape sitting underneath. The room is warm, but she shivers. 
 
 "Okay. You're sure you understand what to do with the devices?"
 
-In front of her, just a little behind the man in the metal suit, is an assortment of bombs. That's what they *said* they were, that is; she wouldn't have been able to tell them apart from any other device. Just wires and metal.
+In front of her, just a little behind the man in the metal suit, is an assortment of bombs. That's what they were supposed to be, at least; she wouldn't have been able to tell them apart from any other device. Just wires and metal.
 
 Dangerous.
 
@@ -62,11 +62,11 @@ Dangerous.
 
 She nods. 
 
-It's uncomplicated.
+Not a particularly complicated plan.
 
 Acceptable.
 
-"All right." A note of concern. Not 'all right'. "When it reaches the city, we'll give you the first one."
+"All right." A note of concern. Not 'all right', perhaps, but good enough. "When it reaches the city, we'll give you the first one."
 
 "I can do it now."
 
@@ -76,11 +76,11 @@ Acceptable.
 
 This is where the armoured man speaks up. "Are you saying that you're a precognitive, along with being able to teleport?"
 
-Precognitive. Isn't there someone on their team that has that power? She tries to remember, gives up. "No. I can start looking for it."
+Precognitive. Isn't there someone on their team that has that power? She tries to remember who, then gives up. "No. I can start looking for it."
 
 The man's mouth - the only visible portion of his face - tightens, a straight line. "Okay. But do not detonate the package here, do you understand? That would be a disaster."
 
-A nod. Then, in the continued silence: "Yes."
+A nod. Then, in the continued silence: "Yes, I understand."
 
 "I think this one would be best." He gestures, already turning away, facing the woman in the screen. "What do you think, Dragon?"
 
