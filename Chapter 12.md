@@ -82,16 +82,15 @@ The man's mouth - the only visible portion of his face - tightens, a straight li
 
 A nod. Then, in the continued silence: "Yes, I understand."
 
-"I think this one would be best." He gestures, already turning away, facing the woman in the screen. "What do you think, Dragon?"
+He's picking through some devices on a table, turning them over and examing one after anoter for only seconds before moving on. After discarding a half dozen, he seems to settle. "I think this one would be best." He gestures, already turning away, facing the woman in the screen. "What do you think, Dragon?"
 
-"Agreed." It's short and has a clear button on top. The button doesn't really fit in; it's almost ugly compared to the rest of the device, and looks like it's not entirely attached. "You will need to be within ten feet of Leviathan for this one to have any effect. We'll need to make sure there aren't any capes nearby when you use it, though. I can keep track of that for you."
+"Agreed." It's not that large, maybe twice the size of a fist, and has a clear button on top. The button doesn't really fit in; it's almost ugly compared to the rest of the device, and looks like it's not entirely attached. "You will need to be within ten feet of Leviathan for this one to have any effect. We'll need to make sure there aren't any capes within range when you use it, though. I can keep track of that for you."
 
 "Okay." She takes the bomb. It feels almost comfortable in her hand. "Newter?"
 
-He holds out a hand, an ugly orange under the overpowered fluorescent lights.
+He holds out a hand, an unpleasant shade of orange under the overpowered fluorescent lights.
 
 The woman - Dragon? - starts to say something.
 
-She takes his hand, and is gone halfway through the sentence.
-
+She takes Newter's hand, and is gone halfway through the sentence.
 
