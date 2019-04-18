@@ -1,6 +1,6 @@
-A world away, she is dreaming.
+In another world, she is dreaming.
 
-Deep breaths make a foggy backdrop to calm observation. 
+Deep breaths form a foggy backdrop to calm observation. 
 
 It's both the greatest thing she's ever seen, and the most limited. A hundred thousand million earths, spiraling out from one another, yet all at the same fixed position. There is nothing beyond this in her sight: no moon, no sun, no stars. Just an uncountable number of a single, lonely planet.
 
