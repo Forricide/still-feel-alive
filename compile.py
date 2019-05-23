@@ -1,4 +1,10 @@
-import re, json, sys, glob, os
+#!/usr/bin/env /usr/bin/python3
+
+import sys
+if sys.version_info[0] < 3:
+    raise Exception("Python 2 is unsupported.")
+
+import re, json, glob, os
 import hashlib
 
 IGNORED_FILES = "index.html"
@@ -21,19 +27,42 @@ def file_guard(filename):
 def write(*args, **kwargs):
     print(*args, **kwargs)
 
+def vwrite(config, *args, **kwargs):
+    if 'v' in config and is_true(config['v']):
+        write(*args, **kwargs)
+
 def warn(*args, **kwargs):
     write("Warning:") 
     write(*args, **kwargs)
 
-def get_compiled(filename):
+def get_def(k, d, default):
+    return d[k] if k in d else default
+
+def is_true(v):
+    # This is pretty mediocre at best, but that's okay.
+    return (v==True or str(v).lower()=='true' or str(v).lower()=='t')
+
+def get_f(k, d):
+    return (k in d and is_true(d[k]))
+
+def get_compiled(filename, config):
     if file_guard(filename):
         return None # We should not compile this!
     with open(filename, 'r') as file:
         d = file.read()
-    d = re.sub(r'\*\*\*([^\*]*)\*\*\*', r'<b><i>\1</i></b>', d)
-    d = re.sub(r'\*\*([^\*]*)\*\*', r'<b>\1</b>', d)
-    d = re.sub(r'\*([^\*]*)\*', r'<i>\1</i>', d)
-    d = re.sub(r'(.+?)(\r|\n|$)+', r'<p>\1</p>\n\n', d)
+    mode = get_def("mode", config, "html")
+    if mode in ['h', 'html']:
+        d = re.sub(r'\*\*\*([^\*]*)\*\*\*', r'<b><i>\1</i></b>', d)
+        d = re.sub(r'\*\*([^\*]*)\*\*', r'<b>\1</b>', d)
+        d = re.sub(r'\*([^\*]*)\*', r'<i>\1</i>', d)
+        d = re.sub(r'(.+?)(\r|\n|$)+', r'<p>\1</p>\n\n', d)
+    elif mode in ['b', 'bb', 'bbcode']:
+        d = re.sub(r'\*\*\*([^\*]*)\*\*\*', r'[b][i]\1[/i][/b]', d)
+        d = re.sub(r'\*\*([^\*]*)\*\*', r'[b]\1[/b]', d)
+        d = re.sub(r'\*([^\*]*)\*', r'[i]\1[/i]', d)
+        d = re.sub(r'(.+?)(\r|\n|$)+', r'\1\n\n', d)
+    else:
+        warn("Unsupported mode:", mode)
     return d
 
 def get_file_as_json(filename):
@@ -67,14 +96,19 @@ def should_compile(filename):
         return False
 
 def write_compiled(filename, contents, config):
-    with open(os.path.join(os.path.normpath(config['output']), filename + OUTPUT_EXT), 'w') as file:
+    ext = OUTPUT_EXT
+    if 'mode' in config and config['mode'] in ['b', 'bb', 'bbcode']:
+        ext = '.bbcode'
+        vwrite(config, "Using bbcode extension.")
+    with open(os.path.join(os.path.normpath(config['output']), filename + ext), 'w') as file:
         file.write(contents)
 
 def full_compile(filename, config):
-    if not should_compile(filename):
+    if not get_f("force", config) and not should_compile(filename):
+        vwrite(config, "Decided not to compile the file:", filename)
         return
     print("Compiling:", filename)
-    new_contents = get_compiled(filename)
+    new_contents = get_compiled(filename, config)
     if new_contents is None:
         print("Compilation failed for", filename)
         return
@@ -111,17 +145,7 @@ def main(filenames, config):
     it = it.replace("${ALL_FILES}", itext)
     with open(get_def("index-path", config, "index.html"), "w") as inf:
         inf.write(it)
-
-def get_def(k, d, default):
-    return d[k] if k in d else default
-
-def is_true(v):
-    # This is pretty mediocre at best, but that's okay.
-    return (v==True or str(v).lower()=='true' or str(v).lower()=='t')
         
-def get_f(k, d):
-    return (k in d and is_true(d[k]))
-
 def dmerge(a, b):
     for k in b:
         if k not in a:
@@ -135,21 +159,29 @@ def get_config(args):
     config = {'loaded': False}
     filenames = []
     debug = False
+    toremove = []
     for arg in args:
         if arg in ['-v', '--verbose']:
             config['v'] = True
-            args.remove(arg)
+            toremove.append(arg)
+            write("Enabled verbose mode.")
         elif re.match(r'--?c(onfig)?=.+', arg) is not None:
             cfilename = re.match(r'-{0,2}c(onfig)?=(.+)', arg).group(2)
             with open(cfilename, 'r') as cfile:
                 lconf = json.load(cfile)
             config = dmerge(config, lconf)
             config['loaded'] = True
-            args.remove(arg)
+            toremove.append(arg)
         elif arg in ['--debug']:
             print(json.dumps(config, indent=2))
             debug = True
-            args.remove(arg)
+            toremove.append(arg)
+        elif re.match(r'--?f(orce)?', arg) is not None:
+            config['force'] = True
+            toremove.append(arg)
+
+    for arg in toremove:
+        args.remove(arg)
 
     if not config['loaded']:
         write("Attempting to load from default config.")
