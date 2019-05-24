@@ -1,6 +1,6 @@
 Sleeping under the stars is a nice experience. It's the trifecta of wilderness: a cold, bitter chill; the dim, spotty light; dry air, crisp in your lungs. Many an argument could be made that it's better to sleep outside sometimes, if not for the sake of comfort, then for the pursuit of good health. 
 
-Taylor would find it difficult to make such an argument, right now. *This couch is amazing*.
+She would find it difficult to make such an argument, right now. *This couch is amazing*.
 
 She doesn't even have the slightest idea whose couch it is. But that doesn't matter, because it's *warm*, it's soft, it's... well, it's actually a fairly mediocre piece of furniture, quality-wise. An almost decorative couch, it's nicer in appearance than in comfort. But it still, of course, beats cold asphalt behind a dumpster any day.
 
@@ -24,7 +24,7 @@ Regardless, she's starving, and the kitchenette seems to be a perfect solution.
 
 Her stomach grumbling, she dives into the fridge, and -
 
-Well, the fridge isn't that different from the rest of the apartment, unfortunately. It's *nice*, and so is the kitchen, but clean and hardly used. Only a few eggs are left in a carton; they expired last week, and so did the premade salad, the cheese, and the package of sliced meat.
+Well, the fridge isn't that different from the rest of the apartment, unfortunately. It's *nice*, and so is the kitchen, but clean and hardly used. Only a few eggs are left in a carton; they expired last week, and so did the premade salad, the cheese, and the package of sliced meat. *Is ham supposed to smell like that?*
 
 Thankfully, there's a quarter loaf of bread in the freezer.
 
@@ -42,19 +42,19 @@ Then it hits her. And then she knows, she feels that all-too-familiar dread: she
 
 The figure is someone from her dreams. A fragment of a memory, one that had been slipping away every moment she'd been awake. Yet, still just familiar enough that she can recognize the woman, someone who couldn't be here. 
 
-She blurts it out, anyways.
+She finds the word, after a pause, and blurts it out anyways.
 
 "Mom?"
 
 A quirk of her eyebrow, it's so *her*. "I don't think so. And I'm going to need an explanation, or I'm calling the cops."
 
-"I- but- you look so much like her." A swallow. Silence, for a moment, and she can feel her heart beating. "But you're, she's, dead."
+"I- but- you look so much like her." A swallow. Silence, for a moment, and she can feel her heart beating. More memories come back, sluggish. "But you're, she's, dead."
 
 The woman's expression seems to waver between sympathy and amusement. "I feel rather alive, thank you very much. But I *am* running out of patience."
 
 Patience. Something she's almost forgotten about, taking life as she has recently. It's so easy to just let the world flow around you. 
 
-"I'm, I'm..." She thinks. Somehow it's harder to dredge up than her memories of her mother. "I'm Taylor. And I'm not sure why I'm here... I don't remember anything. Anything about how I got here, at least." *Bitter cold. Darkness, hiding something. Hunger*. *Always hungry.*
+"I'm, I'm..." She thinks. Somehow it's harder to dredge up this information, than her memories of her mother. "I'm Taylor. And I'm not sure why I'm here... I don't remember anything. Anything about how I got here, at least." *Bitter cold. Darkness, hiding something. Hunger*. *Always hungry.*
 
 It's quiet, as the woman seems to digest this information, and then: *pop*. They're both startled, until Taylor realizes the toast is ready.
 
@@ -84,9 +84,9 @@ Taylor turns her head, looks out the window again. New skyscrapers, clear sky, b
 
 "You're in New York."
 
-"New York." No inflection. She sits back. "I can't be in New York. I, I'm from Brockton Bay." *Another city, another* ***state*.**
+"New York." No inflection. She sits back. "I can't be in New York. I, I'm from Brockton Bay." *Another city, another* ***state***.
 
-"That... okay. That's quite a ways from here. You don't remember anything at all?" She leans forward, elbows resting on the table. "If you hadn't just appeared out of nowhere in my suite, that sounds like..." A pause. "Well, it doesn't sound good. What's the last day you remember?"
+"That... okay." Now the woman frowns, pensive. "That's quite a ways from here. You don't remember anything at all?" She leans forward, elbows resting on the table. "If you hadn't just appeared out of nowhere in my suite, that sounds like..." A pause. "Well, it doesn't sound good. What's the last day you remember?"
 
 It's hard to look back. She read the paper only a few days ago, it feels like - in the library. But it had been so hard to focus on the words, she hadn't even checked the date. "January... something. Early January. I went back -" *to school* "...my Winter break ended. Then some stuff happened, but, I don't know how long it's been."
 
