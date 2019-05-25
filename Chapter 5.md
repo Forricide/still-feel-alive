@@ -88,9 +88,9 @@ Another question that deserves consideration. If she knew where she was, she mig
 
 Now that she has a moment to think, she notices that the rumbling sound from earlier is a bit louder. Music, maybe. And given the other buildings she'd seen on the street... "Maybe a dance club?"
 
-The woman still doesn't look happy, but her expression shifts more towards frustration than... whatever that had been. "You're in the Palanquin. I'm not sure how you got up here, but I've got a bad feeling I'm going to have to have a talk with Newter."
+The woman still doesn't look happy, but her expression shifts more towards frustration than... whatever that had been. "You're in the Palanquin. I'm not sure how you got up here, but I've got a bad feeling I'm going to have to have a talk with Neuter."
 
-"The... Palanquin? Newter?" She pauses, thinking, fighting through the fog. It's difficult to make the connection, but something seems to be helping her, making thinking just that small amount easier. "Is this Brockton Bay?"
+"The... Palanquin?" The name rings a bell, and she pauses, thinking, fighting through the fog. It's difficult to make the connection, but something seems to be helping her, making the connection just that small amount easier. "Is this Brockton Bay?"
 
 A blink. "Yes."
 
