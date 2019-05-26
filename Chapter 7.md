@@ -1,4 +1,4 @@
-*So, what are your goals? Where do you see yourself, in five years?*
+*So, what are your goals? Where do you want to see yourself, in a year?*
 
 *"I want to survive."*
 
@@ -18,21 +18,21 @@ Dreams come and go like ocean waves. There for a moment, gone in the next, dissi
 
 White stars in the cold night sky. A game of connect-the-dots, abstract and immense. 
 
-A constellation shaped like a face. Vague attempts to identify it, but each one different than the last.
+A constellation shaped like a face. Vague attempts to identify it, but each result is different from the last.
 
-For a second it's a man's face, middle-aged but weary. Then a woman, stoic, calm... a girl, cold, dispassionate. Distant memories.
+For a second it's a man's face, middle-aged but weary. Then a woman's, stoic, calm... a girl's, cold, dispassionate. Distant memories, or blurry fantasies.
 
-The stars swirl and combine, pulling towards each other from across the galaxy to form a brilliant white mirror. It reveals a girl with her eyes closed, ashen gray skin, spools of curly hair. Eyes closed, unseeing. Staring. 
+The stars swirl and combine, pulling towards each other from across the galaxy to form a brilliant white mirror. It reveals a girl with her arms crossed, ashen gray skin, spools of curly hair. Eyes closed, but staring straight ahead. 
 
 Dreaming. Always dreaming.
 
-She opens her eyes, but isn't sure whether this is real life or another vision. The room is mundane enough: a bookshelf littered with miscellaneous trinkets, a plain chair pressed up against a pair of window curtains, her bed positioned directly across from the door. 
+She opens her eyes, but isn't sure whether this is real life or another vision. The room is mundane enough: a bookshelf littered with miscellaneous trinkets, a plain chair pressed up against a pair of beige curtains, her bed positioned directly across from the door. 
 
-At some point, she gets out of bed, dressing herself with clothes hidden in a dresser at the foot of the bed. They don't fit her perfectly, but she isn't particularly concerned with fashion. A mirror provides an unfortunate perspective. She attempts to fix her hair, but doesn't find much success.
+At some point, she pulls herself out of bed, dressing with clothes hidden in a dresser beside the bookshelf. They don't fit her perfectly, but she isn't particularly concerned with fashion. A mirror provides an unfortunate perspective. She attempts to fix her hair, but doesn't find much success.
 
 "It is nice to meet you." 
 
-The man had met her in the hallway. He's tall and - well, large. His appearance reminds her of something, like she should know who he is, but that knowledge is just a bit out of reach. Hopefully she'd recognize him if they'd met before; she tries to avoid staring at his translucent skin.
+The man had met her in the hallway, apparently on the way to her room. He's tall and - well, large. His appearance reminds her of something, like she should know who he is, but that knowledge is just a bit out of reach. Hopefully she'd recognize him if they'd met before; she tries to avoid staring at his translucent skin.
 
 "Hello." Is that an acceptable response? She isn't sure. 
 
