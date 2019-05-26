@@ -16,7 +16,7 @@ The other guy snorts. "You're not funny, moron." His lip curls up, just one corn
 
 She feels around in her pocket. Yes, there's money in there. Not a lot. Just enough for a few bus passes, or a meal, depending on the denomination of the bill. *Always keep enough money for a bus pass on you. You never know where you'll end up.* Not spoken out loud, not her voice. A memory?
 
-"Yes, I do." Something feels strange about her voice. Not scratchy or raw, but hollow. She tries to fix it by coughing. Inneffective, sounding like she's coughing into a wooden box.
+"Yes, I do." Something feels strange about her voice. Not scratchy or raw, but hollow. She tries to fix it by coughing. Ineffective, sounding like she's coughing into a wooden box.
 
 One of them snorts.
 
@@ -24,15 +24,15 @@ One of them snorts.
 
 Or so she assumes. Hopes.
 
-"Looks like she's a'ready on some shit, bro. And whatever it is, it's can't be worse than any of Brock's weak-ass garbage."
+"Looks like she's a'ready on some shit, bro. And whatever it is, it can't be worse than any of Brock's weak-ass garbage."
 
-She doesn't quite follow what he's saying. It's hard to pay attention while she's digging through her mind, attempting to druge up a few more precious words. 
+She doesn't quite follow what he's saying. It's hard to pay attention while she's digging through her mind, attempting to dredge up a few more precious words. 
 
 She comes up with barely anything. No words, no distinct memories. But she does find a sensation, a thought. Drugs are bad. She takes a step back, away from the men.
 
 A few memories fit together, after a fashion. The two men are wearing strange clothing and peddling drugs on the street: gang members, perhaps. Soliciting a teenager, well, that doesn't indicate the best position in society.
 
-In a city as dark and depressing as this one seems to be, she feels like she should be more familiar with the resident gang population. Most had some form of parahuman backing, to drive recuitment and provide a means for fighting back against and taking territory from rival gangs. But someone with superpowers wouldn't have been selling drugs in the street - small comfort, that these men were far less concerning than their potential superiors.
+In a city as dark and depressing as this one seems to be, she feels like she should be more familiar with the resident gang population. Most had some form of parahuman backing, to drive recruitment and provide a means for fighting back against and taking territory from rival gangs. But someone with superpowers wouldn't have been selling drugs in the street - small comfort, that these men were far less concerning than their potential superiors.
 
 What did that say about this city, anyways?
 
@@ -62,7 +62,7 @@ At least the tabloids are interesting.
 
 Apparently there's a new, stylish gang in town. The *Undersiders*. Nothing in the news about them, but evidently Johnny Idgetown knows something that other journalists don't. They're actually employed by Parian ("the local fashion-slash-cape guru, with plenty of financial capital to back a covert advertisement"), and she custom-made their costumes. A subtle ploy to drive parahuman business: "It would be scandalous," Idgetown writes, "if it wasn't so genius!"
 
-The piece is accompanied by a photograph of the group. Shot from a window or something along those lines, it shows them riding gigantic monsters and trailing black smoke. Like the four horsemen, perhaps, but teenaged gang members, and less far less powerful.
+The piece is accompanied by a photograph of the group. Shot from a window or something along those lines, it shows them riding gigantic monsters and trailing black smoke. Like the four horsemen, perhaps, but teenaged gang members, and far less powerful.
 
 Their costumes mostly come off more intimidating than they do compelling, but maybe that's what capes are looking for?
 
@@ -84,7 +84,7 @@ It's nice to come here in the morning. Watching the sunrise is satisfying. It re
 
 A family...
 
-She finds an alleyway and lies down behind a dumpster. Her stomach feels like it's twisted into a knot, bruises and cuts forming a painful menagerie of background sensation. It's still scarily easily to fall asleep.
+She finds an alleyway and lies down behind a dumpster. Her stomach feels like it's twisted into a knot, bruises and cuts forming a painful menagerie of background sensation. It's still scarily easy to fall asleep.
 
 Her mind is dark. Images of a dark limbo, some place that shouldn't exist but somehow does. There's no light, save for a few stars, the rest blotted out by *something*. Massive beings writhe in the corner of her eyes, but every time she turns to look, there's nothing.
 

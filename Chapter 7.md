@@ -4,7 +4,7 @@
 
 *That's it?*
 
-*"I... I don't know what's happening to me. I don't have control of my life. I'm scared in the morning, when I wake up, because I can't remember anything. Not even my dreams, not a single one. I just want to make my life long enough... to piece together something. Some sort of next step."*
+*"I... I don't know what's happening anymore. I don't have control of my life. I'm scared in the morning, when I wake up, because I can't remember anything. Not even my dreams, not a single one. I just want to make my life long enough... to piece together something. Some sort of next step."*
 
 *What would that look like?*
 
@@ -52,27 +52,29 @@ Experimentation begins just a few hours later, Gregor acting as her mentor.
 
 "What do you know about your powers?"
 
-They're looking at, well, her. It's a bit strange looking at your own body from the third person. Not nearly as much like looking into a mirror as she might have expected.
+They're looking at, well, her. It's a bit disorienting looking at your own body from the third person. Not nearly as much like looking into a mirror as she might have expected.
 
 The fact that the body was decomposing (abnormally fast, according to Gregor) probably had something to do with that. It smelled like death, but Sarah had said it might be useful, so they'd brought it with them to the 'training room'. 
 
 Coincidentally, Sarah had also declined to join them. 
 
-The training - if that was what it was - did not really go as planned. Although, she hadn't been privy to a plan of any sort in the first place, so maybe this was what Gregor had intended after all. Mostly, it consisted of the two of them talking: he'd ask her a question about her experiences or what she was capable of; she'd think for a few seconds, never coming up with anything.
+The training - if that was what it was - did not really go as planned. Although, she hadn't been privy to a plan of any sort in the first place, so maybe this was what Gregor had intended after all. Mostly, it consisted of the two of them talking: he'd ask her a question about her experiences or what she was capable of; she'd think for a few seconds, and then respond that she had no idea.
 
 "Okay. Are you all right if we move to another line of conversation?"
 
 "Yes."
 
-He's brought her tea. It's very nice, better than the coffee that Sarah had made her try. A light hint of blueberry with some other fruit mixed in.
+He'd brought her tea. It's very nice, better than the coffee that Sarah had all but forced her to try. A light hint of blueberry with some other fruit mixed in.
 
-"According to," he pauses. "Ah, Sarah. According to Sarah, you have said that you were previously on Earth Aleph?"
+"According to," he pauses. "Ah, Sarah. According to Sarah, you have mentioned that you were previously on Earth Aleph?"
 
 Earth Aleph?
 
-Another Earth. An alternate dimension, a world broken into by - some mad scientist, a 'tinker', she recalls, just barely. Thinking about it, she does remember something, but it's just a hint. Nothing more than a faint semblance of a memory.
+Another Earth, she recalls distantly. An alternate dimension, a world broken into by - some mad scientist, a 'tinker', they would be called. Thinking about it, she does remember something, but it's just a hint. Nothing more than a faint semblance of a memory.
 
-Gregor is looking at her expectantly. "I'm not sure."
+Gregor is looking at her expectantly. 
+
+"I'm not sure."
 
 "You do not know if you were in another dimension?"
 
@@ -90,7 +92,7 @@ It's only barely recognizable.
 
 "No."
 
-Gregor doesn't reply; instead, he contorts his body, twisting to display a mark on his skin. It's like a stylized 'C', except rotated ninety degrees counterclockwise. It looks like a tattoo, but she can't imagine why anyone would get one; while it's not particularly ugly, it doesn't look *nice* either, just a weird blemish on his - admittedly already weird - skin. 
+Gregor doesn't reply; instead, he contorts his body, twisting to display a mark on his skin. It's like a stylized 'C', except rotated ninety degrees counterclockwise. It looks like a tattoo, but she can't imagine why anyone would get one; while it's not particularly ugly, it doesn't look *nice* either, just a weird blemish on his - admittedly already rather weird- skin. 
 
 "Do you recognize this symbol?"
 
@@ -104,7 +106,7 @@ He shifts his body again, meeting her eyes. "This information may be important. 
 
 No. She doesn't say it out loud, but the thought makes her uneasy. It's hard to place a finger on why, exactly. But it's not something she wants to do, not now.
 
-He seems to see her hesitation. "That was too personal. I am sorry. We can investigate this later, perhaps. When you are more comfortable with us."
+He seems to notice her hesitation. "That was too personal. I am sorry. We can investigate this later, perhaps. When you are more comfortable with us."
 
 She feels bad, for a moment. It's the first real thing anyone here has asked of her, and her reluctance feels like a strike against her. But then she realizes: "We could look at that."
 
@@ -120,7 +122,7 @@ The smell is the worst part of that experience, psychological trauma coming in a
 
 "Why?"
 
-"Are you asking why I thought there might be a tattoo? Newter and I both have one. We are referred to as 'case fifty-threes', or by many, as monsters. Parahumans with physical deformities. And neither of us have any memories of our lives previous to being... like we are now."
+"Are you asking why I thought there might be a tattoo? Newter and I both have one. Many call us monsters, but we are more professionally referred to as 'case fifty-threes'. Parahumans with physical deformities, generally accompanied by that tattoo. And neither of us have any memories of our lives previous to being... like we are now."
 
 He stops, looking at her. If there's any emotion involved in talking about such sensitive topics, it doesn't show.
 
