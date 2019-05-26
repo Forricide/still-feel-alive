@@ -1,22 +1,22 @@
-*What are you trying to accomplish?*
+*So, what are your goals? Where do you see yourself, in five years?*
 
 *"I want to survive."*
 
 *That's it?*
 
-*"I... I don't know what's going on. I don't have control of my life. I'm scared in the morning, when I wake up, because I can't remember anything. Not even my dreams, not a single one. I just want to make my life long enough... to piece together something. Some sort of next step."*
+*"I... I don't know what's happening to me. I don't have control of my life. I'm scared in the morning, when I wake up, because I can't remember anything. Not even my dreams, not a single one. I just want to make my life long enough... to piece together something. Some sort of next step."*
 
 *What would that look like?*
 
-*"Having some sort of... purpose, maybe."*
+*"Finding some sort of... purpose, maybe."*
 
-*Your purpose is to find a purpose. That seems a bit circular.*
+*Your purpose is to find a purpose. I'm not criticizing you, but that seems a bit circular.*
 
-*"Maybe. I just want to have a goal. Something worth putting effort into."*
+*"Maybe. I just want to have a goal, something to focus on. Something worth putting effort into."*
 
-Dreams come and go like ocean waves. There for a moment, gone in the next.
+Dreams come and go like ocean waves. There for a moment, gone in the next, dissipating into a vast emptiness.
 
-White stars in the cold night sky. A game of connect-the-dots. 
+White stars in the cold night sky. A game of connect-the-dots, abstract and immense. 
 
 A constellation shaped like a face. Vague attempts to identify it, but each one different than the last.
 
