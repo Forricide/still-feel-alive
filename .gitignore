@@ -5,6 +5,7 @@ Planning
 config.json
 status.json
 update-site.sh
+pull-all.sh
 tempbboutput
 bbconfig.json
 index.html
