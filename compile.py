@@ -4,11 +4,38 @@ import sys
 if sys.version_info[0] < 3:
     raise Exception("Python 2 is unsupported.")
 
+from enum import Enum
 import re, json, glob, os
 import hashlib
 
 IGNORED_FILES = "index.html"
 OUTPUT_EXT = '.gi.html'
+
+class Mode(Enum):
+    HTML = 1
+    BBCode = 2
+    BAD = 3
+    def __init__(self, config):
+        # Defaults
+        self.ext = OUTPUT_EXT
+        self.mode_str = 'HTML'
+        self.mode = Mode.HTML
+        if 'mode' in config:
+            self.parse_mode(str(config['mode']).strip(' \r\n').lower())
+
+    def parse_mode(mode):
+        if mode in ['b', 'bb', 'bbcode']:
+            self.ext = '.bbcode'
+            self.mode_str = 'BBCode'
+            self.mode = Mode.BBCode
+        elif mode in ['h', 'html']:
+            return
+        else:
+            warn('Mode', mode, 'is not supported.')
+            self.mode = Mode.BAD
+
+    def __str__(self):
+        return self.mode_str
 
 def file_guard(filename):
     """
@@ -50,19 +77,19 @@ def get_compiled(filename, config):
         return None # We should not compile this!
     with open(filename, 'r') as file:
         d = file.read()
-    mode = get_def("mode", config, "html")
-    if mode in ['h', 'html']:
+    mode = Mode(config)
+    if mode.mode = Mode.HTML:
         d = re.sub(r'\*\*\*([^\*]*)\*\*\*', r'<b><i>\1</i></b>', d)
         d = re.sub(r'\*\*([^\*]*)\*\*', r'<b>\1</b>', d)
         d = re.sub(r'\*([^\*]*)\*', r'<i>\1</i>', d)
         d = re.sub(r'(.+?)(\r|\n|$)+', r'<p>\1</p>\n\n', d)
-    elif mode in ['b', 'bb', 'bbcode']:
+    elif mode.mode = Mode.BBCode:
         d = re.sub(r'\*\*\*([^\*]*)\*\*\*', r'[b][i]\1[/i][/b]', d)
         d = re.sub(r'\*\*([^\*]*)\*\*', r'[b]\1[/b]', d)
         d = re.sub(r'\*([^\*]*)\*', r'[i]\1[/i]', d)
         d = re.sub(r'(.+?)(\r|\n|$)+', r'\1\n\n', d)
     else:
-        warn("Unsupported mode:", mode)
+        pass
     return d
 
 def get_file_as_json(filename):
@@ -96,27 +123,27 @@ def should_compile(filename):
         return False
 
 def write_compiled(filename, contents, config):
-    ext = OUTPUT_EXT
-    if 'mode' in config and config['mode'] in ['b', 'bb', 'bbcode']:
-        ext = '.bbcode'
-        vwrite(config, "Using bbcode extension.")
-    with open(os.path.join(os.path.normpath(config['output']), filename + ext), 'w') as file:
+    mode = Mode(config)
+    output_path = os.path.join(os.path.normpath(config['output']), filename + mode.ext)
+    vwrite(config, "Compiling", filename, "in mode", mode, "to output filename", output_path)
+    with open(output_path, 'w') as file:
         file.write(contents)
 
 def full_compile(filename, config):
     if not get_f("force", config) and not should_compile(filename):
         vwrite(config, "Decided not to compile the file:", filename)
-        return
+        return False
     print("Compiling:", filename)
     new_contents = get_compiled(filename, config)
     if new_contents is None:
         print("Compilation failed for", filename)
-        return
+        return False
     write_compiled(filename, new_contents, config)
     # Update the hash
     sj = get_file_as_json("status.json")
     sj[filename] = fh(filename)
     write_file_as_json("status.json", sj)
+    return True
 
 def html_files(config):
     return [f for f in glob.glob(get_def("output", config, "") + "*.html") if os.path.basename(f) not in IGNORED_FILES]
@@ -131,9 +158,11 @@ def dts(d):
     return ' '.join(d)
 
 def main(filenames, config):
+    nc = 0
     for filename in filenames:
-        full_compile(filename, config)
-    print('Making index.')
+        nc += int(full_compile(filename, config))
+    print('Successfully compiled', nc, 'files.')
+    print('Building index.')
     index = [os.path.basename(x) for x in html_files(config)]
     print('Found', len(index), 'html files.')
     index = sort_ch_num(index) 
