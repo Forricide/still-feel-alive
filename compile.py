@@ -102,7 +102,7 @@ def get_file_as_json(filename):
         
 def write_file_as_json(filename, data):
     with open(filename, "w") as file:
-        json.dump(data, file, indent=4) 
+        json.dump(data, file, indent=2) 
 
 def fh(filename):
     if not os.path.isfile(filename):
@@ -110,13 +110,16 @@ def fh(filename):
     with open(filename, 'r') as file:
         return hashlib.sha1(file.read().encode('utf-8')).hexdigest()
 
-def should_compile(filename):
-    hr = fh(filename)
-    if hr is not None:
+def should_compile(filename, config):
+    hashresult = fh(filename)
+    if hashresult is not None:
         # File exists
-        sj = get_file_as_json("status.json") 
-        if filename in sj and sj[filename] == hr:
-            return False
+        status = get_file_as_json("status.json") 
+        if filename in status:
+            status = status[filename]
+            if config['output'] in status:
+                if status[config['output']] == hashresult:
+                    return False
         return True
     else:
         print(filename, "does not exist.")
@@ -132,7 +135,7 @@ def write_compiled(filename, contents, config):
         file.write(contents)
 
 def full_compile(filename, config):
-    if not get_f("force", config) and not should_compile(filename):
+    if not get_f("force", config) and not should_compile(filename, config):
         vwrite(config, "Decided not to compile the file:", filename)
         return False
     print("Compiling:", filename)
@@ -143,7 +146,9 @@ def full_compile(filename, config):
     write_compiled(filename, new_contents, config)
     # Update the hash
     sj = get_file_as_json("status.json")
-    sj[filename] = fh(filename)
+    if filename not in sj:
+        sj[filename] = {}
+    sj[filename][config['output']] = fh(filename)
     write_file_as_json("status.json", sj)
     return True
 
@@ -161,23 +166,41 @@ def sort_ch_num(d):
 def dts(d):
     return ' '.join(d)
 
-def main(filenames, config):
-    nc = 0
-    for filename in filenames:
-        nc += int(full_compile(filename, config))
-    print('Successfully compiled', nc, 'files.')
-    print('Building index.')
+def BuildIndex(config):
+    print('Building index:')
     index = [os.path.basename(x) for x in html_files(config)]
-    print('Found', len(index), 'html files.')
+    print('> Found', len(index), 'html files.')
     index = sort_ch_num(index) 
+    # Removes .md.gi.html line endings. Could cause issues if a filename
+    # had one of the characters being stripped here at the end of the actual
+    # name. Probably would be better to just do split('.')[0], really.
     index = [("<a href=\"" + x + "\">" + x.rstrip(".dgihtml") + "</a>") for x in index]
-    print('Created a', len(index), 'length index.')
+    print('> Created a', len(index), 'length index.')
     itext = '<p>' + '</p>\n<p>'.join(index) + '</p>'
     with open(get_def("index-template-path", config, "index.template"), "r") as ti:
         it = ti.read()
     it = it.replace("${ALL_FILES}", itext)
-    with open(get_def("index-path", config, "index.html"), "w") as inf:
+    output_path = get_def("index-path", config, "index.html")
+    vwrite(config, '> Using template to create index at path:\n...', output_path)
+    with open(output_path, "w") as inf:
         inf.write(it)
+
+def main(filenames, config):
+    if len(filenames) == 0:
+        warn('No filenames provided for compilation.')
+    else:
+        nc = 0
+        tot = len(filenames)
+        for filename in filenames:
+            nc += int(full_compile(filename, config))
+        if nc > 0:
+            print('Successfully compiled', nc, 'files.')
+        if tot > nc:
+            print('Decided not to compile', tot - nc, 'files.')
+    # Still build the index
+    mode = ModeInfo(config)
+    if mode.mode == Mode.HTML:
+        BuildIndex(config)
         
 def dmerge(a, b):
     for k in b:
@@ -194,10 +217,14 @@ def get_config(args):
     debug = False
     toremove = []
     for arg in args:
-        if arg in ['-v', '--verbose']:
+        if re.match(r'--?v(erbose)?', arg) is not None:
             config['v'] = True
             toremove.append(arg)
             write("Enabled verbose mode.")
+        elif re.match(r'--?h(elp)?', arg) is not None:
+            print('Simple Markdown Compiler', 
+                    '\n\tUsage: python3 compile.py [-f, -v] -c=<config file> <filename>...')
+            toremove.append(arg)
         elif re.match(r'--?c(onfig)?=.+', arg) is not None:
             cfilename = re.match(r'-{0,2}c(onfig)?=(.+)', arg).group(2)
             with open(cfilename, 'r') as cfile:
