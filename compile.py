@@ -58,7 +58,7 @@ def write(*args, **kwargs):
 
 def vwrite(config, *args, **kwargs):
     if 'v' in config and is_true(config['v']):
-        write(*args, **kwargs)
+        write('(Info)', *args, **kwargs)
 
 def warn(*args, **kwargs):
     write("Warning:") 
@@ -181,7 +181,8 @@ def BuildIndex(config):
         it = ti.read()
     it = it.replace("${ALL_FILES}", itext)
     output_path = get_def("index-path", config, "index.html")
-    vwrite(config, '> Using template to create index at path:\n...', output_path)
+    vwrite(config, 'Using template to create index at path:')
+    vwrite(config, output_path)
     with open(output_path, "w") as inf:
         inf.write(it)
 
@@ -189,14 +190,18 @@ def main(filenames, config):
     if len(filenames) == 0:
         warn('No filenames provided for compilation.')
     else:
+        print('Starting compilation of', len(filenames), 'file' + ('s' if
+            len(filenames) > 1 else ''), 'to', ModeInfo(config).mode_str)
         nc = 0
         tot = len(filenames)
         for filename in filenames:
             nc += int(full_compile(filename, config))
         if nc > 0:
-            print('Successfully compiled', nc, 'files.')
+            print('Successfully compiled', nc, 'file' + ('s.' if
+            nc > 1 else '.'))
         if tot > nc:
-            print('Decided not to compile', tot - nc, 'files.')
+            print('Decided not to compile', tot - nc, 'file' + ('s.' if tot -
+                nc > 1 else '.'))
     # Still build the index
     mode = ModeInfo(config)
     if mode.mode == Mode.HTML:
@@ -244,7 +249,7 @@ def get_config(args):
         args.remove(arg)
 
     if not config['loaded']:
-        write("Attempting to load from default config.")
+        vwrite(config, "Attempting to load from default config file.")
         # Try to load our default
         if os.path.isfile("config.json"):
             with open("config.json", 'r') as cfile:
@@ -265,8 +270,6 @@ def get_config(args):
 if __name__ == '__main__':
     # Attempt to get configuration options
     args = sys.argv[1:]
-    if len(args) == 0:
-        warn("No arguments passed. Working on defaults.")
     conf = get_config(args)
     main(conf[0], conf[1])
 
