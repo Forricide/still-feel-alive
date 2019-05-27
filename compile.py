@@ -15,6 +15,8 @@ class Mode(Enum):
     HTML = 1
     BBCode = 2
     BAD = 3
+
+class ModeInfo():
     def __init__(self, config):
         # Defaults
         self.ext = OUTPUT_EXT
@@ -23,7 +25,7 @@ class Mode(Enum):
         if 'mode' in config:
             self.parse_mode(str(config['mode']).strip(' \r\n').lower())
 
-    def parse_mode(mode):
+    def parse_mode(self, mode):
         if mode in ['b', 'bb', 'bbcode']:
             self.ext = '.bbcode'
             self.mode_str = 'BBCode'
@@ -77,13 +79,13 @@ def get_compiled(filename, config):
         return None # We should not compile this!
     with open(filename, 'r') as file:
         d = file.read()
-    mode = Mode(config)
-    if mode.mode = Mode.HTML:
+    mode = ModeInfo(config)
+    if mode.mode == Mode.HTML:
         d = re.sub(r'\*\*\*([^\*]*)\*\*\*', r'<b><i>\1</i></b>', d)
         d = re.sub(r'\*\*([^\*]*)\*\*', r'<b>\1</b>', d)
         d = re.sub(r'\*([^\*]*)\*', r'<i>\1</i>', d)
         d = re.sub(r'(.+?)(\r|\n|$)+', r'<p>\1</p>\n\n', d)
-    elif mode.mode = Mode.BBCode:
+    elif mode.mode == Mode.BBCode:
         d = re.sub(r'\*\*\*([^\*]*)\*\*\*', r'[b][i]\1[/i][/b]', d)
         d = re.sub(r'\*\*([^\*]*)\*\*', r'[b]\1[/b]', d)
         d = re.sub(r'\*([^\*]*)\*', r'[i]\1[/i]', d)
@@ -123,9 +125,9 @@ def should_compile(filename):
         return False
 
 def write_compiled(filename, contents, config):
-    mode = Mode(config)
+    mode = ModeInfo(config)
     output_path = os.path.join(os.path.normpath(config['output']), filename + mode.ext)
-    vwrite(config, "Compiling", filename, "in mode", mode, "to output filename", output_path)
+    vwrite(config, "Compiling", filename, "in mode", mode, "to output filename:\n", output_path)
     with open(output_path, 'w') as file:
         file.write(contents)
 
@@ -146,7 +148,9 @@ def full_compile(filename, config):
     return True
 
 def html_files(config):
-    return [f for f in glob.glob(get_def("output", config, "") + "*.html") if os.path.basename(f) not in IGNORED_FILES]
+    glob_path = get_def("output", config, "") + "*.html"
+    vwrite(config, "Globbing HTML files at:", glob_path)
+    return [f for f in glob.glob(glob_path) if os.path.basename(f) not in IGNORED_FILES]
 
 def md_files():
     return [f for f in glob.glob("*.md") if f not in IGNORED_FILES]
