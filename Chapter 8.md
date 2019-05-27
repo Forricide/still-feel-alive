@@ -58,7 +58,7 @@ Pitch black, yawning void, cold emptiness.
 
 A vast being, larger than imagination.
 
-Miniscule, from this perspective.
+Minuscule, from this perspective.
 
 "Are you okay?" Newter, snapping her out of her concentration.
 
@@ -74,11 +74,11 @@ A few minutes later, they sit around a table, Sarah's notepad angled so that all
 
 The discussion is somewhat uncomfortable. Taylor goes to inspect the dead version of herself.
 
-There's something a little unrealistic about her. Well, *it*. She tries to dehumanize it mentally; she doesn't want to make that connection to her own mortality. Instead, she distracts herself with the inanimate parts - the sweater, for example. It's the same as the one she's wearing, but something about it brings her back to her original thought. It doesn't look quite *real*. There's something off, a combination of miniscule tells that combine into an disconcerting aura of fakeness.
+There's something a little unrealistic about her. Well, *it*. She tries to dehumanize it mentally; she doesn't want to make that connection to her own mortality. Instead, she distracts herself with the inanimate parts - the sweater, for example. It's the same as the one she's wearing, but something about it brings her back to her original thought. It doesn't look quite *real*. There's something off, a combination of microscopic tells that combine into an disconcerting aura of fakeness.
 
-She pulls at a loose thread, and a full corner of the sweater frays, white stitches taut cords across a broken gray background. Her glasses come off; she tries the others on. Blurry, plastic.
+She pulls at a loose thread, and a full corner of the sweater frays, white stitches taut cords across a broken grey background. Her glasses come off; she tries the others on. Blurry, plastic.
 
-The smell isn't as disgusting as she'd expected, or remembered from the previous time. There's no aroma of feces or sweat. Instead, it's just a strong burnt odor, like ash.
+The smell isn't as disgusting as she'd expected, or remembered from the previous time. There's no aroma of feces or sweat. Instead, it's just a strong burnt odour, like ash.
 
 Sarah is watching her. "Find anything interesting?"
 
@@ -90,7 +90,7 @@ She runs her hand lightly through its hair. Disgusting. "Worse. Like... a cheap 
 
 Now that she's looking for them, she can see the differences everywhere: its clothing's colours are subtly weaker, washed out; its skin is chalky and ashen; its hair stringy and thin.
 
-"We noticed that with the other one, too. Gregor thinks it might be how your power deals with the clones, sort of like a much slower version of- well, you wouldn't know of them. But it falls in line with a theory of mine. Parahuman powers rarely seem to be particularly... useful, outside of fighting. So there's no need for it to make a quality copy of you, I suppose, if it's just going to be discarded. Like some sort of subconscious resource allo- nevermind. Let's get back to work."
+"We noticed that with the other one, too. Gregor thinks it might be how your power deals with the clones, sort of like a much slower version of- well, you wouldn't know of them. But it falls in line with a theory of mine. Parahuman powers rarely seem to be particularly... useful, outside of fighting. So there's no need for it to make a quality copy of you, I suppose, if it's just going to be discarded. Like some sort of subconscious resource allo- never mind. Let's get back to work."
 
 Taylor just nods, not really listening. There's something more interesting about the body, a morbid allure to inspecting it. She idly wonders if it's special, in some way - there's certainly a draw to it, like she just can't quite resist looking for more blemishes, now that she knows of the façade. 
 
