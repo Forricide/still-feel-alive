@@ -12,13 +12,13 @@ There's something she's forgetting. It's coming back to her slowly, but still di
 
 Faultline is Sarah's 'cape name' - she's more than a manager, she's the leader of the team of mercenary capes living in the upper floors of the dance club. Apparently Sarah isn't even her real name - she just uses it for safety, but it's too uncomfortable to refer to her differently now.
 
-This is supposed to be the last of their tests, at least for the time being. Tomorrow they go together on a job, recovering some precious artifact for a... "collector". Today, they were going to find out what she could *really* do, gather as much information as possible.
+This is supposed to be the last of their tests, at least for the time being. Tomorrow they go together on a job, recovering some precious artifact for a... *collector*. Today, they were going to find out what she could really do, gather as much information as possible. Perhaps cutting things a little close, but Sarah had been confident in her plans.
 
 She struggles to remember the rest of the instructions. They come back the slowest, the most recent memories almost blurry in her mind. 
 
-Revive herself... beside Gregor. And she had to take something with her, too, not just her clothing. Something valuable... 
+Revive herself... near Gregor. And she had to take something with her, too, not just her clothing. Something valuable... 
 
-She can feel it in her hands. There's no light to see it, but it's not difficult to puzzle out what it is - a laptop computer, sturdy plastic slicked with sweat. 
+She can feel it in her hands. There's no light available to see it, but it's not difficult to puzzle out what it is - a laptop computer, sturdy plastic slicked with sweat. 
 
 This is everything she needed. Now she just needs to go back.
 
@@ -26,7 +26,7 @@ She closes her eyes, and wakes up.
 
 The first thing that hits her is the *smell*. It's blood and chemicals, a disgusting mix like some kind of dilapidated hospital. 
 
-She scans her surroundings. Gregor is to her right; he hasn't noticed her yet. Some part of her mind connects him with the thick smell of chemical. He's spewing something vile-looking at- at an *army*, a hundred or two hundred men surging towards him, brandishing all sorts of weapons. As it gushes over them, dozens fall to the ground, writhing and screaming.
+She scans her surroundings. Gregor is to her right; he hasn't noticed her yet. Some part of her mind connects him with the thick chemical stench. He's spewing something vile-looking at- at an *army*, a hundred or two hundred men surging towards him, brandishing all sorts of weapons. As it gushes over them, dozens fall to the ground, writhing and screaming. Dying.
 
 The laptop drops from her grip, completely forgotten, as she stares.
 
@@ -36,7 +36,7 @@ Gregor turns at the sound of it hitting the ground. The expression on his face i
 
 She thinks. Not for long; there's nothing there, just a thick mental fog. "I don't know. What's going on?"
 
-"We're fighting the- no, forget that." He turns for a moment, spewing out some viscous spray. It splatters across the faces of two dozen men; they slow down, stumbling, before being run over by more behind them. "I can deal with this one. Go find Faultline."
+"We're fighting the- no, forget that." He turns for a moment, spewing out some viscous spray. It splatters across the faces of two dozen men; they slow down, stumbling, before being run over by more behind them. "I can deal with this one. Go and find Faultline."
 
 A nod, mute. Now that she's had a moment to take it all in, the chaos seems more manageable. To her left, Newter leaps at a woman carrying a bow; a moment before contact, she disappears in a burst of light and fire. To her right, a million shards of glass are floating in the air. She sees a familiar figure; they reach out a hand, and the glass *shatters*.
 
@@ -44,7 +44,7 @@ But she can't focus on that, because the ground is changing underneath her. Wher
 
 She disappears in a burst of flame; Newter flings himself halfway across the street, forcing the woman to retreat once again. 
 
-It takes her a moment to force herself to focus, remember her initial objective. Gregor has already left her behind, she moves uncertainly towards Sarah - Faultine - who's started to use her power on odd terrain appearing out of thin air. A dilapidated water tower cracks in half, basin teetering then careering towards the ground, barrelling through thousands of tiny gashes in the air. 
+It takes her a moment to force herself to focus, remember her initial objective. Gregor has already left her behind, and she moves uncertainly towards Sarah - Faultine - who's started to use her power on odd terrain appearing out of thin air. A dilapidated water tower cracks in half, basin teetering then careering towards the ground, barrelling through thousands of tiny gashes in the air. 
 
 Then they're gone, and Newter is standing behind where they'd been, shaking water off of himself and looking around the street. 
 
@@ -56,7 +56,7 @@ And it's over, as far as she can tell. In the span of a few moments, it becomes 
 
 Faultline sighs. "Yes. You've been gone since Tuesday."
 
-"What day is it?" As soon as the words leave her mouth, she feels a twinge of regret. She might have been able to find that information on the computer. Faultline gives her a strange look.
+"What day is it?" As soon as the words leave her mouth, she feels a twinge of regret. She might have been able to find that information on the computer, now probably broken. Faultline gives her a strange look.
 
 "Monday. It's been almost a week - where were you?"
 
@@ -89,5 +89,7 @@ She walks away. They leave by van a few minutes later, dented laptop along for t
 "Sometimes."
 
 Shattered glass, ruined terrain, blood and pain and - stifling, pounding sweat.
+
+Thrilling, blood pumping. She feels that same, vague, pang of regret. Why hadn't she come earlier?
 
 "Okay."
