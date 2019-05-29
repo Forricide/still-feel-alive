@@ -1,18 +1,18 @@
 *Swimming in a sea of void, she's floating, just barely above the crest of the waves.*
 
-*A surge of nothing crests to meet dull emptiness. She gasps for breath. There's nowhere to surface; it's the same above and below.*
+*Suddenly submerged, she gasps for breath. There's nowhere to surface; it's the same above and below.*
 
 *The world is laid out before her. It is innumerable; a singular instance would have already been uncountable, but she gazes into an infinitum, a planet folded in on itself over and over and over again. A brilliant fractal, branches and trees all within the same spherical forest.*
 
-*One branch stands out to her, another in the back of her mind.* 
+*One branch stands out to her, another a heavy presence in the back of her mind.* 
 
 *Where to go?*
 
-*She waits, takes her time. Sinking, but slowly, not falling but fading.*
+*She waits, takes her time. Sinking, but slowly. Not falling, but fading.*
 
 *Impatient, something else makes the decision for her. Not a step, but a stumble; shoved awkwardly forward into reality.*
 
-She breathes in, deeply: Water.
+She breathes in, deeply: Water, real this time, heavy and burning in her lungs.
 
 Choking, thrashing.
 
@@ -74,17 +74,17 @@ She frowns, just slightly. Wasn't there something she was supposed to be doing? 
 
 "Are you okay? Hey, say something!"
 
-Her knees press against the cold floor. Wood buckles, a barely noticeable amount, under their weight. A spark of a headache shoots through her head. The floor looks cold, is cold, a chill permeating through her dark blue jeans. Blue on grey-brown, distant light providing pale shadow. She shivers uncontrollably.
+Her knees press against the cold floor. Wood buckles, a barely noticeable amount, under their weight. A spark of a headache shoots through her head, deep and frantic breathing making a faint fog. The floor looks cold, is cold, a chill permeating through her dark blue jeans. Blue on grey-brown, distant light providing pale shadow, talking and near-silent buzzing ringing in her head. She shivers uncontrollably.
 
 "What do I do? Anne, do I need to call someone? An ambulance?"
 
-"No, I think - she's fine. Can you get her something to drink?"
+"No, that wouldn't be a good idea. Can you get her something to drink?"
 
 Water swishes back and forth. Miniature waves. Sound waves, too. Back and forth, side to side.
 
 She drinks. Breathes deeply.
 
-And then she's choking again, spasming, hunched over the ground. Then she knows, with total clarity, that her time here is already over.
+And then she's choking again, spasming, hunched over the ground. The knowledge, piercing through the fog, that her time here is already over.
 
 For a moment, she'd wanted to be here. Faltered, just barely. Is this her punishment?
 
@@ -94,7 +94,7 @@ Then she's in the void again, alone. Her ears seem to ring for a moment; it fade
 
 For once, she makes a conscious decision to stay longer. Not that long - not that she could keep track of time either way - but long enough to think over things. She *peruses* her memory, indexes it, analyzes. 
 
-A decision: Parahuman powers make some things easier. Making money, forming relationships of a sort. *dying, pain, despair* Other things, it makes more difficult. Living a long life in particular. *distanced from society, hopeless*
+A decision, backed by realization: Parahuman powers make some things easier. Making money, forming relationships of a sort. *dying, pain, despair* Other things, it makes more difficult. In particular, living a long life, or even a peaceful one. *distanced from society, hopeless*
 
 If she's immortal - well, nothing lasts forever. But if she can't die in a regular sense, then there's no reason to avoid it. *this can't be right*
 
@@ -108,7 +108,7 @@ Shock, surprise.
 
 Her mind begins to fade. "I'm sorry about disappearing on you. Can you-"
 
-The next sentence is already gone, if she ever planned it at all. She can't think of anything to say.
+The next sentence is already gone, if she ever planned it at all. She can't think of anything to say, mouth open for a moment before she closes it, looks around.
 
 "It's okay. I understand. Powers can be hard to work with."
 
