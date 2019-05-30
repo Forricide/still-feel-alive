@@ -2,9 +2,9 @@ It's hard not to notice a difference when she looks around the room.
 
 Sarah had been right, from a certain perspective. This particular group of people couldn't afford to stagnate, not in the high-paced world of capes. So they'd sought out more members, both parahuman and not, to round out their numbers.
 
-At one table, Newter and Gregor are playing some kind of card game. Newter had tried to teach her, but it hadn't gone so well. She can hardly remember the rules now, anyways. Spitfire is watching, hovering a comfortable distance away. It's impossible to tell who's winning; Newter's always chuckling, playing cards with exaggerated gestures, while Gregor has an eternally perfect poker face. Two more cards come down: Gregor sighs, Newter jumps out of his seat.
+At one table, Newter and Gregor are playing some kind of card game. Newter had tried to teach her, but it hadn't gone so well. She can hardly remember the rules now, anyways. Spitfire is watching, hovering a comfortable distance away. It's impossible to tell who's winning; Newter's always chuckling, playing cards with exaggerated gestures, while Gregor has an eternally perfect poker face. Two more cards come down: Gregor sighs, Newter jumps out of his seat, cheering.
 
-Labyrinth is in her room, resting. She can feel the girl in the back of her mind - no, not exactly Labyrinth herself, but the world she's imagining. Like a distant headache, not painful, but noticeable, slowly growing over the past weeks. She's seen the worlds that the girl sees through the lens of real life. Now, she wonders if it could be possible to visit them in person.
+Labyrinth is in her room, resting. She can feel the girl in the back of her mind - no, not exactly Labyrinth herself, but the world she's imagining. Like a distant headache, not painful, but noticeable, slowly growing over the past weeks. She's seen the worlds that the girl sees through the lens of their shared dimension. Now, she wonders idly if it might be possible to visit them in person.
 
 Their most recent job brought them more than just money. The 'Azn Bad Boys' - a comical name for a terrifying local gang - had accrued a lot of national attention, especially during the past month. Playing a major part in taking them out had earned them a considerable increase in reputation; so much so that Sarah had been contacted by their newest recruit.
 
@@ -40,15 +40,15 @@ Sarah shakes her head, sighs. "There's an Endbringer coming."
 
 She recognizes the word, if only barely. From a television show, perhaps, back when... "Okay."
 
-"We do have a sizeable team, but - none of us are particularly useful against him. We don't have any real damage, it would just... well, that kind of fight wouldn't go well."
+"We do have a sizeable team, but - none of us are particularly useful against him. We don't have any real damage, it would just... well, that kind of fight wouldn't go well for us."
 
 "Okay."
 
-"Except you - you can't die."
+"You're the only one that could survive against him."
 
-Those words: *I can't die.*
+That reminder: *I can't die.*
 
-Even though she can think back - a month, now, maybe more, she doesn't remember *that*. Just... chasms of nothing, spotting her memory, bookending real-life experiences.
+Even though she can think back - a month, now, maybe more, she doesn't really remember *that*. Just... chasms of nothing, spotting her memory, bookending real-life experiences.
 
 Sarah touches her shoulder. A surge of confidence. 
 

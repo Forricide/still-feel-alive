@@ -4,9 +4,15 @@ She's not sure if the boy notices. He's excited, energetic. The lady in the scre
 
 "Hey, this one looks cool. What do you think? Okay, I'll take that as a yes. Says here... just press down on the little lever for three seconds."
 
+Back and forth.
+
 "Welcome back, you okay? You were gone for... a while. Uh, anyways. What about this one? Might as well give it a shot."
 
+She doesn't get tired, but this is draining in an entirely different sense.
+
 "Okay, I think we're running out of the ones that look cool. But, um, speaking of looking cool, you don't really look so hot. Everything all right? You can stop whenever, and we'll go meet up with Faultline."
+
+She can't stop.
 
 "...I don't think this is good, hey? How about this: One last one, and we'll leave. I don't even know if you can speak right now, and you've done a lot. Let's just... call it a wrap."
 
@@ -16,7 +22,7 @@ Peering at her, for a second. Then back to gesturing. "I guess, if we're doing o
 
 He's holding a device with several buttons dotting its surface. It looks almost out of a movie - a dark, metal core covered by switches and buttons and multicoloured wires. 
 
-"Wonder if it does several things, maybe. Like a multi-tool, except the settings are *boom*, *kaboom*, and... Okay, that's too complicated for you, I'd imagine. Let's go for something a little simpler. How does this one look?"
+"Wonder if it does several things, maybe. Like a multi-tool, except the settings are *boom*, *kaboom*, and... Okay, that's too complicated for you, I imagine. Let's go for something a little simpler. How does this one look?"
 
 No exposed wires. Just a single button, nearly flush with the white surface. Aesthetically pleasing, and completely different from the majority of the others. So much so, she wonders if it was perhaps made by someone else.
 
@@ -28,7 +34,7 @@ It's a minute before the response. She doesn't even bother to show herself on th
 
 She doesn't respond.
 
-"All right. I'll just, let you know when it's been two minutes, then." He stares down to the phone, not looking around the room. She takes the chance to breathe.
+"All right. I'll just, let you know when it's been two minutes, then." He stares down at the phone, not looking around the room. She takes the chance to breathe.
 
 The stench is overpowering.
 
@@ -54,7 +60,7 @@ She can view its plight from every angle, see the water gushing down its back, i
 
 The heroes charge.
 
-This much motion is disorienting. She can view a large amount of information, but it's usually more static, like a picture. Two dozen superhumans levelling every ability they can bring to bear is enough for her to lose track of what exactly is happening.
+This much motion is disorienting. She can view a large amount of information, but it's usually more static, like a montage. Two dozen superhumans levelling every ability they can bring to bear is enough for her to lose track of what exactly is happening.
 
 The fight is over within a minute.
 
@@ -62,15 +68,15 @@ It's clear that the attackers aren't the cream of the crop. A few of them seem t
 
 Three sharp pulls, one after the other, seem to be enough to convince the beast that his hand won't be moving. It turns its attention back to the attackers, who seem to be rallying for another offence. Then a wave crashes down upon them, and they're scattered again.
 
-The water does not impair her vision, in this state. It's not like using her eyes when human. It's different: distant, yet intimate; detailed, but vague, a huge amount of information pressed into a single dimension of imagination. Something is lost in the translation, data compression writ large. 
+The water does not impair her vision, in this state. It's not like using her eyes when human. It's different: distant, yet intimate; detailed, but vague. A huge amount of information, pressed into a single dimension of imagination. Something is lost in the translation, data compression writ large. 
 
 She looks somewhere else while they drown. There's nothing she can do to help.
 
-Back in the laboratory, Newter is long gone. The people that she had assumed to be scientists have disappeared as well; the room is completely empty of people. All that remains are desks covered in various Tinker debris. It's not rising fast, but she still wonders if the flooding might cause issues, for a stockpile of explosive weaponry like this. She supposes it's not really her problem.
+Back in the laboratory, Newter is long gone. The people that she had assumed to be scientists have disappeared as well; the room is completely void of life. All that remains are desks covered in various Tinker debris. The water isn't rising fast, but she still wonders if the flooding might cause issues, for a stockpile of explosive weaponry like this. She supposes it's not really her problem.
 
 She searches for Newter. He's pacing, long tail swishing back and forth, already outside of Brockton Bay. For a long moment, she watches him. He looks one way - towards the city where the rest of Faultline's crew has taken refuge. Then back to Brockton Bay again, forlorn.  
 
-No right decision, so he's stuck in limbo, almost like her.
+No right decision, so he's stuck in limbo, a more metaphorical one than hers.
 
 She's made up her mind. One breath, deep, taking in the otherworldly air of this distant place.
 
@@ -90,7 +96,7 @@ And it hurts more, and more, and more.
 
 She appears again. Cushioning the body of a cape with her own. He groans. She doesn't make a sound.
 
-The Leviathan takes notice of her. Not that time, not the next time. At one point, however, it inevitably happens. It meets her eyes, and she stares back. Time seems to freeze, water roiling slowly in the streets.
+The Leviathan takes notice of her. Not that time, not the next time. At one point, however, it inevitably happens. It meets her eyes, or she thinks it does, and she stares back. Time seems to freeze, water roiling slowly in the streets.
 
 Something whimpers behind her in the sudden silence - a person? 
 

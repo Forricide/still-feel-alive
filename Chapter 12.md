@@ -1,6 +1,6 @@
 A flood of people.
 
-There are no civilian vehicles on the road. It's incredible how much *space* cars, trucks, and buses take up; now that they're almost entirely relegated to the side of the road, there is a surprising of space on the streets to manoeuvre. Keeping in mind, of course, that every single person in the entire city is outside.
+There are no civilian vehicles on the road. It's incredible how much *space* cars, trucks, and buses take up; now that they're almost entirely relegated to the side of the road, there is a surprising amount of space on the streets to manoeuvre. Keeping in mind, of course, that every single person in the entire city is outside.
 
 Her eyes roam, flickering across the mass of people. Their armoured van moves through the city fast, never hitting anyone, but not bothering to wait. Families with small children avoid them entirely on sidewalks, hurrying towards the nearest bunker; single people in their mid-twenties thread their way through the crowd, some wearing gang symbols; the injured and elderly lag behind, forming little divots in the current.
 
@@ -22,7 +22,7 @@ Not quite true, but she doesn't correct him. It's quiet again, for a few seconds
 
 She vaguely recalls Gregor explaining this. "And Gregor, right?"
 
-"Yeah. Well, Shamrock too, actually. It's part of how we found her. She had the- well, yeah."
+"Yeah. Well, Shamrock too, actually. It's part of how we connected. She had the- well, yeah."
 
 "I see."
 
@@ -34,7 +34,7 @@ Nod.
 
 It doesn't take that much longer to reach the city's centre.
 
-There are more powerful people in one room than most people meet in a lifetime. She can't recognize more than a small handful, from television and magazines. 
+There are more people of power in one room than most people meet in a lifetime. She can't recognize more than a small handful, from television and magazines. 
 
 It's an intimidating display. Men and women in violently-coloured costumes talk animatedly, gesturing, pacing. In the northern corner, a man with a gun almost as large as her body rests against a wall by himself. Along the adjacent wall, gigantic four-legged monsters congregate around a girl with the visage of a dog as her face, scars along the length of her bare arms.
 
@@ -42,7 +42,7 @@ She scans the room again, taking in postures, expressions. There isn't a single 
 
 It's overwhelming, to be paying attention, taking in so much information, when the people and sounds and smells are crushing her. She retreats into herself. As deep as is safe.
 
-When she finally re-emerges: "That's what we have. I need to ask again: Are you sure you want to do this?"
+When she finally re-emerges, it's to the sound of a surprisingly calm voice: "That's what we have. I need to ask again: Are you sure you want to do this?"
 
 Her head moves involuntarily, another nod. She barely remembers the first.
 
@@ -56,7 +56,7 @@ They're in a laboratory. Not the one that she pictures hazily in her mind; no si
 
 In front of her, just a little behind the man in the metal suit, is an assortment of bombs. That's what they were supposed to be, at least; she wouldn't have been able to tell them apart from any other device. Just wires and metal.
 
-Dangerous.
+Dangerous. That, she can remember well enough.
 
 "...We'll show you the trigger mechanism. When you use your ability to get next to the Endbringer, you'll depress it, then return here. Do you understand?"
 
@@ -82,7 +82,7 @@ The man's mouth - the only visible portion of his face - tightens, a straight li
 
 A nod. Then, in the continued silence: "Yes, I understand."
 
-He's picking through some devices on a table, turning them over and examing one after anoter for only seconds before moving on. After discarding a half dozen, he seems to settle. "I think this one would be best." He gestures, already turning away, facing the woman in the screen. "What do you think, Dragon?"
+He's picking through some devices on a table, turning them over and examining one after another for only seconds before moving on. After discarding a half dozen, he seems to settle. "I think this one would be best." He gestures, already turning away, facing the woman in the screen. "What do you think, Dragon?"
 
 "Agreed." It's not that large, maybe twice the size of a fist, and has a clear button on top. The button doesn't really fit in; it's almost ugly compared to the rest of the device, and looks like it's not entirely attached. "You will need to be within ten feet of Leviathan for this one to have any effect. We'll need to make sure there aren't any capes within range when you use it, though. I can keep track of that for you."
 

@@ -2,7 +2,7 @@ In another world, she is dreaming.
 
 Deep breaths form a foggy backdrop to calm observation. 
 
-It's both the greatest thing she's ever seen, and the most limited. A hundred thousand million earths, each spiraling out from one another, yet all at the same fixed position. There is nothing beyond this in her field of view: no moon, no sun, no stars. Just an uncountable number of a single, lonely planet.
+It's both the greatest thing she's ever seen, and the most limited. A hundred thousand million earths, each spiralling out from one another, yet all at the same fixed position. There is nothing beyond this in her field of view: no moon, no sun, no stars. Just an uncountable number of a single, lonely planet.
 
 *We're so alone, aren't we?*
 
@@ -21,6 +21,8 @@ Slight shudder. Here, the memories come back easier. It had been useful, at firs
 There are more important things to think about.
 
 Her vision sharpens. The beast, the *Leviathan*, has almost reached the city. It carves through the water, a straight line, ignorant or uncaring of obstacles in its path.
+
+It's easy to remember Dragon's instructions, to avoid catching other capes in the detonation. But there's no risk here, the beast having yet to reach the city.
 
 She presses down her thumb, hard. Then she joins him in the water, even as she can feel the device expanding.
 
@@ -46,7 +48,7 @@ She nods.
 
 "Okay. What were you saying we should use, Dragon?"
 
-"Hold on. Leviathan's been sighted, I'm going to verify if the last one visibly hit. If she was able to connect with that, we might want to go with something with more... ah, 'oomph'. Can you take the one in her hand, and put it back on the table? We'll keep it around, at least."
+"Hold on. Leviathan's been sighted, I'm going to verify if the last one visibly hit. If she was able to connect with that, we might want to go with something with more... ah, 'oomph'. Can you take the one in the body's hand, and put it back on the table? We'll keep it around, at least."
 
 "Gotcha."
 
@@ -74,11 +76,11 @@ He gives it to her. Both hands close around it, forefinger just a touch away fro
 
 A nod, slow. 
 
-There's regrettably little time to rest, before she's back.
+There's regrettably little time to rest, before she's back in this place, the world outside worlds.
 
 Memories of events not even an hour old rush back to her. She tries to block them out, and finds it easy, like a relaxed form of meditation.
 
-A talk show host, back when she'd had time to watch television, had referred to the Endbringers as *god-beasts*. Looking at the Leviathan now, she finds it difficult to agree. Fast, powerful, elegant - but nothing more. A brutish thing, skin covered in lacerations, greedy misshapen eyes glancing back and forth like a wild animal. At home in the filth and muck of the sewers beneath the city.
+A talk show host, back when she'd had time to watch television, had referred to the Endbringers as *god-beasts*. Looking at the Leviathan now, she finds it difficult to agree. Fast, powerful, maybe even elegant in motion - but nothing more. A brutish thing, skin covered in lacerations, greedy misshapen eyes glancing back and forth like a wild animal. At home in the filth and muck of the sewers beneath the city.
 
 *Disgusting*. 
 
