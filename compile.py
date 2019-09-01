@@ -167,17 +167,23 @@ def dts(d):
     return ' '.join(d)
 
 def BuildIndex(config):
-    print('Building index:')
+    vwrite(config, 'Building index:')
+    itp = get_def("index-template-path", config, "index.template")
+
+    if not os.path.isfile(itp):
+        vwrite(config, 'Cancelling index as', itp, 'is not a file.')
+        return
+
     index = [os.path.basename(x) for x in html_files(config)]
-    print('> Found', len(index), 'html files.')
+    vwrite(config, '> Found', len(index), 'html files.')
     index = sort_ch_num(index) 
     # Removes .md.gi.html line endings. Could cause issues if a filename
     # had one of the characters being stripped here at the end of the actual
     # name. Probably would be better to just do split('.')[0], really.
     index = [("<a href=\"" + x + "\">" + x.rstrip(".dgihtml") + "</a>") for x in index]
-    print('> Created a', len(index), 'length index.')
+    vwrite(config, '> Created a', len(index), 'length index.')
     itext = '<p>' + '</p>\n<p>'.join(index) + '</p>'
-    with open(get_def("index-template-path", config, "index.template"), "r") as ti:
+    with open(itp, "r") as ti:
         it = ti.read()
     it = it.replace("${ALL_FILES}", itext)
     output_path = get_def("index-path", config, "index.html")
@@ -228,7 +234,8 @@ def get_config(args):
             write("Enabled verbose mode.")
         elif re.match(r'--?h(elp)?', arg) is not None:
             print('Simple Markdown Compiler', 
-                    '\n\tUsage: python3 compile.py [-f, -v] -c=<config file> <filename>...')
+                    '\n\tUsage: python3 compile.py [-f] [-v] [-c=<config file>]\n\t\t[-m=<html|bb>]',
+                    '[-o=<output-path>] <filenames>...')
             sys.exit(0)
         elif re.match(r'--?c(onfig)?=.+', arg) is not None:
             cfilename = re.match(r'-{0,2}c(onfig)?=(.+)', arg).group(2)
@@ -250,7 +257,7 @@ def get_config(args):
             toremove.append(arg)
         elif re.match(r'--?o(utput)?=.+', arg) is not None:
             coutfolder = re.match(r'--?o(utput)?=(.+)', arg).group(2)
-            config['mode'] = coutfolder.strip('\r\n\'"')
+            config['output'] = coutfolder.strip('\r\n\'"')
             toremove.append(arg)
 
     for arg in toremove:
