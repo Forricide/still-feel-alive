@@ -229,7 +229,7 @@ def get_config(args):
         elif re.match(r'--?h(elp)?', arg) is not None:
             print('Simple Markdown Compiler', 
                     '\n\tUsage: python3 compile.py [-f, -v] -c=<config file> <filename>...')
-            toremove.append(arg)
+            sys.exit(0)
         elif re.match(r'--?c(onfig)?=.+', arg) is not None:
             cfilename = re.match(r'-{0,2}c(onfig)?=(.+)', arg).group(2)
             with open(cfilename, 'r') as cfile:
@@ -243,6 +243,10 @@ def get_config(args):
             toremove.append(arg)
         elif re.match(r'--?f(orce)?', arg) is not None:
             config['force'] = True
+            toremove.append(arg)
+        elif re.match(r'--?m(ode)?=.+', arg) is not None:
+            cmode = re.match(r'--?m(ode)?=(.+)', arg).group(2)
+            config['mode'] = cmode.strip('\r\n\'"')
             toremove.append(arg)
 
     for arg in toremove:
