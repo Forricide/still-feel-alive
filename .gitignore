@@ -9,3 +9,4 @@ pull-all.sh
 tempbboutput
 bbconfig.json
 index.html
+local-install.sh
