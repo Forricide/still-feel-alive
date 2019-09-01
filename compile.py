@@ -194,7 +194,7 @@ def BuildIndex(config):
     with open(itp, "r") as ti:
         it = ti.read()
     it = it.replace("${ALL_FILES}", itext)
-    output_path = get_def("index-path", config, "index.html")
+    output_path = get_def("index-path", config, get_def("output", config, "./") + '/index.html')
     vwrite(config, 'Using template to create index at path:')
     vwrite(config, output_path)
     with open(output_path, "w") as inf:
