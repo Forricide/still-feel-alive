@@ -165,7 +165,7 @@ def is_ch(name):
 
 def get_ch_num(n):
     if is_ch(n):
-        return int(n.strip("Chapter .md.gi.html"))
+        return int(n.strip("Chapter -.md.gi.html"))
     return 9999
 
 def sort_ch_num(d):
