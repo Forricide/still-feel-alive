@@ -160,8 +160,16 @@ def html_files(config):
 def md_files():
     return [f for f in glob.glob("*.md") if f not in IGNORED_FILES]
 
+def is_ch(name):
+    return name.startswith("Chapter")
+
+def get_ch_num(n):
+    if is_ch(n):
+        return int(n.strip("Chapter .md.gi.html"))
+    return 9999
+
 def sort_ch_num(d):
-    return sorted(d, key=lambda x: int(x.strip("Chapter .md.gi.html")))
+    return sorted(d, key=lambda x: get_ch_num(x))
 
 def dts(d):
     return ' '.join(d)
@@ -180,7 +188,7 @@ def BuildIndex(config):
     # Removes .md.gi.html line endings. Could cause issues if a filename
     # had one of the characters being stripped here at the end of the actual
     # name. Probably would be better to just do split('.')[0], really.
-    index = [("<a href=\"" + x + "\">" + x.rstrip(".dgihtml") + "</a>") for x in index]
+    index = [("<a href=\"" + x + "\">" + (x.rstrip(".dgihtml") if is_ch(x) else x)  + "</a>") for x in index]
     vwrite(config, '> Created a', len(index), 'length index.')
     itext = '<p>' + '</p>\n<p>'.join(index) + '</p>'
     with open(itp, "r") as ti:
