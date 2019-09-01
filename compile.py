@@ -248,6 +248,10 @@ def get_config(args):
             cmode = re.match(r'--?m(ode)?=(.+)', arg).group(2)
             config['mode'] = cmode.strip('\r\n\'"')
             toremove.append(arg)
+        elif re.match(r'--?o(utput)?=.+', arg) is not None:
+            coutfolder = re.match(r'--?o(utput)?=(.+)', arg).group(2)
+            config['mode'] = coutfolder.strip('\r\n\'"')
+            toremove.append(arg)
 
     for arg in toremove:
         args.remove(arg)
