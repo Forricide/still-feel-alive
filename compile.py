@@ -127,14 +127,19 @@ def should_compile(filename, config):
         ### something like if isfile(get_output_path(filename)) etc
         return False
 
+def get_output_filename(input_filename, config):
+    mode = ModeInfo(config)
+    return input_filename + mode.ext
+
 def write_compiled(filename, contents, config):
     mode = ModeInfo(config)
-    output_path = os.path.join(os.path.normpath(config['output']), filename + mode.ext)
+    output_path = os.path.join(os.path.normpath(config['output']), get_output_filename(filename, config))
     vwrite(config, "Compiling", filename, "in mode", mode, "to output filename:\n", output_path)
     with open(output_path, 'w') as file:
         file.write(contents)
 
-def full_compile(filename, config):
+def full_compile(filename, config, numbered_chapters = None):
+    """This is called once per file being compiled."""
     if not get_f("force", config) and not should_compile(filename, config):
         vwrite(config, "Decided not to compile the file:", filename)
         return False
@@ -143,6 +148,30 @@ def full_compile(filename, config):
     if new_contents is None:
         print("Compilation failed for", filename)
         return False
+    if config['link'] and filename in numbered_chapters and ModeInfo(config).mode == Mode.HTML:
+        vwrite(config, "Generating links.")
+        gen_next = False
+        gen_prev = numbered_chapters[0] != filename
+        prevfn = None
+        nextfn = None
+        for fn in numbered_chapters:
+            if gen_next: # If the last one was the file being compiled
+                nextfn = fn
+                break
+            if fn == filename: # If this one is the file being compiled
+                gen_next = True
+            else: # If it isn't, set it to prev
+                prevfn = fn
+        link_str = ''
+        if gen_prev:
+            link_str += '<b><a href="' + get_output_filename(prevfn, config) + '">Previous</a></b>'
+            if nextfn is not None:
+                link_str += ' <b>|</b> '
+        if nextfn is not None:
+            link_str += '<b><a href="' + get_output_filename(nextfn, config) + '">Next</a></b>'
+        if len(link_str) != 0:
+            link_str = '<p>' + link_str + '</p>\n'
+            new_contents += link_str
     write_compiled(filename, new_contents, config)
     # Update the hash
     sj = get_file_as_json("status.json")
@@ -168,11 +197,20 @@ def get_ch_num(n):
         return int(n.strip("Chapter -.md.gi.html"))
     return 9999
 
+def gen_numbered_chs(filenames):
+    return [fn for fn in sort_ch_num(filenames) if is_ch(fn)]
+
 def sort_ch_num(d):
     return sorted(d, key=lambda x: get_ch_num(x))
 
 def dts(d):
     return ' '.join(d)
+
+def chapter_name(x, informat):
+    mo = re.search(informat["regex"], x)
+    if mo is None:
+        return re.match(r"[^.]+", x).group(0)
+    return informat["str"].format(mo.group(informat["n-group"]))
 
 def BuildIndex(config):
     vwrite(config, 'Building index:')
@@ -182,13 +220,21 @@ def BuildIndex(config):
         vwrite(config, 'Cancelling index as', itp, 'is not a file.')
         return
 
+    if os.path.isfile("index-format.json"):
+        informat = json.load(open("index-format.json", "r"))
+    else:
+        informat = None
+
     index = [os.path.basename(x) for x in html_files(config)]
     vwrite(config, '> Found', len(index), 'html files.')
     index = sort_ch_num(index) 
     # Removes .md.gi.html line endings. Could cause issues if a filename
     # had one of the characters being stripped here at the end of the actual
     # name. Probably would be better to just do split('.')[0], really.
-    index = [("<a href=\"" + x + "\">" + (x.rstrip(".dgihtml") if is_ch(x) else x)  + "</a>") for x in index]
+    if informat is None:
+        index = [("<a href=\"" + x + "\">" + (x.rstrip(".dgihtml") if is_ch(x) else x)  + "</a>") for x in index]
+    else:
+        index = [("<a href=\"" + x + "\">" + chapter_name(x, informat) + "</a>") for x in index]
     vwrite(config, '> Created a', len(index), 'length index.')
     itext = '<p>' + '</p>\n<p>'.join(index) + '</p>'
     with open(itp, "r") as ti:
@@ -209,7 +255,7 @@ def main(filenames, config):
         nc = 0
         tot = len(filenames)
         for filename in filenames:
-            nc += int(full_compile(filename, config))
+            nc += int(full_compile(filename, config, gen_numbered_chs(filenames)))
         if nc > 0:
             print('Successfully compiled', nc, 'file' + ('s.' if
             nc > 1 else '.'))
@@ -231,7 +277,7 @@ def validate(config):
     return config
 
 def get_config(args):
-    config = {'loaded': False}
+    config = {'loaded': False, 'link': False}
     filenames = []
     debug = False
     toremove = []
@@ -266,6 +312,9 @@ def get_config(args):
         elif re.match(r'--?o(utput)?=.+', arg) is not None:
             coutfolder = re.match(r'--?o(utput)?=(.+)', arg).group(2)
             config['output'] = coutfolder.strip('\r\n\'"')
+            toremove.append(arg)
+        elif re.match(r'--?l(ink)?', arg) is not None:
+            config['link'] = True
             toremove.append(arg)
 
     for arg in toremove:
