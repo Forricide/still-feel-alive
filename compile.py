@@ -8,8 +8,8 @@ from enum import Enum
 import re, json, glob, os
 import hashlib
 
-IGNORED_FILES = "index.html"
-OUTPUT_EXT = '.gi.html'
+IGNORED_FILES = ["index.html"] # Files that are not indexed
+OUTPUT_EXT = '.html'
 
 class Mode(Enum):
     HTML = 1
@@ -68,10 +68,11 @@ def get_def(k, d, default):
     return d[k] if k in d else default
 
 def is_true(v):
-    # This is pretty mediocre at best, but that's okay.
+    """Checks a value against multiple possible aliases to 'true'"""
     return (v==True or str(v).lower()=='true' or str(v).lower()=='t')
 
-def get_f(k, d):
+def is_true_v(k, d):
+    """Returns True if the key is in the dictionary and its value is True."""
     return (k in d and is_true(d[k]))
 
 def get_compiled(filename, config):
@@ -84,14 +85,14 @@ def get_compiled(filename, config):
         d = re.sub(r'\*\*\*([^\*]*)\*\*\*', r'<b><i>\1</i></b>', d)
         d = re.sub(r'\*\*([^\*]*)\*\*', r'<b>\1</b>', d)
         d = re.sub(r'\*([^\*]*)\*', r'<i>\1</i>', d)
-        d = re.sub(r'(.+?)(\r|\n|$)+', r'<p>\1</p>\n\n', d)
+        d = '<body>\n\n' + re.sub(r'(.+?)(\r|\n|$)+', r'<p>\1</p>\n\n', d) + '\n\n</body>\n'
     elif mode.mode == Mode.BBCode:
         d = re.sub(r'\*\*\*([^\*]*)\*\*\*', r'[b][i]\1[/i][/b]', d)
         d = re.sub(r'\*\*([^\*]*)\*\*', r'[b]\1[/b]', d)
         d = re.sub(r'\*([^\*]*)\*', r'[i]\1[/i]', d)
         d = re.sub(r'(.+?)(\r|\n|$)+', r'\1\n\n', d)
     else:
-        pass
+        warn("Mode requested:", mode, "is unsupported.")
     return d
 
 def get_file_as_json(filename):
@@ -105,12 +106,14 @@ def write_file_as_json(filename, data):
         json.dump(data, file, indent=2) 
 
 def fh(filename):
+    """Hashes the contents of a file."""
     if not os.path.isfile(filename):
         return None
     with open(filename, 'r') as file:
         return hashlib.sha1(file.read().encode('utf-8')).hexdigest()
 
 def should_compile(filename, config):
+    """Checks if the file's hash has changed since the last time it was compiled."""
     hashresult = fh(filename)
     if hashresult is not None:
         # File exists
@@ -128,19 +131,17 @@ def should_compile(filename, config):
         return False
 
 def get_output_filename(input_filename, config):
-    mode = ModeInfo(config)
-    return input_filename + mode.ext
+    return input_filename.split('.')[0] + ModeInfo(config).ext
 
 def write_compiled(filename, contents, config):
-    mode = ModeInfo(config)
     output_path = os.path.join(os.path.normpath(config['output']), get_output_filename(filename, config))
-    vwrite(config, "Compiling", filename, "in mode", mode, "to output filename:\n", output_path)
+    vwrite(config, "Compiling", filename, "in mode", ModeInfo(config), "to output filename:\n", output_path)
     with open(output_path, 'w') as file:
         file.write(contents)
 
 def full_compile(filename, config, numbered_chapters = None):
     """This is called once per file being compiled."""
-    if not get_f("force", config) and not should_compile(filename, config):
+    if not is_true_v("force", config) and not should_compile(filename, config):
         vwrite(config, "Decided not to compile the file:", filename)
         return False
     print("Compiling:", filename)
@@ -172,6 +173,9 @@ def full_compile(filename, config, numbered_chapters = None):
         if len(link_str) != 0:
             link_str = '<p>' + link_str + '</p>\n'
             new_contents += link_str
+    if config['head'] is not None:
+        with open(config['head'], 'r') as file:
+            new_contents = file.read() + new_contents
     write_compiled(filename, new_contents, config)
     # Update the hash
     sj = get_file_as_json("status.json")
@@ -194,7 +198,7 @@ def is_ch(name):
 
 def get_ch_num(n):
     if is_ch(n):
-        return int(n.strip("Chapter -.md.gi.html"))
+        return int(re.search(r"[0-9]+", n).group(0))
     return 9999
 
 def gen_numbered_chs(filenames):
@@ -232,7 +236,7 @@ def BuildIndex(config):
     # had one of the characters being stripped here at the end of the actual
     # name. Probably would be better to just do split('.')[0], really.
     if informat is None:
-        index = [("<a href=\"" + x + "\">" + (x.rstrip(".dgihtml") if is_ch(x) else x)  + "</a>") for x in index]
+        index = [("<a href=\"" + x + "\">" + (x.rstrip(".dhtml") if is_ch(x) else x)  + "</a>") for x in index]
     else:
         index = [("<a href=\"" + x + "\">" + chapter_name(x, informat) + "</a>") for x in index]
     vwrite(config, '> Created a', len(index), 'length index.')
@@ -277,7 +281,7 @@ def validate(config):
     return config
 
 def get_config(args):
-    config = {'loaded': False, 'link': False}
+    config = {'loaded': False, 'link': False, 'head': None}
     filenames = []
     debug = False
     toremove = []
@@ -315,6 +319,10 @@ def get_config(args):
             toremove.append(arg)
         elif re.match(r'--?l(ink)?', arg) is not None:
             config['link'] = True
+            toremove.append(arg)
+        elif re.match(r'--?p-h(ead)?=.+', arg) is not None:
+            chead = re.match(r'--?p-h(ead)?=(.+)', arg).group(2)
+            config['head'] = chead.strip('\r\n\'"')
             toremove.append(arg)
 
     for arg in toremove:
