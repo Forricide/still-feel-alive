@@ -90,7 +90,7 @@ def get_compiled(filename, config):
         d = re.sub(r'\*\*([^\*]*)\*\*', r'<b>\1</b>', d)
         # Italics
         d = re.sub(r'\*([^\*]*)\*', r'<i>\1</i>', d)
-        d = '<body>\n\n' + re.sub(r'(.+?)(\r|\n|$)+', r'<p>\1</p>\n\n', d) + '\n\n</body>\n'
+        d = '<body>\n\n' + re.sub(r'(.+?)(\r|\n|$)+', r'<p>\1</p>\n\n', d) + '</body>\n'
     elif mode.mode == Mode.BBCode:
         # Italics + Bold
         d = re.sub(r'\*\*\*([^\*]*)\*\*\*', r'[b][i]\1[/i][/b]', d)
@@ -290,7 +290,7 @@ def validate(config):
     return config
 
 def get_config(args):
-    config = {'loaded': False, 'link': False, 'head': None}
+    config = {'loaded': False, 'link': False, 'head': None, 'output': '.'}
     filenames = []
     debug = False
     toremove = []
