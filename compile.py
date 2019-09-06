@@ -81,15 +81,24 @@ def get_compiled(filename, config):
     with open(filename, 'r') as file:
         d = file.read()
     mode = ModeInfo(config)
+    # Inline notes
+    d = re.sub(r'\[\[([A-Z]+: )?([^\]]*)\]\]', r'\2', d)
     if mode.mode == Mode.HTML:
+        # Italics + Bold
         d = re.sub(r'\*\*\*([^\*]*)\*\*\*', r'<b><i>\1</i></b>', d)
+        # Bold
         d = re.sub(r'\*\*([^\*]*)\*\*', r'<b>\1</b>', d)
+        # Italics
         d = re.sub(r'\*([^\*]*)\*', r'<i>\1</i>', d)
         d = '<body>\n\n' + re.sub(r'(.+?)(\r|\n|$)+', r'<p>\1</p>\n\n', d) + '\n\n</body>\n'
     elif mode.mode == Mode.BBCode:
+        # Italics + Bold
         d = re.sub(r'\*\*\*([^\*]*)\*\*\*', r'[b][i]\1[/i][/b]', d)
+        # Bold
         d = re.sub(r'\*\*([^\*]*)\*\*', r'[b]\1[/b]', d)
+        # Italics
         d = re.sub(r'\*([^\*]*)\*', r'[i]\1[/i]', d)
+        # Newlines? Seems to remove any number of newline characters and replace with exactly 2 \n
         d = re.sub(r'(.+?)(\r|\n|$)+', r'\1\n\n', d)
     else:
         warn("Mode requested:", mode, "is unsupported.")
